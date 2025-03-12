@@ -1,0 +1,3707 @@
+[
+    {
+        "id": 0,
+        "category": 4,
+        "measure": "Absolute Mobility Measure \u2013 specifically, the percentage of children earning more than their parents"
+    },
+    {
+        "id": 5,
+        "category": 3,
+        "measure": "Empirical transition matrices derived from square contingency tables"
+    },
+    {
+        "id": 6,
+        "category": 1,
+        "measure": "County-level intergenerational income rank association (rank-rank slope)"
+    },
+    {
+        "id": 7,
+        "category": 1,
+        "measure": "Multivariate regression coefficients estimating differences across mobility categories (upward, stable disadvantage, downward)"
+    },
+    {
+        "id": 8,
+        "category": 4,
+        "measure": "Absolute upward income mobility rates (with supplemental decomposition analysis)"
+    },
+    {
+        "id": 9,
+        "category": 3,
+        "measure": "Income quintile transition probabilities (transition matrix) measure"
+    },
+    {
+        "id": 11,
+        "category": 4,
+        "measure": "Absolute income mobility (estimated using copula and marginals approximation methods)"
+    },
+    {
+        "id": 14,
+        "category": 4,
+        "measure": "Absolute Mobility Measure (Percentage of children earning higher real income than their parents at the same age)"
+    },
+    {
+        "id": 16,
+        "category": 1,
+        "measure": "The paper employs a regression\u2010based measure\u2014namely, the Intergenerational Elasticity (IGE) for income persistence (with coefficients between 0.63\u20130.76)\u2014as well as an absolute mobility measure that reports upward mobility probabilities (e.g. the chances of moving from no formal education to higher education, 46% in Peru vs. 20% in Chile)."
+    },
+    {
+        "id": 18,
+        "category": 8,
+        "measure": "Not specified; insufficient detail in the abstract to determine the exact measure used"
+    },
+    {
+        "id": 19,
+        "category": 1,
+        "measure": "Regression and correlation coefficients (e.g., an elasticity\u2010type measure of persistence) and Mobility Matrices (transition probability measures)"
+    },
+    {
+        "id": 21,
+        "category": 4,
+        "measure": "Absolute income mobility estimate (percentage of individuals with higher income than their parents)"
+    },
+    {
+        "id": 22,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) for income and the intergenerational occupational correlation for occupation"
+    },
+    {
+        "id": 26,
+        "category": 1,
+        "measure": "It appears the paper uses regression\u2010based estimates of intergenerational mobility \u2013 essentially intergenerational elasticities (IGE) for income and for education \u2013 to capture the mobility measures."
+    },
+    {
+        "id": 27,
+        "category": 4,
+        "measure": "The paper reports experimental estimates of the absolute differences in lifetime earnings and education between generations as a result of a mobility shock (i.e. absolute mobility effects using an exogenous, volcanic shock)."
+    },
+    {
+        "id": 28,
+        "category": 8,
+        "measure": "extended Atkinson indices"
+    },
+    {
+        "id": 29,
+        "category": 1,
+        "measure": "Coefficient estimate from a logistic regression model assessing the effect of a one unit increase in the natural logarithm of adult family income on the probability of low birthweight."
+    },
+    {
+        "id": 30,
+        "category": 8,
+        "measure": "The paper uses subjective measures derived from survey responses capturing beliefs in generational mobility (the tunnel effect), procedural fairness in economic success, and the existence of a middle\u2010class society. These are not standard mobility indices such as IGE or transition matrices."
+    },
+    {
+        "id": 31,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 33,
+        "category": 1,
+        "measure": "Earnings premium estimated via regression analysis (e.g. difference in earnings between club members and non-members using random assignment variation)"
+    },
+    {
+        "id": 35,
+        "category": 1,
+        "measure": "Regression\u2010based Estimates (using controlled regressions to assess differences in occupational outcomes and incomes)"
+    },
+    {
+        "id": 37,
+        "category": 1,
+        "measure": "The paper uses a regression\u2010based measure \u2013 essentially the intergenerational regression slope (akin to an intergenerational elasticity, here estimated at 0.5 per one\u2010point increase on a socioeconomic index) \u2013 along with an absolute mobility measure (the percentage of individuals upwardly mobile by cohort)."
+    },
+    {
+        "id": 38,
+        "category": 1,
+        "measure": "Regression estimates capturing the effect of cultural consumption on future earnings, upward social mobility, and promotions"
+    },
+    {
+        "id": 39,
+        "category": 4,
+        "measure": "Absolute Mobility Measure (the probability that a child earns more than his/her parents)"
+    },
+    {
+        "id": 40,
+        "category": 1,
+        "measure": "The paper reports both reduced\u2010form estimates of intergenerational income transmission\u2014akin to computing an intergenerational elasticity (as captured by the Gatsby Curve)\u2014and complements these with structural decomposition evidence. In effect, the mobility estimates are obtained via regression\u2010based methods (category 1) with additional structural (category 6) model analysis."
+    },
+    {
+        "id": 41,
+        "category": 1,
+        "measure": "The abstract indicates a regression\u2010based measure of income mobility, most likely the estimation of intergenerational elasticity or income persistence."
+    },
+    {
+        "id": 42,
+        "category": 3,
+        "measure": "Transition probabilities (mobility chances)"
+    },
+    {
+        "id": 43,
+        "category": 4,
+        "measure": "Class pay gap measured as the absolute difference in annual earnings between individuals from different parental class backgrounds"
+    },
+    {
+        "id": 44,
+        "category": 3,
+        "measure": "Income mobility defined as transitions in parental income quintiles (from birth to age 15) assessed via the differences in quintile membership, with associated hazard ratios from Cox regression."
+    },
+    {
+        "id": 45,
+        "category": 8,
+        "measure": "The study does not extract a traditional intergenerational mobility measure (e.g. IGE or rank\u2010based indicators) but rather reports causal impact estimates\u2014using a quasi\u2010experimental approach of early life pneumonia exposure\u2014on adult outcomes including income mobility. Hence it is best categorized as \u2018Others\u2019 with the measure being the causal effect estimate on economic mobility."
+    },
+    {
+        "id": 49,
+        "category": 4,
+        "measure": "Absolute Mobility Measures \u2013 the study uses average outcome differences (mean income, years of employment, criminality, and mental health) to assess intergenerational mobility"
+    },
+    {
+        "id": 51,
+        "category": 1,
+        "measure": "Incidence Rate Ratios (IRRs) estimated via conditional logistic regression."
+    },
+    {
+        "id": 52,
+        "category": 8,
+        "measure": "Not explicitly specified in the abstract"
+    },
+    {
+        "id": 53,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 54,
+        "category": 1,
+        "measure": "Regression\u2010based Measures (analyzing intergenerational earnings via regression \u2013 for instance, comparisons akin to an extended intergenerational elasticity framework across three generations)"
+    },
+    {
+        "id": 55,
+        "category": 1,
+        "measure": "Multiple regression analyses estimating the impact of entrepreneurship on college selectivity, professional occupation attainment, and earnings."
+    },
+    {
+        "id": 56,
+        "category": 8,
+        "measure": "The abstract does not specify a particular measure; it is a literature survey that reviews multiple measurement methods related to intergenerational income mobility."
+    },
+    {
+        "id": 57,
+        "category": 2,
+        "measure": "Social gradient in labor market outcomes based on parents' earnings rank"
+    },
+    {
+        "id": 59,
+        "category": 8,
+        "measure": "Repeated\u2010measures latent class analysis of economic hardship trajectories"
+    },
+    {
+        "id": 60,
+        "category": 8,
+        "measure": "The study operationalizes mobility as upward and downward income mobility indicators (i.e. whether an individual\u2019s income is higher or lower relative to their parents\u2019), without specifying a conventional model\u2010based measure such as an IGE or transition matrix."
+    },
+    {
+        "id": 61,
+        "category": 1,
+        "measure": "The paper employs an OLS\u2010based approach to quantify the degree of association between parental and offspring income (akin to an Intergenerational Income Elasticity measure) and also reports an Average Absolute Income Gap for Scheduled Tribe children (an Absolute Mobility Measure)"
+    },
+    {
+        "id": 62,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) \u2013 the elasticity of a child's income with respect to parent's educational investment"
+    },
+    {
+        "id": 64,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 65,
+        "category": 6,
+        "measure": "A structural model of intergenerational income mobility that explicitly incorporates multistage human capital development, differentiating cognitive and non\u2010cognitive skills, as well as factors like parenting skills and public education quality."
+    },
+    {
+        "id": 66,
+        "category": 3,
+        "measure": "Transition Matrix / Probability Measures (i.e., Transition Probabilities)"
+    },
+    {
+        "id": 67,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 68,
+        "category": 5,
+        "measure": "Three\u2010generation immigrant earnings mobility curve"
+    },
+    {
+        "id": 70,
+        "category": 4,
+        "measure": "Upward income mobility measured in absolute terms \u2013 for example, the estimated 20% increase in adult earnings for children from low\u2010SES families if they experienced economic connectedness (defined as the fraction of high\u2010SES friends among low\u2010SES individuals) comparable to that of high\u2010SES children"
+    },
+    {
+        "id": 71,
+        "category": 1,
+        "measure": "Odds Ratios estimated via logistic regression"
+    },
+    {
+        "id": 72,
+        "category": 8,
+        "measure": "Electoral District\u2010Level Upward Mobility"
+    },
+    {
+        "id": 73,
+        "category": 8,
+        "measure": "No identifiable measure mentioned (insufficient abstract content)"
+    },
+    {
+        "id": 74,
+        "category": 1,
+        "measure": "Relative risk estimates from regression models linking unit increases in income mobility (Black and White income mobility) to changes in firearm incident rates."
+    },
+    {
+        "id": 76,
+        "category": 4,
+        "measure": "Subjective absolute mobility measure (self-reported standard of living relative to one's parents)"
+    },
+    {
+        "id": 77,
+        "category": 1,
+        "measure": "Regression coefficients (e.g., estimates from logistic or linear regression models) that quantify the influence of extended family resources (grandparents, aunts, and uncles) on outcomes such as completing upper secondary education and avoiding low pay."
+    },
+    {
+        "id": 78,
+        "category": 1,
+        "measure": "Estimated grandparent coefficient (a regression\u2010based measure of three\u2010generation association)"
+    },
+    {
+        "id": 79,
+        "category": 8,
+        "measure": "The paper uses two types of measures. First, a relative economic mobility measure\u2014where respondents estimate the probabilities of moving upward or downward along the income distribution (which fits the Transition Matrix / Probability Measures, category 3). Second, an absolute mobility measure\u2014that is, whether children out\u2010earn their parents for each parental income quintile (which fits Absolute Mobility Measures, category 4)."
+    },
+    {
+        "id": 80,
+        "category": 8,
+        "measure": "The study does not specify a formal mobility measure (e.g., an intergenerational elasticity or transition matrix) but instead uses data from the Great British Class Survey to explore associations between nurses\u2019 social origins, their accumulation of economic, social, and cultural capital, and income outcomes. This falls outside the predefined categories."
+    },
+    {
+        "id": 81,
+        "category": 1,
+        "measure": "Threshold regression models detecting nonlinear threshold effects and status traps in intergenerational mobility"
+    },
+    {
+        "id": 82,
+        "category": 1,
+        "measure": "The paper uses regression\u2010based measures, estimating the relationship (regression coefficients) between parental socioeconomic status/education and offspring earnings and occupational status (a form of intergenerational elasticity measure)."
+    },
+    {
+        "id": 83,
+        "category": 8,
+        "measure": "The study does not specify a standard intergenerational mobility measure (e.g., IGE, rank\u2010based measures). Instead, it uses key socioeconomic indicators (education, occupation, income, poverty rates) in a descriptive quantitative analysis."
+    },
+    {
+        "id": 84,
+        "category": 1,
+        "measure": "Class-origin pay penalty estimated via regression coefficients (earnings difference controlling for education, race, etc.)"
+    },
+    {
+        "id": 85,
+        "category": 1,
+        "measure": "Regression-based coefficient estimating the association between mothers' income and children's upward mobility (with differentiated effects by gender)."
+    },
+    {
+        "id": 86,
+        "category": 4,
+        "measure": "Absolute Mobility Measures (with a discussion contrasting them with relative mobility measures)"
+    },
+    {
+        "id": 90,
+        "category": 1,
+        "measure": "Class\u2010origin earnings differential (regression-based estimation of the pay gap)"
+    },
+    {
+        "id": 91,
+        "category": 6,
+        "measure": "Path model estimating the variance decomposition of earnings (including direct and indirect effects via education and occupation) and social distance (the occupational gap between father and son)"
+    },
+    {
+        "id": 92,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regression models"
+    },
+    {
+        "id": 95,
+        "category": 8,
+        "measure": "Clusters of Opportunity Atlas outcomes via a k\u2010means clustering algorithm (a composite index of social mobility opportunity)"
+    },
+    {
+        "id": 96,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) \u2013 a regression\u2010based estimate of the association between parental background (or educational achievement) and child income mobility"
+    },
+    {
+        "id": 97,
+        "category": 1,
+        "measure": "Andersens education mobility measure"
+    },
+    {
+        "id": 98,
+        "category": 1,
+        "measure": "The paper appears to use regression\u2010based measures\u2014assessing relationships between parental education/income and children\u2019s cognitive outcomes (for example, through a correlation or slope akin to an intergenerational elasticity estimate)."
+    },
+    {
+        "id": 99,
+        "category": 3,
+        "measure": "Transition probabilities \u2013 specifically, the paper estimates the probability of moving from one SES quartile (e.g., from the lowest to the highest) and examines differences in baccalaureate attainment rates by academic ability and family SES"
+    },
+    {
+        "id": 101,
+        "category": 1,
+        "measure": "The paper uses regression\u2010based measures, specifically the regression coefficient estimating the effect (difference of approximately $14,000/year) of parental supervision on later household income."
+    },
+    {
+        "id": 104,
+        "category": 4,
+        "measure": "Intergenerational occupational mobility measured as the difference between the research person\u2019s HISCAM score and the father\u2019s HISCAM score"
+    },
+    {
+        "id": 105,
+        "category": 3,
+        "measure": "The measure is based on transition probabilities \u2013 specifically, the paper uses a transition matrix or probability measure to assess the persistence of low-income status from one generation (or early childhood) to later childhood."
+    },
+    {
+        "id": 106,
+        "category": 1,
+        "measure": "The paper appears to estimate mobility using regression\u2010based methods (i.e. estimating the relation between parental and child outcomes, often interpreted as an intergenerational elasticity type measure) while also comparing the proportion of children below fixed income (median\u2010based) poverty thresholds."
+    },
+    {
+        "id": 111,
+        "category": 1,
+        "measure": "Regression\u2010based Estimates (causal effect estimates using historical assignment as an instrumental variable)"
+    },
+    {
+        "id": 112,
+        "category": 1,
+        "measure": "The paper employs regression\u2010based estimates\u2014in particular, difference\u2010in\u2010differences (and triple\u2010difference) coefficients that capture the effect of exposure on long\u2010term incomes and upward mobility outcomes."
+    },
+    {
+        "id": 113,
+        "category": 3,
+        "measure": "Shorrocks (1978a) mobility index"
+    },
+    {
+        "id": 116,
+        "category": 1,
+        "measure": "Regression estimates of outcomes such as average annual income\u2010to\u2010poverty ratios, economic mobility, duration in poverty, and receipt of social safety net benefits (Food Stamps, TANF/AFDC)"
+    },
+    {
+        "id": 117,
+        "category": 1,
+        "measure": "The study appears to use regression\u2010based measures\u2014estimating the transmission of poverty (a type of intergenerational elasticity in income or poverty status) using predictors such as education, nonfarm income, and migration status."
+    },
+    {
+        "id": 118,
+        "category": 4,
+        "measure": "Absolute Income Mobility Estimates"
+    },
+    {
+        "id": 122,
+        "category": 8,
+        "measure": "Human Development Index (HDI) used as a comprehensive indicator of individual social status (dynamic mobility measured using changes in HDI)"
+    },
+    {
+        "id": 124,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 125,
+        "category": 1,
+        "measure": "Regression\u2010based estimates (cousin fixed effects regression coefficient capturing the association between multi-generational neighborhood disadvantage and income)"
+    },
+    {
+        "id": 127,
+        "category": 5,
+        "measure": "Multigenerational mobility estimates using regression\u2010based coefficients on socioeconomic and cultural proxies (e.g., education, occupation, samurai ancestry)"
+    },
+    {
+        "id": 128,
+        "category": 8,
+        "measure": "The paper does not report a canonical mobility measure like the intergenerational elasticity, rank\u2010based mobility, or a transition matrix. Instead, it uses a set of county\u2010level indicators\u2014such as household income, college graduation, incarceration, and marriage outcomes for men from low\u2010income families\u2014along with county measures of concentrated disadvantage (e.g., poverty rate, racial segregation, job growth rate, etc.) to assess upward mobility. This collection of indicators does not neatly fall into one of the standard categories, so it is best classified as \u2018Others.\u2019"
+    },
+    {
+        "id": 129,
+        "category": 1,
+        "measure": "Status Attainment Model (regression\u2010based approach)"
+    },
+    {
+        "id": 130,
+        "category": 1,
+        "measure": "Estimates from discrete time event history models (hazard/odds ratios for elite entry)"
+    },
+    {
+        "id": 131,
+        "category": 8,
+        "measure": "Gini coefficient"
+    },
+    {
+        "id": 133,
+        "category": 4,
+        "measure": "The study employs an absolute mobility measure by reporting the percentage (63%) of sons earning higher wages than their fathers, while also referring to relative income mobility (though the exact measure for this is not further specified)."
+    },
+    {
+        "id": 136,
+        "category": 3,
+        "measure": "Transition probabilities (intergenerational transition matrices)"
+    },
+    {
+        "id": 137,
+        "category": 6,
+        "measure": "Intergenerational Income Elasticity (IGE) decomposed into human capital and financial components via a structural model"
+    },
+    {
+        "id": 140,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE), capturing the regression\u2010based persistence of income across generations"
+    },
+    {
+        "id": 144,
+        "category": 7,
+        "measure": "Generalized concentration curve (dynamic fairness measure)"
+    },
+    {
+        "id": 145,
+        "category": 1,
+        "measure": "The study uses regression\u2010based measures, likely estimating intergenerational elasticities in both education attainment (as a proxy via social origin effects) and adult income, including non-linear specifications."
+    },
+    {
+        "id": 148,
+        "category": 4,
+        "measure": "Absolute Mobility Measures (e.g., comparisons in education attainment, occupational status, and income between generations)"
+    },
+    {
+        "id": 149,
+        "category": 8,
+        "measure": "A theoretical structural model of intergenerational inequality via reference group dynamics (no standard mobility measure like IGE or transition matrices)"
+    },
+    {
+        "id": 152,
+        "category": 3,
+        "measure": "Estimated probability of educational transition (i.e. the likelihood of rural youths gaining admission to college and senior high school)"
+    },
+    {
+        "id": 153,
+        "category": 8,
+        "measure": "Qualitative narrative-based alternative definitions of social mobility rather than a formal quantitative measure."
+    },
+    {
+        "id": 154,
+        "category": 8,
+        "measure": "Economic Connectedness (EC), Average Credit Score, and Friending Bias Measure"
+    },
+    {
+        "id": 156,
+        "category": 1,
+        "measure": "Adjusted differences from regression-based models (examining net and gross effects of parental class, ethno\u2010gender combinations, and confounding factors)"
+    },
+    {
+        "id": 158,
+        "category": 1,
+        "measure": "Regression\u2010based estimate of the diminishing education effect on income attainments across generations"
+    },
+    {
+        "id": 159,
+        "category": 8,
+        "measure": "Educational attainment, salary income, employment status, and occupation comparisons (descriptive absolute measures of socioeconomic status)"
+    },
+    {
+        "id": 160,
+        "category": 4,
+        "measure": "Absolute Mobility Measure, based on income/employability gains relative to parental status"
+    },
+    {
+        "id": 161,
+        "category": 8,
+        "measure": "The abstract does not specify a particular mobility measure (e.g., IGE, transition matrices, or rank\u2010based statistics); it employs unspecified empirical methods to assess how educational attainment within family structures affects socioeconomic mobility, earning potential, and overall financial well-being."
+    },
+    {
+        "id": 163,
+        "category": 3,
+        "measure": "Transition Matrix / Probability Measures \u2013 specifically, the probabilities of being in a given income quintile conditional on parental income quintile membership."
+    },
+    {
+        "id": 166,
+        "category": 1,
+        "measure": "Regression-based measures (regression analysis of wage returns linking current outcomes with past occupational and intergenerational data)"
+    },
+    {
+        "id": 170,
+        "category": 5,
+        "measure": "Multigenerational measures (tracking estates, marital alliances, and symbolic capital across multiple generations)"
+    },
+    {
+        "id": 171,
+        "category": 3,
+        "measure": "Transition Matrix / Probability Measures (using social probabilities for college entry and labor market entry)"
+    },
+    {
+        "id": 174,
+        "category": 1,
+        "measure": "The studies rely on regression\u2010based estimates\u2014for instance, instrumental variable/regression discontinuity estimates that quantify causal effects such as the roughly 12\u2010percentage point increase in children\u2019s DI participation when parents receive a more lenient judge. Similar regression\u2010based approaches are used to estimate life\u2010cycle returns to schooling and peer effects on program participation."
+    },
+    {
+        "id": 175,
+        "category": 8,
+        "measure": "The paper does not report a canonical intergenerational mobility measure such as an intergenerational elasticity or a rank\u2010based mobility rate. Instead, it uses naturally occurring quasi\u2010experiments\u2014a set of counterfactual simulations on firm entry and productivity in the cartel chapters and, crucially, a causal displacement design based on forced relocation\u2014to estimate treatment effects on long\u2010term and intergenerational outcomes (education, mortality, income, and crime)."
+    },
+    {
+        "id": 176,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and Quantile Regressions"
+    },
+    {
+        "id": 178,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE) estimated via regression models"
+    },
+    {
+        "id": 179,
+        "category": 1,
+        "measure": "The paper uses two distinct mobility measures: one is the father\u2013son income correlation (a regression\u2010based measure, akin to the intergenerational elasticity approach) and the other is a transition matrix that tracks children born in the bottom income quintile to their adult quintile positions (a probability/transition matrix measure)."
+    },
+    {
+        "id": 181,
+        "category": 4,
+        "measure": "Absolute Mobility Measures \u2013 using indicators of upward mobility, incidences of upward wealth and income mobility, and dispersion measures of accumulated wealth and income levels."
+    },
+    {
+        "id": 182,
+        "category": 6,
+        "measure": "Intergenerational Mobility Index (IMI) and its decomposition"
+    },
+    {
+        "id": 184,
+        "category": 3,
+        "measure": "Quartile father\u2010child earnings transition matrices; non\u2010parametric regressions (i.e., measures that fall under Transition Matrix / Probability Measures and Non\u2010parametric Approaches)"
+    },
+    {
+        "id": 186,
+        "category": 3,
+        "measure": "Intergenerational Transition Matrix"
+    },
+    {
+        "id": 187,
+        "category": 4,
+        "measure": "The study reports an Absolute Mobility Measure (e.g. the share of individuals whose family income exceeds that of their parents, as indicated by the 84% figure) and also reports results akin to a Transition Matrix / Probability Measure (evidenced by the persistence rates in income quintiles, such as over 40% remaining in the bottom quintile)."
+    },
+    {
+        "id": 188,
+        "category": 1,
+        "measure": "Regression\u2010based estimates \u2013 specifically, the mean effect of entrepreneurial activity on individual income and upward intergenerational wealth mobility"
+    },
+    {
+        "id": 189,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regression (with decomposition of mediating factors)"
+    },
+    {
+        "id": 190,
+        "category": 6,
+        "measure": "Steady State Effects from a Structural Quantitative Model of Intergenerational Earnings Mobility"
+    },
+    {
+        "id": 192,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 193,
+        "category": 8,
+        "measure": "Informative Content of Surnames"
+    },
+    {
+        "id": 194,
+        "category": 3,
+        "measure": "Transition probabilities measuring the likelihood that children remain in the same education category as their parents"
+    },
+    {
+        "id": 197,
+        "category": 3,
+        "measure": "Transition probability measure (the probability of upward mobility from various points in the income distribution)"
+    },
+    {
+        "id": 198,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via a generalized errors\u2010in\u2010variables model"
+    },
+    {
+        "id": 199,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE)"
+    },
+    {
+        "id": 200,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 201,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 202,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated using regression methods (including quantile regression)"
+    },
+    {
+        "id": 203,
+        "category": 1,
+        "measure": "Intergenerational association typically estimated via regression-based approaches (e.g., intergenerational elasticity)"
+    },
+    {
+        "id": 204,
+        "category": 3,
+        "measure": "Transition probability measure \u2013 e.g., the persistence rate of bottom quartile status; and an absolute mobility measure \u2013 the income gap (\u224840%) between offspring with fathers in the top versus bottom deciles"
+    },
+    {
+        "id": 205,
+        "category": 8,
+        "measure": "Model\u2010based characterization of the wealth distribution dynamics\u2014including the Pareto tail properties, the effects of capital income and estate taxes on wealth inequality, and the impact of exogenously varied social mobility\u2014without explicit use of conventional mobility measures."
+    },
+    {
+        "id": 208,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (estimated via OLS/IV regressions) and an Inequality of Opportunity Index computed for mandatory/non\u2010mandatory education"
+    },
+    {
+        "id": 210,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 211,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE)"
+    },
+    {
+        "id": 212,
+        "category": 3,
+        "measure": "Intergenerational mobility probabilities \u2013 the upward and downward mobility probabilities that determine children\u2019s ability to attain sufficient entrepreneurial wealth as derived from the structural model"
+    },
+    {
+        "id": 213,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regression analysis"
+    },
+    {
+        "id": 214,
+        "category": 6,
+        "measure": "Decomposition / Structural Approaches, using channel decomposition to identify the contributions of human capital, social capital, and wealth."
+    },
+    {
+        "id": 215,
+        "category": 1,
+        "measure": "The paper employs regression\u2010based measures, primarily estimating the impact of family\u2010background characteristics on intergenerational transmission (often captured as regression coefficients such as an intergenerational elasticity type measure) within a static labor supply model."
+    },
+    {
+        "id": 216,
+        "category": 1,
+        "measure": "Regression\u2010based estimates of the effect of parental income at different childhood periods on individual outcomes (a period-specific intergenerational elasticity or timing elasticity)"
+    },
+    {
+        "id": 218,
+        "category": 1,
+        "measure": "Residual effects captured via regression analysis (akin to estimating intergenerational elasticity or regression\u2010based returns to education)"
+    },
+    {
+        "id": 219,
+        "category": 1,
+        "measure": "Econometric regression estimates that capture the relationship between current asset positions, credit receipt probabilities, and the effects of inherited wealth on intergenerational mobility"
+    },
+    {
+        "id": 220,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and Relative Risk of Poverty"
+    },
+    {
+        "id": 221,
+        "category": 8,
+        "measure": "novel intergenerational mobility measure developed by Guell, Rodriguez Mora, and collaborators"
+    },
+    {
+        "id": 222,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 223,
+        "category": 2,
+        "measure": "The study employs two measures. One is the traditional transition probability of movement across income quantiles\u2014which falls under Transition Matrix/Probability Measures (Category 3)\u2014and the other is a direct upward mobility measure defined as the probability that an adult child\u2019s relative rank exceeds that of the parents, a Rank\u2010based Measure (Category 2)."
+    },
+    {
+        "id": 224,
+        "category": 1,
+        "measure": "Regression\u2010based measures (i.e. model estimates such as regression coefficients estimating the association between parental wealth/home equity and the likelihood of upward or downward mobility)"
+    },
+    {
+        "id": 225,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via OLS, panel Fixed Effects and First Differences, along with rank\u2010order IV and conditional second moments estimators"
+    },
+    {
+        "id": 226,
+        "category": 1,
+        "measure": "Income\u2010persistence coefficients, asset persistence estimates, and income differential estimates"
+    },
+    {
+        "id": 227,
+        "category": 1,
+        "measure": "The paper uses regression\u2010based measures, likely estimating intergenerational elasticities in education and income (and assessing differential returns to education) to quantify mobility."
+    },
+    {
+        "id": 230,
+        "category": 6,
+        "measure": "social mobility analysis focusing on structural processes such as residential segregation, educational segmentation, and labour market segmentation"
+    },
+    {
+        "id": 231,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 233,
+        "category": 1,
+        "measure": "R\u00b2 from intergenerational earnings/income regressions (indicative of Intergenerational Elasticity)"
+    },
+    {
+        "id": 234,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) and Relative Mobility estimated via Structural Quantile Regression (the IGE is a regression\u2010based measure [Category 1] while the relative mobility measure is estimated using a structural approach [Category 6])"
+    },
+    {
+        "id": 238,
+        "category": 1,
+        "measure": "Regression coefficients estimating the effect of parental wealth on outcomes (with mediation analysis distinguishing direct vs. indirect effects)"
+    },
+    {
+        "id": 240,
+        "category": 1,
+        "measure": "Regression\u2010based Measures (e.g., intergenerational elasticity estimated via regression to the mean models and quantile regression)"
+    },
+    {
+        "id": 241,
+        "category": 1,
+        "measure": "Regression\u2010based measure (likely Intergenerational Elasticity estimated via regression analysis)"
+    },
+    {
+        "id": 242,
+        "category": 6,
+        "measure": "Path Models of Intergenerational Mobility (including structural decomposition using heritability estimates of IQ)"
+    },
+    {
+        "id": 243,
+        "category": 1,
+        "measure": "Intergenerational Earnings Correlation (regression\u2010based estimate)"
+    },
+    {
+        "id": 244,
+        "category": 1,
+        "measure": "social mobility index, intergenerational schooling mobility index, sibling correlation index"
+    },
+    {
+        "id": 245,
+        "category": 6,
+        "measure": "Stratum\u2010specific immobility and vertical mobility parameters estimated from log\u2010linear and log\u2010multiplicative models"
+    },
+    {
+        "id": 246,
+        "category": 3,
+        "measure": "Transition Matrix / Probability Measures (quintile transition probabilities)"
+    },
+    {
+        "id": 248,
+        "category": 4,
+        "measure": "Absolute Mobility Measures (with discussion of relative mobility rates, though no specific regression\u2010based index such as the IGE is distinguished)"
+    },
+    {
+        "id": 250,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 251,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 253,
+        "category": 4,
+        "measure": "Net Economic Mobility (long\u2010run absolute levels of wealth and proportion of skilled population)"
+    },
+    {
+        "id": 254,
+        "category": 6,
+        "measure": "Decomposition of intergenerational mobility by channel (e.g., decomposing the impact of parental income on offspring education, occupation, and other characteristics)"
+    },
+    {
+        "id": 255,
+        "category": 7,
+        "measure": "Conditional income distribution function-based opportunity inequality measure estimated using an axiomatic approach with nonparametric local logistic regression (and TSIV identification)"
+    },
+    {
+        "id": 257,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IIE)"
+    },
+    {
+        "id": 258,
+        "category": 4,
+        "measure": "Absolute Mobility Measures \u2013 specifically, changes in household disposable equivalent income and changes in the socioeconomic status of the household head"
+    },
+    {
+        "id": 260,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 261,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 262,
+        "category": 3,
+        "measure": "Inter-generational Mobility Matrix (transition probability measures)"
+    },
+    {
+        "id": 263,
+        "category": 1,
+        "measure": "The evidence points to regression\u2010based measures such as the intergenerational elasticity (IGE) estimates, as the discussion centers on the association (and its nonlinearity) between parent and child earnings/income, while also contrasting these with occupational mobility measures."
+    },
+    {
+        "id": 264,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 265,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 266,
+        "category": 7,
+        "measure": "Nonparametric bounds estimates for intergenerational elasticity (IGE)"
+    },
+    {
+        "id": 267,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regression\u2010based approaches"
+    },
+    {
+        "id": 268,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated via IV regression and a Difference-in-Differences (DID) estimate for the policy effect"
+    },
+    {
+        "id": 269,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 270,
+        "category": 3,
+        "measure": "Transition Matrix / Probability Measures (e.g., quintile transition rates)"
+    },
+    {
+        "id": 271,
+        "category": 3,
+        "measure": "Upward wealth mobility probabilities estimated via a simulation model"
+    },
+    {
+        "id": 272,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and regression\u2010based indices of intergenerational income transmission"
+    },
+    {
+        "id": 274,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and Asymmetric Intergenerational Transition Rates (transition matrix based measure)"
+    },
+    {
+        "id": 275,
+        "category": 6,
+        "measure": "Structural parameters (degree of inheritability and propensity to invest in children) used within a model to assess intergenerational mobility"
+    },
+    {
+        "id": 276,
+        "category": 3,
+        "measure": "Intergenerational occupational transition probabilities derived from a transition matrix approach"
+    },
+    {
+        "id": 277,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 278,
+        "category": 6,
+        "measure": "Path Analysis (Path Models of Intergenerational Mobility)"
+    },
+    {
+        "id": 279,
+        "category": 1,
+        "measure": "Quantile regression estimates of the intergenerational earnings effect (with supplemental nonparametric conditional density curve estimates)"
+    },
+    {
+        "id": 280,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) \u2013 estimated via regression models, with a further decomposition analysis of its components"
+    },
+    {
+        "id": 281,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) for income and education"
+    },
+    {
+        "id": 284,
+        "category": 3,
+        "measure": "Occupational mobility matrices (transition matrices) and correlation coefficients measuring intergenerational mobility"
+    },
+    {
+        "id": 285,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regressions on parent-child earnings and occupational status"
+    },
+    {
+        "id": 289,
+        "category": 1,
+        "measure": "Alternative indicator of intergenerational income mobility using a random coefficient model (an alternative to the standard intergenerational elasticity measure)"
+    },
+    {
+        "id": 290,
+        "category": 1,
+        "measure": "The study employs regression\u2010based measures (regression and correlation coefficients, potentially reflecting something like an intergenerational elasticity) as well as transition matrix/probability measures (transition matrices)."
+    },
+    {
+        "id": 291,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 292,
+        "category": 5,
+        "measure": "Multigenerational wealth accumulation measures (using regression\u2010based estimations across generations)"
+    },
+    {
+        "id": 294,
+        "category": 3,
+        "measure": "The paper primarily reports intergenerational mobility using transition probabilities (i.e. a transition matrix for educational and occupational outcomes), complemented by regression\u2010based approaches (ordered logits) to assess the impact of parental education and occupation."
+    },
+    {
+        "id": 295,
+        "category": 2,
+        "measure": "Directional rank mobility measures and transition probabilities (the study employs rank\u2010based measures as well as transition matrix/probability measures)"
+    },
+    {
+        "id": 296,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated via regression analysis"
+    },
+    {
+        "id": 297,
+        "category": 6,
+        "measure": "Model\u2010based estimates that decompose how children\u2019s earnings respond to human capital investments by accounting for differing genetic endowments"
+    },
+    {
+        "id": 298,
+        "category": 1,
+        "measure": "Earnings Elasticity (IGE)"
+    },
+    {
+        "id": 299,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 301,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated from a log\u2010linear relationship, where a doubling in father\u2019s wealth corresponds to 1.45 times the average offspring wealth"
+    },
+    {
+        "id": 303,
+        "category": 8,
+        "measure": "The paper does not use a standard off\u2010the-shelf mobility measure (like IGE, rank\u2010based slopes, or transition probabilities) but rather develops a structural parameter of income mobility within a cross\u2010national overlapping generations model. This can be seen as a model\u2010generated (or structural) income mobility parameter, which does not neatly fall into one of the standard categories."
+    },
+    {
+        "id": 304,
+        "category": 1,
+        "measure": "Regression coefficient (Intergenerational Elasticity, IGE)"
+    },
+    {
+        "id": 306,
+        "category": 1,
+        "measure": "The paper computes intergenerational occupational mobility using a regression\u2010based approach (pooled logit regressions) to estimate both gross mobility (observed occupational flows) and net mobility (after decomposing out structural change)."
+    },
+    {
+        "id": 311,
+        "category": 8,
+        "measure": "Share of women among the very wealthy as a proxy for dynastic/inherited wealth"
+    },
+    {
+        "id": 312,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regression models linking parental income/social class to educational and labour market outcomes"
+    },
+    {
+        "id": 313,
+        "category": 8,
+        "measure": "Gini coefficient (used to gauge income inequality) and an unspecified mobility index (reported as Spain\u2019s degree of intergenerational mobility relative to Italy and the United States)"
+    },
+    {
+        "id": 315,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 317,
+        "category": 1,
+        "measure": "Causal effect estimates (treatment effects from regression analysis on GCSE attainment and wages)"
+    },
+    {
+        "id": 318,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 319,
+        "category": 8,
+        "measure": "Bias\u2010corrected retrospective mobility measure"
+    },
+    {
+        "id": 321,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 322,
+        "category": 4,
+        "measure": "Estimates of social gains and losses constructed from work\u2010life earnings profiles"
+    },
+    {
+        "id": 323,
+        "category": 1,
+        "measure": "The study appears to use a regression\u2010based mobility measure \u2013 for example, estimating intergenerational mobility via a regression approach (such as an intergenerational elasticity estimate) that captures the relationship between parental characteristics (income and education) and children\u2019s educational attainment."
+    },
+    {
+        "id": 325,
+        "category": 3,
+        "measure": "Transition Matrix based mobility indices (including tests examining the proximity to a perfectly mobile state)"
+    },
+    {
+        "id": 327,
+        "category": 2,
+        "measure": "Rank\u2010rank gradient (slope of child\u2019s income percentile on parent\u2019s income percentile) and Transition probability (child moving from bottom to top quintile)"
+    },
+    {
+        "id": 328,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 329,
+        "category": 3,
+        "measure": "Transition probabilities based on income quartiles (transition matrix measures)"
+    },
+    {
+        "id": 330,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 331,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) using a two-sample two-stage least squares estimator and the Chadwick and Solon approach"
+    },
+    {
+        "id": 332,
+        "category": 1,
+        "measure": "Regression\u2010based measure capturing the estimated effect (coefficient) of parental background (akin to an intergenerational elasticity) on child human capital (PISA test scores)"
+    },
+    {
+        "id": 334,
+        "category": 1,
+        "measure": "Regression-based estimates of the impact of parental education on school track and post-secondary education choices"
+    },
+    {
+        "id": 335,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and Intergenerational Income Correlation"
+    },
+    {
+        "id": 336,
+        "category": 8,
+        "measure": "Occupational level proxy for personal economic compensation"
+    },
+    {
+        "id": 337,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 338,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) derived from regression analysis linking school quality and income mobility"
+    },
+    {
+        "id": 339,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 340,
+        "category": 1,
+        "measure": "Regression\u2010based measure of spatial mobility (i.e. estimated mobility effects such as those derived from intergenerational rank or elasticity regressions using Bayesian model averaging)"
+    },
+    {
+        "id": 343,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE), often associated with the Great Gatsby Curve"
+    },
+    {
+        "id": 344,
+        "category": 5,
+        "measure": "Measures of wealth outcomes across generations \u2013 comparing childhood poverty/inheritances, young adult impediments, and midlife net worth/homeownership to assess intergenerational (multigenerational) wealth mobility"
+    },
+    {
+        "id": 345,
+        "category": 1,
+        "measure": "Regression\u2010based measure estimating the intergenerational association between parental resources and children\u2019s human capital investments (akin to an intergenerational elasticity)"
+    },
+    {
+        "id": 346,
+        "category": 1,
+        "measure": "Regression\u2010based measure (an estimation of the intergenerational elasticity linking family income to educational attainment)"
+    },
+    {
+        "id": 347,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 348,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 349,
+        "category": 8,
+        "measure": "Net worth"
+    },
+    {
+        "id": 350,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 352,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 353,
+        "category": 1,
+        "measure": "Mean and quantile regression coefficients (capturing intergenerational elasticity) and transition matrices"
+    },
+    {
+        "id": 354,
+        "category": 1,
+        "measure": "Fatherson correlations (Regression\u2010based Measures) and intergenerational transition matrices (Transition Matrix / Probability Measures)"
+    },
+    {
+        "id": 355,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regressions; the study also reports intergenerational correlations and rank correlations (which fall under rank\u2010based measures)"
+    },
+    {
+        "id": 356,
+        "category": 1,
+        "measure": "Intergenerational income correlation"
+    },
+    {
+        "id": 357,
+        "category": 6,
+        "measure": "Structural approach using a recursive bivariate probit to estimate the effect of relative income mobility"
+    },
+    {
+        "id": 358,
+        "category": 8,
+        "measure": "Asset transfers analysis (examining differential inheritance transmission by sibship order and sex)"
+    },
+    {
+        "id": 360,
+        "category": 1,
+        "measure": "Ordered logit analysis"
+    },
+    {
+        "id": 362,
+        "category": 1,
+        "measure": "Regression\u2010based estimates, including skill premium regressions and parental income impact coefficients on educational attainment"
+    },
+    {
+        "id": 363,
+        "category": 6,
+        "measure": "Structural simulation approach using an overlapping generations model to generate intergenerational income persistence"
+    },
+    {
+        "id": 366,
+        "category": 6,
+        "measure": "Intergenerational mobility estimates derived from a dynamic general equilibrium model"
+    },
+    {
+        "id": 367,
+        "category": 2,
+        "measure": "Percentile rank\u2010based correlation measures (parent\u2013child income percentiles and parent income rank versus child college attendance probability) and transition probability measures (e.g., moving from the bottom to the top income quintile)"
+    },
+    {
+        "id": 369,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 370,
+        "category": 6,
+        "measure": "Decomposition measure estimating the fraction of the intergenerational income covariance attributable to assortative mating"
+    },
+    {
+        "id": 371,
+        "category": 1,
+        "measure": "The paper employs two kinds of mobility statistics. On one hand, it reports absolute mobility rates \u2013 that is, total, upward, downward, and outflow mobility rates calculated from partial parent\u2013child transition tables (which fall under absolute mobility measures, category 4). On the other hand, it estimates a net grandparent\u2013grandchild association summarized by a single uniform parameter expressed as odds ratios (a regression\u2010based measure, category 1)."
+    },
+    {
+        "id": 373,
+        "category": 3,
+        "measure": "Intergenerational Mobility Rates (derived from transition/probability measures)"
+    },
+    {
+        "id": 374,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimates derived from regression models \u2013 including estimates of the effect of neighborhood income on future earnings and the associated absolute mobility differences (lifetime household income differentials)"
+    },
+    {
+        "id": 375,
+        "category": 1,
+        "measure": "Ordinary Least Squares (OLS) regression estimates (effect of father\u2019s SES on children\u2019s SES)"
+    },
+    {
+        "id": 378,
+        "category": 6,
+        "measure": "Intergenerational Elasticity (IGE) of income and its structural determinants"
+    },
+    {
+        "id": 379,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) based on regression estimates of income persistence"
+    },
+    {
+        "id": 381,
+        "category": 4,
+        "measure": "Absolute Mobility Measures \u2013 focusing on absolute changes in wealth (net worth declines and corresponding mobility outcomes such as upward and downward mobility based on absolute wealth levels)"
+    },
+    {
+        "id": 382,
+        "category": 1,
+        "measure": "The paper contrasts results when using income\u2010based regression estimates (typically the Intergenerational Elasticity, a regression\u2010based measure) with class\u2010based mobility assessed via transition matrices (i.e. probability measures)"
+    },
+    {
+        "id": 383,
+        "category": 7,
+        "measure": "Non\u2010parametric rank\u2013rank slope measure of intergenerational wealth mobility, with an extension to multigenerational analysis (by including grandparents\u2019 wealth effects)"
+    },
+    {
+        "id": 384,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regression (including a second\u2010order autoregressive coefficient capturing multigenerational income transmission)"
+    },
+    {
+        "id": 385,
+        "category": 1,
+        "measure": "Correlation between parents' and children's earnings (Intergenerational Elasticity, IGE)"
+    },
+    {
+        "id": 386,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 388,
+        "category": 5,
+        "measure": "Mobility rate based on multi\u2010generational tracking of wealth at death and average age at death"
+    },
+    {
+        "id": 389,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 391,
+        "category": 1,
+        "measure": "Intergenerational Income Mobility (typically estimated via a regression-based measure such as the Intergenerational Elasticity of income)"
+    },
+    {
+        "id": 393,
+        "category": 2,
+        "measure": "Correlation between the son's rank in the wealth/income distribution and his father's rank"
+    },
+    {
+        "id": 394,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 395,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) using a regression-based two-sample two-stage least squares approach."
+    },
+    {
+        "id": 397,
+        "category": 8,
+        "measure": "The paper does not estimate a standard intergenerational mobility measure (like IGE or rank\u2010based measures); instead it uses regression techniques (a probit model to estimate the determinants of entrepreneurship and propensity score matching to estimate the mean effect of entrepreneurial activity on income) to gauge upward mobility."
+    },
+    {
+        "id": 398,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 400,
+        "category": 1,
+        "measure": "Probit regression marginal effects quantifying the impact of father\u2019s income on the probability that the son has zero annual earnings."
+    },
+    {
+        "id": 401,
+        "category": 6,
+        "measure": "Simulated human capital accumulation ratios along different education stages derived from a structural overlapping\u2010generation model"
+    },
+    {
+        "id": 403,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 408,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated using a two-sample two-stage least squares approach"
+    },
+    {
+        "id": 412,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) derived from a regression-based approach"
+    },
+    {
+        "id": 413,
+        "category": 1,
+        "measure": "The study\u2019s approach appears to rely on regression\u2010based estimation \u2013 specifically, regression coefficients capturing the returns on health investments and the intergenerational transmission (elasticity) of educational attainment."
+    },
+    {
+        "id": 416,
+        "category": 2,
+        "measure": "The paper employs two main measures: directional rank mobility measures (which fall under Rank\u2010based Measures, category 2) and transition probabilities (which fall under Transition Matrix/Probability Measures, category 3)."
+    },
+    {
+        "id": 418,
+        "category": 1,
+        "measure": "Intergenerational correlation (often interpreted as the intergenerational elasticity of status/income)"
+    },
+    {
+        "id": 419,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via regression\u2010based persistence measures"
+    },
+    {
+        "id": 420,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated through regression\u2010based methods"
+    },
+    {
+        "id": 421,
+        "category": 8,
+        "measure": "The study uses a combination of measures: (a) rank\u2010based measures \u2013 specifically, the correlation between parent and child income percentile ranks (and similarly, the correlation between a child\u2019s probability of attending college and her parent\u2019s income rank), and (b) transition matrix/probability measures \u2013 through the calculation of transition probabilities (e.g., the child\u2019s chances of moving between income/education categories)."
+    },
+    {
+        "id": 423,
+        "category": 1,
+        "measure": "The paper uses multiple measures. For instance, the intergenerational income elasticity (IGE) is a regression\u2010based measure (1); the association between fathers\u2019 and sons\u2019 income percentiles is a rank\u2010based measure (2); and the brother correlations do not squarely fall into any of the listed groups, so they are best viewed as an other measure (8)."
+    },
+    {
+        "id": 424,
+        "category": 8,
+        "measure": "The paper does not specify a well\u2010known mobility measure. Instead, it uses a subjective approach to gauge modernity levels based on behavioral perspectives, along with data from social surveys and observations. This does not fall into the standard categories such as regression\u2010based measures (e.g., intergenerational elasticity) or rank\u2010based measures, so it is categorized under 'Others'."
+    },
+    {
+        "id": 425,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 426,
+        "category": 1,
+        "measure": "It uses regression\u2010style estimates of parent\u2013child income correlations (i.e. measures akin to the Intergenerational Elasticity/Correlation)"
+    },
+    {
+        "id": 427,
+        "category": 6,
+        "measure": "Path Models of Intergenerational Mobility \u2013 a structural, decompositional approach that allocates the contributions of various factors (including, implicitly, the rate of return on educational expenditures) to intergenerational outcomes."
+    },
+    {
+        "id": 428,
+        "category": 3,
+        "measure": "Transition probabilities for intergenerational occupational mobility (based on frequency counts of upward mobility)"
+    },
+    {
+        "id": 430,
+        "category": 3,
+        "measure": "It employs two measures: one is the traditional transition probability for movement across income quantiles (a transition matrix/probability measure) and the other is a novel rank\u2010based upward mobility measure defined as the probability that an adult child\u2019s relative position exceeds that of the parents."
+    },
+    {
+        "id": 431,
+        "category": 3,
+        "measure": "Upward mobility and downward mobility probabilities (transition matrix measures)"
+    },
+    {
+        "id": 432,
+        "category": 1,
+        "measure": "Lagged effects (sometimes referred to as counter-mobility), estimated through regression-based models"
+    },
+    {
+        "id": 433,
+        "category": 3,
+        "measure": "Transition Matrix / Probability Measures: Markov chain with a two-stage transition probability matrix (P)"
+    },
+    {
+        "id": 434,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated via regression\u2010based methods (including quantile regression) and Transition Matrix analysis (for sons)"
+    },
+    {
+        "id": 437,
+        "category": 1,
+        "measure": "Intergenerational Association (estimated via a two\u2010factor regression model capturing class reproduction)"
+    },
+    {
+        "id": 438,
+        "category": 1,
+        "measure": "Panel model and panel error correction model coefficient estimates"
+    },
+    {
+        "id": 439,
+        "category": 1,
+        "measure": "Estimated regression coefficients (Intergenerational Elasticity-like estimates) quantifying the effect of parental human, social, and asset capital on children\u2019s income"
+    },
+    {
+        "id": 440,
+        "category": 1,
+        "measure": "Quantile regression estimates of intergenerational earnings correlation (IGE) and education\u2019s return"
+    },
+    {
+        "id": 441,
+        "category": 3,
+        "measure": "Transition Matrix (with derived intergenerational income elasticity)"
+    },
+    {
+        "id": 442,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 443,
+        "category": 1,
+        "measure": "The paper uses regression\u2010based estimates to examine wage determination and the factors affecting the willingness of migrant workers to stay in the city."
+    },
+    {
+        "id": 447,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 448,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 449,
+        "category": 1,
+        "measure": "The paper uses a regression\u2010based measure, essentially an intergenerational income elasticity/correlation estimate derived from multilevel statistical models."
+    },
+    {
+        "id": 450,
+        "category": 1,
+        "measure": "Quantile Regression estimating intergenerational income mobility and equality of opportunity using stochastic dominance criteria"
+    },
+    {
+        "id": 451,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated via two-level regression models"
+    },
+    {
+        "id": 452,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 453,
+        "category": 8,
+        "measure": "methods of axiom and welfarism"
+    },
+    {
+        "id": 454,
+        "category": 6,
+        "measure": "Decomposition / Structural Approaches (examining the contribution of individual characteristics to income gaps, similar to Oaxaca-Blinder decomposition)"
+    },
+    {
+        "id": 455,
+        "category": 1,
+        "measure": "Regression\u2010based measure (using regression coefficients to estimate intergenerational income elasticity)"
+    },
+    {
+        "id": 456,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and offspring elasticity of public expenditure on education"
+    },
+    {
+        "id": 457,
+        "category": 7,
+        "measure": "Non\u2010parametric kernel density methods"
+    },
+    {
+        "id": 458,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 459,
+        "category": 1,
+        "measure": "Atkinson regression model (a regression\u2010based approach) and a transition matrix (a probability measure)"
+    },
+    {
+        "id": 460,
+        "category": 3,
+        "measure": "Intergenerational transition probability (e.g., transition matrix for occupational/educational mobility)"
+    },
+    {
+        "id": 461,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE) \u2013 a regression\u2010based measure; the paper also uses an econometric probability measure of intergenerational transmission of poverty (which would fall under Transition Matrix/Probability Measures, i.e. category 3)"
+    },
+    {
+        "id": 462,
+        "category": 6,
+        "measure": "Decomposition of intergenerational income correlation into contributions from education, health, and occupation"
+    },
+    {
+        "id": 463,
+        "category": 8,
+        "measure": "Effect of study grants on social mobility (assessed by comparing the social background and career outcomes of grant recipients to the overall student population)"
+    },
+    {
+        "id": 464,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 465,
+        "category": 8,
+        "measure": "Descriptive expenditure and wealth patterns with subgroup comparisons (e.g. association between parental SES and current expenditure/durable goods) rather than a formal modeling measure."
+    },
+    {
+        "id": 466,
+        "category": 8,
+        "measure": "Subjective intergenerational mobility and objective intergenerational mobility"
+    },
+    {
+        "id": 469,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 470,
+        "category": 8,
+        "measure": "The command computes several types of IGM indices: (a) single\u2010stage indices which for continuous outcomes often correspond to regression\u2010based measures (e.g. intergenerational elasticity), (b) indices derived from a transition matrix between parents\u2019 and children\u2019s socioeconomic status, and (c) indices based on inequality measures (e.g. generalized entropy measures and the Atkinson index)"
+    },
+    {
+        "id": 471,
+        "category": 1,
+        "measure": "OLS\u2010based and quantile regression measures, likely capturing the intergenerational elasticity (IGE) of income"
+    },
+    {
+        "id": 472,
+        "category": 7,
+        "measure": "New non\u2010parametric estimator for intergenerational income mobility"
+    },
+    {
+        "id": 473,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE); Father\u2010son income percentile associations (a rank\u2010based approach); and brother correlations"
+    },
+    {
+        "id": 474,
+        "category": 1,
+        "measure": "Surname\u2010based intergenerational persistence \u2013 estimated via regression (distinguishing overall individual, within\u2010group, and between\u2010group mobility)"
+    },
+    {
+        "id": 475,
+        "category": 2,
+        "measure": "Parent\u2013child and grandparent\u2013grandchild rank correlations"
+    },
+    {
+        "id": 477,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE)"
+    },
+    {
+        "id": 478,
+        "category": 1,
+        "measure": "County Fixed Effects Estimates, which quantify the causal effect of growing up in a county on later income."
+    },
+    {
+        "id": 479,
+        "category": 8,
+        "measure": "Average Propensity to Consume and Wealth\u2010Income Ratios"
+    },
+    {
+        "id": 480,
+        "category": 1,
+        "measure": "The study uses regression\u2010based measures, likely estimating intergenerational elasticities (regression coefficients linking parental income to children\u2019s or family income)."
+    },
+    {
+        "id": 481,
+        "category": 4,
+        "measure": "Absolute Mobility Measure (proportion of children achieving middle\u2010class status by middle age)"
+    },
+    {
+        "id": 482,
+        "category": 5,
+        "measure": "Multiple\u2010generational analysis of wealth mobility (surname\u2010based persistence measures)"
+    },
+    {
+        "id": 483,
+        "category": 1,
+        "measure": "Between\u2010groups regression coefficient, a regression\u2010based measure of intergenerational income elasticity (IGE)"
+    },
+    {
+        "id": 484,
+        "category": 1,
+        "measure": "Regression\u2010based measure of income differences (controlling for variables like college selectivity, major, and academic performance)"
+    },
+    {
+        "id": 486,
+        "category": 1,
+        "measure": "Multivariate regression analysis estimates quantifying the impact of financial transfers (inheritance, large financial gifts, support for education/home purchase, and parental support) on household net wealth."
+    },
+    {
+        "id": 487,
+        "category": 1,
+        "measure": "The paper estimates intergenerational persistence in education \u2013 essentially an Intergenerational Elasticity (IGE) measure using regression\u2010based approaches \u2013 and also computes an overeducation rate for college\u2010educated workers, which does not neatly fit one of the standard categories (thus, it can be considered as falling under Others)"
+    },
+    {
+        "id": 488,
+        "category": 3,
+        "measure": "Markov transition matrix measures (estimates of intergenerational mobility via transition probabilities)"
+    },
+    {
+        "id": 490,
+        "category": 7,
+        "measure": "Intergenerational income mobility estimated using non\u2010parametric approaches (i.e. comparing probabilities of upward/downward mobility across family structures)"
+    },
+    {
+        "id": 491,
+        "category": 1,
+        "measure": "Intergenerational income mobility estimated via regression analysis (e.g., an Intergenerational Income Elasticity approach)"
+    },
+    {
+        "id": 492,
+        "category": 1,
+        "measure": "Growth curve model estimates of income trajectories using categorical pathway clusters and family background variables"
+    },
+    {
+        "id": 493,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE) (a regression\u2010based measure) and Rank\u2010Rank Slope (a rank\u2010based measure)"
+    },
+    {
+        "id": 494,
+        "category": 1,
+        "measure": "Regression\u2010based estimates (e.g., coefficients from regressions of children\u2019s income and education on fathers\u2019 income and education, analogous to estimating intergenerational elasticity)"
+    },
+    {
+        "id": 495,
+        "category": 1,
+        "measure": "Estimated regression coefficients capturing the effect of commuting zone-level homeownership on intergenerational (upward) mobility (instrumented using housing supply and price shocks)"
+    },
+    {
+        "id": 496,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 499,
+        "category": 5,
+        "measure": "Multigenerational mobility measures (i.e. estimates tracking mobility across three generations)"
+    },
+    {
+        "id": 500,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 501,
+        "category": 4,
+        "measure": "The paper derives two canonical mobility measures: a relative mobility measure\u2014commonly represented by the intergenerational elasticity (a regression\u2010based metric, though here obtained analytically)\u2014and an absolute mobility measure (typically defined as the fraction of children earning more than their parents)."
+    },
+    {
+        "id": 502,
+        "category": 6,
+        "measure": "Decomposition measures separating pure inheritance from mediated inheritance in income and occupational mobility"
+    },
+    {
+        "id": 503,
+        "category": 6,
+        "measure": "A simulation\u2010based structural approach that models how parental investments in child schooling affect the future income distribution and intergenerational mobility."
+    },
+    {
+        "id": 505,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) (Regression\u2010based) and Rank\u2010order correlations (Rank\u2010based)"
+    },
+    {
+        "id": 507,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 509,
+        "category": 4,
+        "measure": "County-level upward mobility estimated by Chetty and Hendren (an absolute mobility measure, such as the average adult income rank for children born to low\u2010income families)"
+    },
+    {
+        "id": 510,
+        "category": 1,
+        "measure": "The paper uses two distinct measures: Intergenerational Income Elasticity (IGE), which is a regression\u2010based measure, and the rank correlation, which is a rank\u2010based measure."
+    },
+    {
+        "id": 511,
+        "category": 4,
+        "measure": "The paper uses absolute measures of poverty duration\u2014in particular, it reports the incidence of poverty over a 10\u2010year span (e.g., the percentage poor at some time and the percentage persistently poor, defined as poor for at least 8 out of 10 years) from PSID data."
+    },
+    {
+        "id": 512,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) of wealth"
+    },
+    {
+        "id": 513,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 514,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 515,
+        "category": 1,
+        "measure": "Regression\u2010based estimates: the paper uses regression coefficients to quantify the associations between parental income and child outcomes (birthweight, height, school performance) and further estimates the earnings returns to these skills."
+    },
+    {
+        "id": 518,
+        "category": 1,
+        "measure": "Estimated regression coefficient for intergenerational wealth mobility (a one\u2010decile increase in parental wealth predicts a four\u2010percentile increase in offspring wealth), extended to include multigenerational effects"
+    },
+    {
+        "id": 519,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 520,
+        "category": 7,
+        "measure": "Counterfactual distributional measures \u2013 specifically, the fraction of children with income below the poverty line, the variance of child\u2019s income, and the interquantile range of child\u2019s income estimated via a non\u2010parametric, quantile regression based counterfactual approach"
+    },
+    {
+        "id": 523,
+        "category": 1,
+        "measure": "Estimates from regression\u2010based approaches (i.e., slope coefficients linking parental and offspring health outcomes, analogous to intergenerational elasticity measures)"
+    },
+    {
+        "id": 524,
+        "category": 1,
+        "measure": "Least squares regression coefficients estimating intergenerational elasticities (e.g., IGE of log earnings on fathers\u2019 and grandfathers\u2019 earnings)"
+    },
+    {
+        "id": 525,
+        "category": 1,
+        "measure": "Regression-based fit statistics (e.g., R2) for cross-sectional predictors of 20-year cumulative earnings"
+    },
+    {
+        "id": 526,
+        "category": 1,
+        "measure": "A regression\u2010based estimate essentially analogous to the intergenerational elasticity (IGE) framework\u2014using adult income levels (and, by extension, teen birth rate outcomes) as dependent variables in a Solon\u2010style regression model."
+    },
+    {
+        "id": 528,
+        "category": 1,
+        "measure": "Instrumental-variable regression estimate of intergenerational economic mobility (e.g., an IV-based intergenerational elasticity measure)"
+    },
+    {
+        "id": 530,
+        "category": 1,
+        "measure": "Coefficient estimates from regression analysis (examining the impact of parental entry status on children\u2019s occupation type and income)"
+    },
+    {
+        "id": 532,
+        "category": 6,
+        "measure": "Decomposition/Structural approach via simulations decomposing intergenerational income mobility differences by family characteristics"
+    },
+    {
+        "id": 533,
+        "category": 3,
+        "measure": "Intergenerational transition probabilities across income quintiles"
+    },
+    {
+        "id": 534,
+        "category": 1,
+        "measure": "Estimated regression coefficient relating parental income to children\u2019s test scores (a form of intergenerational elasticity)"
+    },
+    {
+        "id": 535,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 536,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimates (using earnings, education, occupation, and name\u2010based persistence proxies)"
+    },
+    {
+        "id": 537,
+        "category": 1,
+        "measure": "Regression\u2010based measures estimated via instrumental variable regressions linking historical slavery prevalence to contemporary intergenerational mobility."
+    },
+    {
+        "id": 541,
+        "category": 1,
+        "measure": "Regression\u2010based Measures (e.g., estimates examining the relationship between social background and both income and occupational mobility)"
+    },
+    {
+        "id": 542,
+        "category": 1,
+        "measure": "Multivariate regression estimates assessing the relationship between neighbourhood median incomes at age 16 and subsequent neighbourhood attainment (an analogue to intergenerational elasticity)."
+    },
+    {
+        "id": 543,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 544,
+        "category": 8,
+        "measure": "Subjective intergenerational mobility (specifically, subjective downward mobility)"
+    },
+    {
+        "id": 545,
+        "category": 1,
+        "measure": "Intergenerational regression coefficient (interpreted as the Intergenerational Elasticity, IGE)"
+    },
+    {
+        "id": 546,
+        "category": 1,
+        "measure": "Intergenerational Income Mobility Elasticity"
+    },
+    {
+        "id": 548,
+        "category": 1,
+        "measure": "The paper appears to use regression\u2010based estimates, for example, regression coefficients estimating intergenerational elasticity and the return to high school education."
+    },
+    {
+        "id": 549,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 551,
+        "category": 3,
+        "measure": "New Mobility Table that scales each quintile by the income spread it represents"
+    },
+    {
+        "id": 552,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and IGE of the expectation"
+    },
+    {
+        "id": 553,
+        "category": 3,
+        "measure": "The paper primarily uses a non\u2010linear transition matrix technique (a transition matrix / probability measure) to quantify mobility across education, occupational skill, and income. In addition, it reports absolute (and relative) income mobility measures, and employs a logistic regression model (a regression\u2010based approach) to examine determinants of upward mobility."
+    },
+    {
+        "id": 554,
+        "category": 1,
+        "measure": "Unconditional Quantile Regression Coefficients"
+    },
+    {
+        "id": 557,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 558,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 559,
+        "category": 1,
+        "measure": "OLS estimation"
+    },
+    {
+        "id": 561,
+        "category": 6,
+        "measure": "The paper reports a fixed\u2010effects\u2013based decomposition of intergenerational mobility into a causal component (the estimated effect of each year of childhood exposure to a one SD better county on adult income, roughly 0.5% per year, implying about a 10% gain from full exposure) and a sorting component."
+    },
+    {
+        "id": 562,
+        "category": 6,
+        "measure": "Counterfactual decomposition using a dynastic model to estimate the relative contribution of nature (20%) versus nurture to intergenerational mobility"
+    },
+    {
+        "id": 563,
+        "category": 8,
+        "measure": "The study used multiple measures: logistic regression (a regression\u2010based measure, category 1), rank\u2010rank slopes (a rank\u2010based measure, category 2), and transition matrices (a transition matrix/probability measure, category 3)"
+    },
+    {
+        "id": 564,
+        "category": 1,
+        "measure": "The paper estimates regression\u2010based coefficients, capturing the effect of self\u2010reported intergenerational mobility (upward or downward) on support for democracy, controlling for education and current economic situation."
+    },
+    {
+        "id": 565,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 566,
+        "category": 1,
+        "measure": "A regression\u2010based estimate of intergenerational income mobility (commonly captured by measures like the intergenerational elasticity of income)"
+    },
+    {
+        "id": 567,
+        "category": 6,
+        "measure": "New decomposition approach of exceptional intergenerational income mobility (with a focus on educational mobility)"
+    },
+    {
+        "id": 568,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 569,
+        "category": 1,
+        "measure": "The paper implies the use of regression\u2010based measures, for example, estimates of the intergenerational elasticity (IGE) in income."
+    },
+    {
+        "id": 570,
+        "category": 4,
+        "measure": "The study distinguishes two key measures \u2013 intergenerational absolute income mobility and intragenerational (absolute) income mobility \u2013 as opposed to the relative mobility (often estimated via regression\u2010based methods) which the authors note needs further empirical work."
+    },
+    {
+        "id": 571,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 572,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) and Rank\u2010Rank Slope"
+    },
+    {
+        "id": 573,
+        "category": 1,
+        "measure": "Regression\u2010based Measures (e.g., estimates analogous to Intergenerational Elasticity of wealth)"
+    },
+    {
+        "id": 574,
+        "category": 1,
+        "measure": "Intergenerational persistence (Intergenerational Elasticity, estimated via regression-based approaches) and, in the teacher effectiveness chapter, composite score regression methods (EVAAS via MRM and URM)"
+    },
+    {
+        "id": 575,
+        "category": 3,
+        "measure": "Intergenerational Transition Matrix (flows between wealth quintiles)"
+    },
+    {
+        "id": 576,
+        "category": 1,
+        "measure": "Intergenerational Income Mobility (estimated via regression\u2010based analysis, e.g. using elasticity-type estimates)"
+    },
+    {
+        "id": 577,
+        "category": 1,
+        "measure": "Instrumental variable estimate of the causal effect of upward income mobility"
+    },
+    {
+        "id": 578,
+        "category": 1,
+        "measure": "Regression model; Transformation matrix method (a transition probability approach)"
+    },
+    {
+        "id": 579,
+        "category": 6,
+        "measure": "Intergenerational income correlation estimated via a life cycle dynastic model with counterfactual analysis"
+    },
+    {
+        "id": 580,
+        "category": 1,
+        "measure": "The study appears to use regression\u2010based measures, such as estimates of intergenerational elasticity (IGE) in net wealth and consumption."
+    },
+    {
+        "id": 581,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 582,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 584,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 585,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated by OLS and quantile regressions"
+    },
+    {
+        "id": 586,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 587,
+        "category": 8,
+        "measure": "Nine complementary indicators of intergenerational income mobility (unspecified)"
+    },
+    {
+        "id": 588,
+        "category": 1,
+        "measure": "Empirical estimates from regression\u2010based models including three\u2010stage least squares, beta regression, quantile regression, and threshold regression analyses."
+    },
+    {
+        "id": 589,
+        "category": 3,
+        "measure": "Upward mobility rate defined as the percentage of students from the lowest income group who attain the highest earnings quintile."
+    },
+    {
+        "id": 591,
+        "category": 2,
+        "measure": "Intergenerational persistence in income ranks (perceived)"
+    },
+    {
+        "id": 592,
+        "category": 1,
+        "measure": "The paper appears to quantify associations using regression\u2010based estimates (e.g., coefficients from models predicting wealth accumulation conditional on receiving wealth transfers) even if it does not explicitly label it as an intergenerational elasticity measure."
+    },
+    {
+        "id": 593,
+        "category": 4,
+        "measure": "Absolute Mobility Measure \u2013 the paper estimates treatment effects on long\u2010run earnings (median earnings, earnings relative to a high school graduate, and particularly income relative to initial household income) which capture the absolute change in income position (i.e. moving to a higher income quantile relative to one\u2019s household)."
+    },
+    {
+        "id": 594,
+        "category": 8,
+        "measure": "Sibling similarity (i.e. sibling correlation) in accumulated income"
+    },
+    {
+        "id": 596,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 597,
+        "category": 4,
+        "measure": "Relative Income Mobility; Absolute Income Mobility"
+    },
+    {
+        "id": 599,
+        "category": 6,
+        "measure": "Intergenerational Income Elasticity (IIE), decomposed into human capital and financial components"
+    },
+    {
+        "id": 600,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 602,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 603,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) using credit scores"
+    },
+    {
+        "id": 604,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 605,
+        "category": 8,
+        "measure": "Snapshot measures (i.e., cross\u2010sectional income distribution measures as contrasted with dynamic, intergenerational 'movie' measures such as those based on intergenerational elasticity)"
+    },
+    {
+        "id": 607,
+        "category": 3,
+        "measure": "Rates (transition probabilities) of intergenerational occupational mobility"
+    },
+    {
+        "id": 608,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) \u2013 the study reports an IGE of up to 0.6 estimated via regression methods; in addition, it introduces a linked trajectory mobility approach that decomposes earnings development into life\u2010cycle dimensions (initial level, growth rate, deceleration, and volatility), which is a decomposition/structural approach (category 6)"
+    },
+    {
+        "id": 609,
+        "category": 4,
+        "measure": "Wealth ratio or multiplier measure comparing child\u2019s wealth to the generation average given a doubling in father\u2019s wealth"
+    },
+    {
+        "id": 610,
+        "category": 3,
+        "measure": "Social fluidity and off\u2010diagonal origin\u2013destination transition probabilities"
+    },
+    {
+        "id": 613,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 614,
+        "category": 6,
+        "measure": "Calibrated structural model-based measures that simulate welfare transmission and mobility dynamics across generations"
+    },
+    {
+        "id": 615,
+        "category": 1,
+        "measure": "Regression\u2010based Measures, likely estimated regression coefficients capturing the associations between parental education/income and post\u2010college earnings (i.e., an intergenerational elasticity\u2010like measure)"
+    },
+    {
+        "id": 616,
+        "category": 1,
+        "measure": "Regression\u2010based estimates from multiple linear regression and logistic regression analyses linking maternal net worth and poverty status to young adult children's income"
+    },
+    {
+        "id": 617,
+        "category": 6,
+        "measure": "A counterfactual, decomposition\u2010style simulation that estimates how changing college allocation (assuming 80% of observed differences in earnings are causal) would reduce intergenerational income persistence by about 25%"
+    },
+    {
+        "id": 618,
+        "category": 8,
+        "measure": "Intergenerational Wealth Mobility Framework (no specific measure like IGE, rank\u2010based, or transition matrix is explicitly mentioned)"
+    },
+    {
+        "id": 619,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated using a lifecycle estimator"
+    },
+    {
+        "id": 621,
+        "category": 4,
+        "measure": "racial opportunity gap"
+    },
+    {
+        "id": 624,
+        "category": 6,
+        "measure": "Regime\u2010switch model estimates of intergenerational income transmission (akin to intergenerational elasticity measures derived from the Becker-Tomes-Solon framework)"
+    },
+    {
+        "id": 625,
+        "category": 4,
+        "measure": "Absolute earnings mobility"
+    },
+    {
+        "id": 626,
+        "category": 6,
+        "measure": "Estimated intergenerational mobility parameter derived from a structural model (capturing the relationship between parental investments and offspring outcomes)"
+    },
+    {
+        "id": 627,
+        "category": 1,
+        "measure": "Regression\u2010based estimates assessing the relationship between family income and educational outcomes (e.g., an intergenerational gradient or elasticity of educational attainment)"
+    },
+    {
+        "id": 628,
+        "category": 6,
+        "measure": "Sibling correlations and their decomposition by SES dimensions"
+    },
+    {
+        "id": 629,
+        "category": 6,
+        "measure": "novel decomposition method applied to intergenerational transmission incorporating marriage entry and marital sorting"
+    },
+    {
+        "id": 631,
+        "category": 8,
+        "measure": "The paper uses two distinct measures: absolute income mobility (an absolute mobility measure, Category 4) and relative income mobility (typically estimated via a regression\u2010based approach such as intergenerational elasticity, Category 1)"
+    },
+    {
+        "id": 632,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated via regression models"
+    },
+    {
+        "id": 634,
+        "category": 2,
+        "measure": "Intergenerational rank association (rank-based mobility measure). The paper also compares it with conventional intergenerational income elasticity, but the focus is on the rank\u2010based measure."
+    },
+    {
+        "id": 635,
+        "category": 8,
+        "measure": "The abstract does not specify a particular measure; it broadly refers to comparisons across dimensions (e.g., income, position, direction/upward mobility) without detailing a specific model-based estimate like IGE, rank measures, or transition matrices."
+    },
+    {
+        "id": 636,
+        "category": 6,
+        "measure": "Decomposition of the intergenerational income correlation to determine the share explained by children's education (40.5% contribution)"
+    },
+    {
+        "id": 637,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 638,
+        "category": 2,
+        "measure": "Intergenerational Rank Correlation; Intergenerational Transition Matrices (the first measure belongs to Rank\u2010based Measures (2) and the second to Transition Matrix / Probability Measures (3))"
+    },
+    {
+        "id": 639,
+        "category": 1,
+        "measure": "Ordinary Least Squares (OLS) regressions and Instrumental Variable Quantile Regressions estimating the intergenerational economic association (akin to intergenerational elasticity measures)"
+    },
+    {
+        "id": 642,
+        "category": 4,
+        "measure": "The study uses two distinct mobility measures: a relative income mobility measure (typically estimated via regression\u2010based methods such as the intergenerational elasticity, falling under category 1) and an absolute income mobility measure (explicitly an absolute mobility measure, i.e. category 4)."
+    },
+    {
+        "id": 643,
+        "category": 1,
+        "measure": "Mediation model estimating partial mediation effects via regression-based analysis"
+    },
+    {
+        "id": 644,
+        "category": 6,
+        "measure": "Structural estimates derived from an overlapping-generations model capturing the influence of innate talent, parental human capital, and educational investments on intergenerational income mobility and social welfare"
+    },
+    {
+        "id": 645,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) \u2013 both the conventional geometric mean version and a parametric approach aimed at estimating the arithmetic mean, along with visualization of conditional income quantiles."
+    },
+    {
+        "id": 646,
+        "category": 8,
+        "measure": "The paper uses several measures: Absolute Mobility (the share of individuals earning more than their parents, which falls under Absolute Mobility Measures [4]); Relative Mobility (the probability/chances of moving up the income distribution, best viewed as a Transition Matrix/Probability Measure [3]); and Intergenerational Income Elasticity (commonly estimated via regression methods, i.e. a Regression\u2010based Measure [1])."
+    },
+    {
+        "id": 647,
+        "category": 6,
+        "measure": "Decomposition analysis quantifying the contribution of the one\u2010child policy (32.7%-47.3%) to the decline in intergenerational income mobility"
+    },
+    {
+        "id": 649,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 650,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 651,
+        "category": 1,
+        "measure": "Causal effect estimate of equalizing school revenues on intergenerational mobility (estimated via a simulated\u2010instruments regression)"
+    },
+    {
+        "id": 652,
+        "category": 2,
+        "measure": "Descriptive rank\u2010rank analysis; Absolute mobility measures (assessing absolute and relative mobility); and a decomposition analysis to explain group differences"
+    },
+    {
+        "id": 653,
+        "category": 1,
+        "measure": "The paper employs a regression\u2010based approach (estimating wage persistence akin to an intergenerational elasticity measure) along with transition probability measures (using transition matrices across wage quintiles)"
+    },
+    {
+        "id": 654,
+        "category": 6,
+        "measure": "Social, educational, occupational, and income mobility, as well as changes in socioeconomic conditions were quantified using a structural equation modeling approach."
+    },
+    {
+        "id": 655,
+        "category": 8,
+        "measure": "Subjectively Perceived Social Mobility (including a general measure and an occupation-specific measure)"
+    },
+    {
+        "id": 656,
+        "category": 2,
+        "measure": "Rank\u2010rank model"
+    },
+    {
+        "id": 657,
+        "category": 1,
+        "measure": "Rank\u2010Rank Regression estimates of relative and absolute upward intergenerational mobility"
+    },
+    {
+        "id": 658,
+        "category": 1,
+        "measure": "Two stage least squares (2SLS) regression estimates assessing the intergenerational link between wealth and child income, supplemented by a decomposition analysis of the child's income by race."
+    },
+    {
+        "id": 660,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 661,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 662,
+        "category": 4,
+        "measure": "The paper reports an absolute mobility measure \u2013 the percentage of sons earning more than their fathers (e.g., 67% in Germany, 60% in the US) \u2013 along with a relative mobility indicator (i.e. how children fare relative to their parents, likely estimated via a regression\u2010based approach such as the intergenerational elasticity or an analogous rank\u2010based measure, although the exact method is not detailed)"
+    },
+    {
+        "id": 664,
+        "category": 7,
+        "measure": "The paper introduces a new correlation curve \u2013 a non\u2010parametric tool that captures nonlinearities in the parent\u2013child income relationship \u2013 while also discussing the conventional intergenerational elasticity (IGE) from regression\u2010based measures for comparison."
+    },
+    {
+        "id": 666,
+        "category": 1,
+        "measure": "Intergenerational transmission of human capital (akin to an intergenerational elasticity measure)"
+    },
+    {
+        "id": 667,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated across multiple childhood periods"
+    },
+    {
+        "id": 668,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) and Rank\u2010rank slope"
+    },
+    {
+        "id": 669,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) and Between-Groups Coefficient"
+    },
+    {
+        "id": 670,
+        "category": 1,
+        "measure": "The study reports intergenerational persistence estimated via regression (i.e. Intergenerational Elasticity (IGE) for income\u2010 and education\u2010based mobility). It also touches on absolute mobility and upward transition probabilities in education."
+    },
+    {
+        "id": 671,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE)"
+    },
+    {
+        "id": 672,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated via regression models \u2013 including estimated lifetime income differences as an absolute mobility measure"
+    },
+    {
+        "id": 673,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE), estimated as the regression slope relating parent and child incomes (often implemented in a rank\u2010based format)"
+    },
+    {
+        "id": 674,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 678,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 679,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and intergenerational correlation of earnings"
+    },
+    {
+        "id": 682,
+        "category": 6,
+        "measure": "Decomposition analysis attributing over 50% of wage convergence to rising education attainment and occupational changes across generations."
+    },
+    {
+        "id": 683,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE) and real wealth inheritance effects estimated via regression methods"
+    },
+    {
+        "id": 684,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via a generalized errors\u2010in\u2010variables model"
+    },
+    {
+        "id": 685,
+        "category": 8,
+        "measure": "Ex\u2010ante measures of Inequality of Economic Opportunity (IEO) and the Human Opportunity Index (HOI)"
+    },
+    {
+        "id": 687,
+        "category": 1,
+        "measure": "Regression coefficient estimates linking parental credit risk score with child outcomes such as bankruptcy likelihood, default probability, credit score, and homeownership."
+    },
+    {
+        "id": 688,
+        "category": 1,
+        "measure": "MII (a regression\u2010based measure of intergenerational income persistence)"
+    },
+    {
+        "id": 692,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 693,
+        "category": 8,
+        "measure": "The paper reviews traditional occupation\u2010based measures (using social position indicators derived from an individual\u2019s occupation, as well as related measures like household income mobility, job displacement, union dissolution, and poverty dynamics) and then proposes an alternative household\u2010level measure that gauges the rate of mobility\u2010generating events driven by institutional incentives and social insurance. These measures do not neatly fall into the standard categories."
+    },
+    {
+        "id": 694,
+        "category": 3,
+        "measure": "Transition probabilities estimated as upward and downward mobility rates conditional on parental income"
+    },
+    {
+        "id": 695,
+        "category": 1,
+        "measure": "Estimated regression coefficients quantifying the relationship between parental income and children\u2019s test scores."
+    },
+    {
+        "id": 697,
+        "category": 1,
+        "measure": "Growth model estimates of life\u2010course income trajectories by intergenerational educational mobility groups"
+    },
+    {
+        "id": 698,
+        "category": 3,
+        "measure": "The study uses two types of measures: transition probability measures (e.g., the probability of moving out of the bottom quintile, which falls under Transition Matrix / Probability Measures, category 3) and directional rank mobility measures (which compare a child\u2019s income rank to the parents\u2019 rank, falling under Rank\u2010based Measures, category 2)"
+    },
+    {
+        "id": 699,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 700,
+        "category": 1,
+        "measure": "The paper estimates a mobility parameter (i.e. a drop in intergenerational mobility gains for young people) using reduced\u2010form regression models. It also introduces new Gini\u2010type indices to assess spatial inequality, but in terms of intergenerational mobility the key measure is the regression\u2010based mobility gains coefficient."
+    },
+    {
+        "id": 701,
+        "category": 6,
+        "measure": "A structural/model\u2010implied measure of intergenerational mobility (tracking how initial income distributions determine posterior human capital and income inequality)"
+    },
+    {
+        "id": 702,
+        "category": 2,
+        "measure": "Intergenerational wealth rank correlations (parent\u2010child and grandparents\u2010grandchild) along with a decomposition of the wealth correlation into portions explained by bequests/gifts versus earnings and education"
+    },
+    {
+        "id": 703,
+        "category": 1,
+        "measure": "Causal effect estimates from regression analysis using a simulated instruments approach"
+    },
+    {
+        "id": 705,
+        "category": 2,
+        "measure": "Rank\u2010based mobility measure (specifically a quantile or rank\u2010rank slope approach focusing on top percentiles)"
+    },
+    {
+        "id": 708,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and regression\u2010based estimates of intergenerational educational mobility"
+    },
+    {
+        "id": 709,
+        "category": 1,
+        "measure": "Intergenerational Income Mobility (typically estimated via regression-based approaches analogous to Intergenerational Elasticity)"
+    },
+    {
+        "id": 710,
+        "category": 6,
+        "measure": "Decomposition analysis of intergenerational income transmission (decomposing contributions from human capital channels, earnings differentials, and marriage patterns)"
+    },
+    {
+        "id": 711,
+        "category": 7,
+        "measure": "Fraction of children with income below the poverty line, variance of child\u2019s income, and the inter\u2010quantile range of child\u2019s income (obtained via a non\u2010parametric counterfactual distribution analysis using quantile regression)"
+    },
+    {
+        "id": 713,
+        "category": 1,
+        "measure": "The paper uses regression\u2010based measures, essentially estimating intergenerational elasticities (regression coefficients linking parental income to outcomes such as birth weight, grades, height, and education attainment)."
+    },
+    {
+        "id": 714,
+        "category": 8,
+        "measure": "Sibling correlations"
+    },
+    {
+        "id": 716,
+        "category": 6,
+        "measure": "Structural approach via recursive bivariate probit estimating the causal effect of relative income mobility"
+    },
+    {
+        "id": 718,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) and Rank\u2010Rank Slope"
+    },
+    {
+        "id": 720,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and Rank Correlation"
+    },
+    {
+        "id": 721,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 723,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) [Category 1, Regression\u2010based Measures]; Associations between fathers\u2019 and sons\u2019 income percentiles [Category 2, Rank\u2010based Measures]; Brother correlations [Category 8, Others]"
+    },
+    {
+        "id": 725,
+        "category": 8,
+        "measure": "Intergenerational Elasticity (IGE, a regression\u2010based measure), rank\u2010rank correlation (a rank\u2010based measure), and absolute upward mobility (an absolute mobility measure)"
+    },
+    {
+        "id": 726,
+        "category": 1,
+        "measure": "Regression\u2010based measure examining the association between childhood environmental toxin exposure and intergenerational socioeconomic outcomes (e.g., comparing adult incomes to parental incomes, incarceration rates, and teenage childbearing) using regression models."
+    },
+    {
+        "id": 727,
+        "category": 3,
+        "measure": "Transition probability estimates \u2013 measuring the likelihood (8 percentage point increase) that a child enters the same industry as the father, along with associated income premium differences"
+    },
+    {
+        "id": 729,
+        "category": 3,
+        "measure": "Transition Matrix using tercile (wealth index and poverty status) and intergenerational transitions in education and health"
+    },
+    {
+        "id": 731,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated via TS2SLS, along with a decomposition of the channels (education, occupation, noncognitive and cognitive abilities, etc.)"
+    },
+    {
+        "id": 734,
+        "category": 4,
+        "measure": "Absolute Intergenerational Income Mobility"
+    },
+    {
+        "id": 735,
+        "category": 2,
+        "measure": "Parent-child Income Rank Associations (IRA)"
+    },
+    {
+        "id": 736,
+        "category": 2,
+        "measure": "The study reports rank\u2010based mobility via a rank\u2010rank correlation (0.25) as well as a transition probability measure \u2013 for example, the likelihood (0.10) that a child from the bottom income quintile ends up in the top quintile, and the estimated conditional percentile (from below median to the 44th percentile)."
+    },
+    {
+        "id": 738,
+        "category": 1,
+        "measure": "The paper uses a regression\u2010based measure, specifically the sensitivity of children\u2019s educational attainment to parental income (an intergenerational elasticity-like measure), as an estimate of intergenerational mobility."
+    },
+    {
+        "id": 739,
+        "category": 1,
+        "measure": "The paper primarily uses regression\u2010based measures such as the Intergenerational Income Elasticity (IGE). In addition, it employs rank\u2010based measures (intergenerational rank mobility) and decomposition/structural approaches (decomposing intergenerational income inequality via investment and endowment effects), but the central quantification is via regression\u2010based IGE."
+    },
+    {
+        "id": 740,
+        "category": 2,
+        "measure": "The paper reports a rank\u2010based measure \u2013 the rankrank slope (0.22) \u2013 and a transition probability measure (0.11 probability that a child from the bottom quintile reaches the top quintile)."
+    },
+    {
+        "id": 742,
+        "category": 1,
+        "measure": "The paper uses two\u2010stage least squares regressions to quantify the causal effect of grandparental wealth on child income (a regression\u2010based measure) and also employs a decomposition approach to parse out racial differences in income."
+    },
+    {
+        "id": 744,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimate from a regression-based framework"
+    },
+    {
+        "id": 745,
+        "category": 2,
+        "measure": "Rank difference between children from the lowest and highest parent percentile"
+    },
+    {
+        "id": 746,
+        "category": 4,
+        "measure": "Absolute mobility measures, specifically capturing upward/downward mobility rates and the distance (or gap) between fathers\u2019 and sons\u2019 outcomes"
+    },
+    {
+        "id": 747,
+        "category": 6,
+        "measure": "Intergenerational persistence estimated through counterfactual structural simulations (e.g., a 78% reduction in persistence when removing heterogeneity in parental time investment)"
+    },
+    {
+        "id": 748,
+        "category": 6,
+        "measure": "Decomposition of intergenerational mobility. In Essay I the author estimates the Great Gatsby Curve via regression\u2010based methods and then decomposes the persistence into distinct transmission channels (e.g. the mediating role of educational attainment along with cognitive and non\u2010cognitive skills), while Essay III decomposes the overall intergenerational transmission into pre\u2010birth (genetic) and post\u2010birth (environmental) components through interaction effects."
+    },
+    {
+        "id": 750,
+        "category": 2,
+        "measure": "The paper uses rank\u2010based mobility estimators\u2014with a focus on how relative (often rank\u2010based) mobility contrasts with absolute mobility measures. In other words, it examines rank\u2010based measures as well as absolute mobility measures."
+    },
+    {
+        "id": 751,
+        "category": 6,
+        "measure": "Decomposition of intergenerational mobility into mediating transmission channels (educational attainment, cognitive, and non\u2010cognitive skills) underlying the Great Gatsby Curve"
+    },
+    {
+        "id": 752,
+        "category": 1,
+        "measure": "Simple Regression Model (with Principal Component Analysis for variable reduction)"
+    },
+    {
+        "id": 753,
+        "category": 1,
+        "measure": "Intergenerational income dynamic regression estimates \u2013 quantifying the correlation in life\u2010cycle income growth, volatility, skewness, and downside risk between fathers and children."
+    },
+    {
+        "id": 754,
+        "category": 1,
+        "measure": "The study uses regression\u2010based estimates via multilevel models \u2013 capturing relative mobility (akin to an intergenerational elasticity measure) \u2013 while also reporting absolute mobility measures"
+    },
+    {
+        "id": 755,
+        "category": 6,
+        "measure": "Sibling correlations and total decomposition analysis"
+    },
+    {
+        "id": 756,
+        "category": 1,
+        "measure": "Intergenerational income association estimates (similar to Intergenerational Elasticity) using OLS and IV estimation strategies"
+    },
+    {
+        "id": 758,
+        "category": 2,
+        "measure": "Parents\u2019 earnings rank as a measure of class background (used to assess the steepness of the social gradient)"
+    },
+    {
+        "id": 760,
+        "category": 6,
+        "measure": "Percentage contribution of OCP to the decline in intergenerational income mobility (a decomposition approach)"
+    },
+    {
+        "id": 761,
+        "category": 4,
+        "measure": "Relative and Absolute Income Mobility Measures"
+    },
+    {
+        "id": 762,
+        "category": 3,
+        "measure": "Transition probabilities computed from the distribution of paternal occupational groups, with an over\u2010representation ratio (e.g., factor of 9.7) indicating the likelihood of CEOs originating from Social Group I"
+    },
+    {
+        "id": 763,
+        "category": 2,
+        "measure": "rank\u2010rank slope"
+    },
+    {
+        "id": 764,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) of income"
+    },
+    {
+        "id": 765,
+        "category": 4,
+        "measure": "Absolute mobility (the percentage share of sons earning more than their fathers) and an implied relative mobility measure (likely estimated through regression\u2010based methods such as the intergenerational elasticity, though the abstract does not specify the exact technique)"
+    },
+    {
+        "id": 766,
+        "category": 1,
+        "measure": "Parental income gradient (regression coefficient from a percentile rank regression, where a 10 percentile increase in parental income is associated with a 5.2 percentage point increase in the child\u2019s A-Level attainment rate)"
+    },
+    {
+        "id": 767,
+        "category": 1,
+        "measure": "Mobility estimates based on imputed parental income, likely operationalized as a regression\u2010based measure such as an intergenerational elasticity (IGE)"
+    },
+    {
+        "id": 769,
+        "category": 1,
+        "measure": "Predicted percentage change in an individual's earnings at age 26 associated with 'growing up' in a particular county (causal effect of place)"
+    },
+    {
+        "id": 770,
+        "category": 3,
+        "measure": "Transition matrix / probability measures \u2013 specifically, estimates of intergenerational wealth correlation via probabilities of belonging to top wealth groups (including analysis of persistence and deviations from perfect mobility)"
+    },
+    {
+        "id": 771,
+        "category": 3,
+        "measure": "Transition probabilities (e.g., the probability of moving from a low-income/wealth quintile to a higher one)"
+    },
+    {
+        "id": 772,
+        "category": 3,
+        "measure": "income quintile transition matrix"
+    },
+    {
+        "id": 773,
+        "category": 1,
+        "measure": "The paper appears to use regression\u2010based estimates of intergenerational mobility (e.g., an intergenerational income elasticity type measure, with analyses of the probability of upward mobility)"
+    },
+    {
+        "id": 774,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 775,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) \u2013 estimated as the percentage change in a son's lifetime income associated with a 10% increase in his father\u2019s lifetime income \u2013 and related regression\u2010based estimates of intragenerational wage mobility."
+    },
+    {
+        "id": 776,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 777,
+        "category": 1,
+        "measure": "The paper develops a regression\u2010based measure of intergenerational relative mobility \u2013 essentially an intergenerational elasticity (IGE) type measure that uses father\u2019s occupation and own family income, adjusted to include non\u2010whites and women."
+    },
+    {
+        "id": 778,
+        "category": 2,
+        "measure": "rank correlation"
+    },
+    {
+        "id": 780,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 781,
+        "category": 6,
+        "measure": "Earnings adjustment via structural estimation of equivalent monetary compensation from non-monetary occupational qualities (i.e., a structural approach to intergenerational income persistence)"
+    },
+    {
+        "id": 784,
+        "category": 6,
+        "measure": "Structural model-based mobility estimates derived from an overlapping-generations simulation"
+    },
+    {
+        "id": 785,
+        "category": 2,
+        "measure": "The paper primarily uses a rank-based mobility measure \u2013 specifically the rank\u2010rank slope (an increase of 1 percentile in parent income rank relates to a 0.2 percentile increase in child income rank) \u2013 and also employs a Blinder-Oaxaca decomposition to partition the native-immigrant gap."
+    },
+    {
+        "id": 786,
+        "category": 3,
+        "measure": "Crude categorical educational mobility measures (transition probabilities)"
+    },
+    {
+        "id": 787,
+        "category": 3,
+        "measure": "Four-group mobility measure based on cross-classifying parental (degree/no degree) and offspring (degree/no degree) educational attainment"
+    },
+    {
+        "id": 788,
+        "category": 8,
+        "measure": "XGBoost-based feature importance measure computed via SHAP values"
+    },
+    {
+        "id": 789,
+        "category": 1,
+        "measure": "Regression coefficient estimating the effect of parental wealth on child labor income (marginal effect measure similar to an intergenerational elasticity)"
+    },
+    {
+        "id": 791,
+        "category": 8,
+        "measure": "The paper employs multiple measures: (a) a rank\u2010based mobility measure, (b) a linear estimator of income share mobility (a regression\u2010based measure), and (c) non\u2010parametric versions of both the rank and income share mobility measures."
+    },
+    {
+        "id": 792,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) estimated using two-sample two-stage least squares"
+    },
+    {
+        "id": 794,
+        "category": 3,
+        "measure": "The paper appears to use a transition matrix approach by comparing the estimated father's income class with the individual's income class to assess intergenerational mobility."
+    },
+    {
+        "id": 795,
+        "category": 1,
+        "measure": "Negative correlation between income inequality and intergenerational mobility (as illustrated by the Great Gatsby curve, often estimated via regression-based methods such as the Intergenerational Elasticity)"
+    },
+    {
+        "id": 796,
+        "category": 2,
+        "measure": "Grandparent-child and dynastic wealth rank correlations"
+    },
+    {
+        "id": 799,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated via proxy variables for parental socioeconomic status"
+    },
+    {
+        "id": 801,
+        "category": 4,
+        "measure": "Upward Mobility Rate"
+    },
+    {
+        "id": 802,
+        "category": 1,
+        "measure": "The paper employs a regression\u2010based approach\u2014using father\u2010son correlation estimates that resemble an Intergenerational Elasticity measure\u2014and a transition matrix approach (intergenerational transition matrices)."
+    },
+    {
+        "id": 803,
+        "category": 6,
+        "measure": "Decomposition of education's effect into the correlation between parental income and child education and the return to education"
+    },
+    {
+        "id": 804,
+        "category": 2,
+        "measure": "Intergenerational rank associations (rank correlations)"
+    },
+    {
+        "id": 805,
+        "category": 1,
+        "measure": "The paper discusses two types of measures: one estimated via linear regressions (commonly used to obtain intergenerational elasticity, a regression\u2010based measure, Category 1) and one using Markov chains (which form a transition matrix/probability measure, Category 3)"
+    },
+    {
+        "id": 807,
+        "category": 4,
+        "measure": "Difference between Waves 1 and 5 income quintiles (a quintile difference measure)"
+    },
+    {
+        "id": 809,
+        "category": 2,
+        "measure": "The study uses rank\u2010based measures \u2013 for example, rank mobility estimates in self\u2010rated health \u2013 alongside analyses of transition probabilities (e.g., the likelihoods of upward or downward mobility in income and education)."
+    },
+    {
+        "id": 810,
+        "category": 1,
+        "measure": "The paper reports treatment\u2010effect estimates from an experimental design \u2013 for instance, the estimated increase in college attendance (e.g. a 35% higher probability) and the differential earnings gains, which together capture the causal impact on intergenerational mobility. These are regression\u2010based estimates (e.g. from models estimating treatment effects) rather than a rank\u2010based, transition matrix, or commonly defined IGE measure."
+    },
+    {
+        "id": 812,
+        "category": 6,
+        "measure": "Decomposition of intergenerational earnings variation using a structural heterogeneous agent life\u2010cycle model that quantifies the contributions of initial conditions (51% variation) and the effects of fertility (40%) and parental transfers (62%) to intergenerational mobility"
+    },
+    {
+        "id": 813,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) as estimated via regression models relating parental and children\u2019s economic outcomes"
+    },
+    {
+        "id": 814,
+        "category": 3,
+        "measure": "Employer transmission probabilities (e.g., transition probability of a child being employed at a firm where the father worked)"
+    },
+    {
+        "id": 815,
+        "category": 2,
+        "measure": "The paper first uses a traditional transition probability of moving across income quantiles (which belongs to Category 3: Transition Matrix/Probability Measures) and then introduces a new upward mobility measure defined as the probability that an adult child\u2019s relative rank exceeds that of the parent (a Rank\u2010based Measure, Category 2)."
+    },
+    {
+        "id": 817,
+        "category": 3,
+        "measure": "Intergenerational mobility rates based on transition probabilities for education attainment, occupation choices, and wages"
+    },
+    {
+        "id": 818,
+        "category": 1,
+        "measure": "The paper uses regression\u2010based measures, specifically estimating intergenerational associations (e.g., intergenerational elasticity) and quantile regression coefficients to assess income mobility."
+    },
+    {
+        "id": 823,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 824,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 825,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated from educational attainment data"
+    },
+    {
+        "id": 828,
+        "category": 1,
+        "measure": "The paper\u2019s analysis centers on regression\u2010based measures, most notably the estimation of the intergenerational elasticity of income (a key component of the Great Gatsby Curve) using pretax income as the measure of cross\u2010sectional inequality."
+    },
+    {
+        "id": 829,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) for income and education (two\u2010 and three\u2010generation estimates)"
+    },
+    {
+        "id": 830,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 832,
+        "category": 3,
+        "measure": "Intergenerational transition matrix analysis"
+    },
+    {
+        "id": 833,
+        "category": 1,
+        "measure": "Direct regression estimates of the effects of parental college attainment on offspring income and property income trajectories"
+    },
+    {
+        "id": 834,
+        "category": 3,
+        "measure": "Class effect measure (difference in the probability of becoming poor between those born in the lowest and highest income quintiles) and Racial effect measure (average racial differential in the probability of becoming poor)"
+    },
+    {
+        "id": 835,
+        "category": 1,
+        "measure": "The study uses a regression\u2010based measure operationalized as the interaction term between parental and adult income within Cox proportional hazards models."
+    },
+    {
+        "id": 836,
+        "category": 4,
+        "measure": "Absolute intergenerational income mobility"
+    },
+    {
+        "id": 837,
+        "category": 6,
+        "measure": "Dynamic life\u2010cycle structural model estimate of the impact of property tax funding on intergenerational mobility"
+    },
+    {
+        "id": 839,
+        "category": 3,
+        "measure": "Intergenerational mobility tables (transition matrices) constructed using a group\u2010based trajectory approach"
+    },
+    {
+        "id": 840,
+        "category": 2,
+        "measure": "Child's income distribution rank; intergenerational income rank relationship (rank\u2010rank correlation)"
+    },
+    {
+        "id": 841,
+        "category": 4,
+        "measure": "The paper computes mobility outcomes in both absolute and relative terms\u2014in particular, it reports absolute mobility measures (e.g. differences expressed in per capita national income levels) alongside relative mobility comparisons across genders and siblings."
+    },
+    {
+        "id": 842,
+        "category": 1,
+        "measure": "The paper estimates intergenerational income mobility using regression\u2010based measures (likely a form of intergenerational elasticity, even if not explicitly labeled as IGE)"
+    },
+    {
+        "id": 843,
+        "category": 1,
+        "measure": "Regression\u2010based estimates of the timing effects of parental income on child human capital (i.e. coefficients comparing balanced versus imbalanced income profiles)"
+    },
+    {
+        "id": 844,
+        "category": 8,
+        "measure": "Stock market judgment\u2010based performance measure"
+    },
+    {
+        "id": 845,
+        "category": 1,
+        "measure": "Probit regression estimates of the probability of upward and downward intergenerational income mobility"
+    },
+    {
+        "id": 848,
+        "category": 6,
+        "measure": "Lifetime resources (including parents' expected lifetime resources) estimated via a structural model incorporating life\u2010cycle dynamics, uncertainty, and credit constraints"
+    },
+    {
+        "id": 849,
+        "category": 6,
+        "measure": "Expected Lifetime Resources measure (a structurally estimated measure of lifetime income and wealth incorporating life\u2010cycle trajectories, uncertainty, and credit constraints)"
+    },
+    {
+        "id": 850,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 851,
+        "category": 1,
+        "measure": "A two\u2010sample two\u2010stage least squares estimate of intergenerational income persistence (i.e. a regression\u2010based measure, akin to an intergenerational elasticity), complemented by quantile\u2010based transition probabilities (e.g. the share moving from the bottom 20% to the top 20%)."
+    },
+    {
+        "id": 852,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and Intergenerational Income Rank-Rank Slope (the former is a regression\u2010based measure while the latter is typically classified as rank\u2010based)"
+    },
+    {
+        "id": 853,
+        "category": 1,
+        "measure": "The study examines education upward mobility and income upward mobility using a regression\u2010based framework (i.e. estimating the effect coefficients, such as those akin to intergenerational elasticity) with moderation (e.g., intergenerational psychological distance) embedded in the model."
+    },
+    {
+        "id": 854,
+        "category": 6,
+        "measure": "Causal Mediation Analysis decomposing the total effect into direct and indirect effects (via GPA)."
+    },
+    {
+        "id": 856,
+        "category": 6,
+        "measure": "Intergenerational Elasticity (IGE) of income"
+    },
+    {
+        "id": 857,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) and Rank\u2010rank slope"
+    },
+    {
+        "id": 858,
+        "category": 8,
+        "measure": "No specific intergenerational mobility measure (e.g., IGE, transition matrices, etc.) is identified; the study relies on descriptive analysis and mapping of government, census, and survey data."
+    },
+    {
+        "id": 859,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 860,
+        "category": 1,
+        "measure": "Subjective intergenerational mobility estimated via regression\u2010based methods (including cross\u2010sectional, random\u2010effects, and fixed\u2010effects models)"
+    },
+    {
+        "id": 861,
+        "category": 5,
+        "measure": "The study used a multigenerational mobility measure by comparing reported educational attainment across three generations (and income differences between youths and parents) to gauge upward mobility."
+    },
+    {
+        "id": 862,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) \u2014 estimated via regression models adjusted for sample underrepresentation"
+    },
+    {
+        "id": 863,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE), as indicated by the estimation of income persistence through regression analysis"
+    },
+    {
+        "id": 864,
+        "category": 3,
+        "measure": "Transition probabilities estimated using a Markov Switching model"
+    },
+    {
+        "id": 866,
+        "category": 4,
+        "measure": "Absolute income mobility measured as the ratio of children earning more than their parents (with a decomposition strategy to account for cohort variation in parent-generation income inequality)"
+    },
+    {
+        "id": 867,
+        "category": 2,
+        "measure": "The study primarily reports a rank\u2010based estimate \u2013 a rank\u2013rank gradient where a 10 percentile increase in parental income rank is associated with a 5.5 percentile increase in child income rank \u2013 and also provides a transition probability measure (a 46% chance for children born in the lowest quintile to remain at the bottom)."
+    },
+    {
+        "id": 870,
+        "category": 1,
+        "measure": "Intergenerational correlations in income dynamics (e.g., correlations in income growth rates, volatility, and downside risk, akin to measures like the intergenerational elasticity but focusing on dynamic income features)"
+    },
+    {
+        "id": 871,
+        "category": 2,
+        "measure": "Rank\u2010based mobility measures \u2013 specifically, a rank\u2010rank slope (percentile rank gradient) and rank\u2010based persistence probabilities (e.g., probability of remaining in the bottom quintile)"
+    },
+    {
+        "id": 872,
+        "category": 1,
+        "measure": "Instrumental variable regression estimates of upward mobility (and related outcomes such as academic achievement, incarceration, and teenage birth rates)"
+    },
+    {
+        "id": 873,
+        "category": 2,
+        "measure": "The paper primarily reports a rank\u2010based mobility measure \u2013 i.e. a rank\u2010rank slope where a 10\u2010percentile increase in parental income rank is associated with a 5.5\u2010percentile increase in child income rank \u2013 and it supplements this with a mobility indicator expressed as a transition probability (46% chance for children of bottom\u2010quintile parents to remain at the bottom)."
+    },
+    {
+        "id": 874,
+        "category": 6,
+        "measure": "Oaxaca-Blinder RIF regression model using Foster\u2013Greer\u2013Thorbecke (FGT) indices"
+    },
+    {
+        "id": 875,
+        "category": 4,
+        "measure": "Neighborhood intergenerational mobility index (an absolute mobility measure)"
+    },
+    {
+        "id": 876,
+        "category": 3,
+        "measure": "Multivariate transition matrix based on posterior probabilities estimated via an expectation\u2010maximization algorithm"
+    },
+    {
+        "id": 877,
+        "category": 8,
+        "measure": "Harmonized indicators for household wealth and its components, including analysis through inheritance, family business ties, and parental education"
+    },
+    {
+        "id": 879,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 880,
+        "category": 2,
+        "measure": "Rank correlation"
+    },
+    {
+        "id": 881,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) curve"
+    },
+    {
+        "id": 882,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) curve"
+    },
+    {
+        "id": 883,
+        "category": 6,
+        "measure": "Decomposition of intergenerational mobility into a causal (fixed\u2010effects based neighborhood exposure effect; each additional year in a one SD better county boosting income by 0.5%) and sorting component"
+    },
+    {
+        "id": 884,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 885,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimates (using both lifetime and snapshot parental resource measures)"
+    },
+    {
+        "id": 886,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 887,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimates"
+    },
+    {
+        "id": 888,
+        "category": 3,
+        "measure": "Intergenerational persistence of home ownership measured via transition probabilities"
+    },
+    {
+        "id": 889,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 890,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 891,
+        "category": 2,
+        "measure": "Rank-rank analysis"
+    },
+    {
+        "id": 893,
+        "category": 6,
+        "measure": "Income persistence as measured by intergenerational elasticity (IGE) and its decomposition into contributions from parental human capital, employment, residual income, and assortative mating."
+    },
+    {
+        "id": 894,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) \u2013 measured as income persistence across generations, with additional decomposition into parental human capital, employment, and residual income components"
+    },
+    {
+        "id": 895,
+        "category": 1,
+        "measure": "Regression coefficients from a hybrid model capturing between\u2010subject and within\u2010subject effects (including moderation via interaction terms)"
+    },
+    {
+        "id": 896,
+        "category": 5,
+        "measure": "Fifth cousin correlations and dynastic correlations based on aggregated social class/status"
+    },
+    {
+        "id": 898,
+        "category": 1,
+        "measure": "The study uses multiple approaches: Regression\u2010based estimates (Probit and 2SLS models), a Transition Matrix (probability measure of mobility), and a Decomposition approach (Bowles\u2010Gintis decomposition method)"
+    },
+    {
+        "id": 899,
+        "category": 1,
+        "measure": "The paper estimates intergenerational persistence via regression\u2010based measures \u2013 typically the intergenerational elasticity (IGE) of permanent income and education \u2013 and extends the analysis to multi\u2010generation (incorporating grandparents through a latent factor model)"
+    },
+    {
+        "id": 900,
+        "category": 1,
+        "measure": "Classroom fixed\u2010effects regression estimates quantifying the association between having a privileged friend and adult income (with interactions for parental income)"
+    },
+    {
+        "id": 901,
+        "category": 1,
+        "measure": "The paper reports two mobility measures: an Intergenerational Elasticity (IGE), which is a regression\u2010based measure (category 1), and a Rank Coefficient, which is a rank\u2010based measure (category 2)."
+    },
+    {
+        "id": 902,
+        "category": 8,
+        "measure": "Maximally Maintained Inequality (MMI) and Effectively Maintained Inequality (EMI)"
+    },
+    {
+        "id": 903,
+        "category": 6,
+        "measure": "Decomposition of intergenerational income persistence into contributions from occupational choices"
+    },
+    {
+        "id": 904,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 905,
+        "category": 4,
+        "measure": "Upward mobility measure (a district\u2010level absolute mobility indicator capturing the fraction of children earning more than their parents)"
+    },
+    {
+        "id": 907,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE) estimated using a regression-based approach across multiple definitions"
+    },
+    {
+        "id": 908,
+        "category": 8,
+        "measure": "Subjective intergenerational mobility measure that classifies individuals as upwardly mobile, downwardly mobile, or immobile based on self\u2010assessed comparisons with their parents"
+    },
+    {
+        "id": 909,
+        "category": 2,
+        "measure": "intergenerational income rank mobility (i.e., a rank\u2010rank slope measure)"
+    },
+    {
+        "id": 910,
+        "category": 1,
+        "measure": "Multiple linear regression estimates, likely measuring the intergenerational income elasticity (IGE)"
+    },
+    {
+        "id": 911,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 912,
+        "category": 1,
+        "measure": "Regression\u2010based estimates (e.g., intergenerational elasticity based on one\u2010dimensional measures, with a proposal for a composite holistic measure)"
+    },
+    {
+        "id": 913,
+        "category": 8,
+        "measure": "Experimental treatment effects measuring the change in perceptions of intergenerational mobility"
+    },
+    {
+        "id": 914,
+        "category": 1,
+        "measure": "Regression\u2010based Measures: Intergenerational Earnings Elasticity (IGE) and Household Income Elasticity; Rank\u2010based Measures: Rank\u2010rank slopes; Transition Matrix / Probability Measures: Transition matrices"
+    },
+    {
+        "id": 915,
+        "category": 8,
+        "measure": "Vertical Social Mobility (assessed via comparing education, employment, and income levels across generations)"
+    },
+    {
+        "id": 916,
+        "category": 2,
+        "measure": "Rank\u2010based measures; Absolute mobility measures"
+    },
+    {
+        "id": 917,
+        "category": 2,
+        "measure": "Rank\u2010based measure of intergenerational persistence \u2013 specifically, estimates based on the rank positions of parental and offspring incomes (including percentile transitions such as the 9.7% upward mobility from the bottom 20% to the top 20%)"
+    },
+    {
+        "id": 918,
+        "category": 2,
+        "measure": "Intergenerational Rank Correlation (housing wealth)"
+    },
+    {
+        "id": 919,
+        "category": 2,
+        "measure": "Adult income rank (4-percentile reduction)"
+    },
+    {
+        "id": 920,
+        "category": 1,
+        "measure": "A regression\u2010based measure, likely an Intergenerational Elasticity (IGE)-like estimate capturing the sensitivity of educational attainment (and hence future economic outcomes) to parental income."
+    },
+    {
+        "id": 921,
+        "category": 2,
+        "measure": "Expected rank mobility measure (percentile\u2010based measure) and its adjustment for absolute upward mobility"
+    },
+    {
+        "id": 922,
+        "category": 2,
+        "measure": "rank\u2010rank slope (correlation between income ranks at age 15\u201319 and age 29\u201330)"
+    },
+    {
+        "id": 923,
+        "category": 1,
+        "measure": "Logistic regression estimates of predictors (e.g., education, employment status, income, parental indicators) for home ownership"
+    },
+    {
+        "id": 924,
+        "category": 1,
+        "measure": "Regression\u2010based estimates (e.g., coefficients quantifying the effect of physical attractiveness on intergenerational educational, occupational, and income mobility outcomes)"
+    },
+    {
+        "id": 925,
+        "category": 1,
+        "measure": "Intergenerational income mobility trajectories (estimated via regression\u2010based approaches, for example by calculating an intergenerational income elasticity)"
+    },
+    {
+        "id": 926,
+        "category": 2,
+        "measure": "rank\u2010rank correlation"
+    },
+    {
+        "id": 930,
+        "category": 3,
+        "measure": "Transition probability measures (e.g., the likelihood of exiting the bottom quintile and transitioning into the middle class)"
+    },
+    {
+        "id": 931,
+        "category": 1,
+        "measure": "The paper uses a relative mobility measure \u2013 the correlation coefficient between the duration of education of children and their parents (rising from 0.32 to 0.48), which is akin to regression\u2010based measures (e.g. IGE). It also reports an absolute mobility measure \u2013 the share of children attaining longer or higher education than their parents."
+    },
+    {
+        "id": 933,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 934,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 935,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 936,
+        "category": 3,
+        "measure": "Income mobility measure based on a parent\u2010child income quintile transition matrix"
+    },
+    {
+        "id": 937,
+        "category": 1,
+        "measure": "Upward intergenerational income mobility (estimated via regression\u2010based approaches, for example using intergenerational outcome regressions)"
+    },
+    {
+        "id": 938,
+        "category": 5,
+        "measure": "Multigenerational mobility measure\u2014estimating persistence (wealth transmission) via a latent factor model contrasted with traditional two\u2010generation estimates"
+    },
+    {
+        "id": 939,
+        "category": 1,
+        "measure": "Empirical elasticity estimates (i.e., the percentage change in children\u2019s earnings in response to a 10% increase in parents\u2019 unused revolving credit, analogous to an Intergenerational Elasticity measure)"
+    },
+    {
+        "id": 940,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 941,
+        "category": 1,
+        "measure": "The paper employs regression\u2010based estimates of intergenerational influence (e.g., estimates similar to an Intergenerational Elasticity, based on lifetime versus snapshot parental income measures)"
+    },
+    {
+        "id": 942,
+        "category": 8,
+        "measure": "The paper reports intergenerational mobility rates and introduces a 'sufficient statistic approach' for evaluating policy impacts on earnings and mobility, which does not neatly fall into the listed categories."
+    },
+    {
+        "id": 943,
+        "category": 1,
+        "measure": "Regression\u2010based measure capturing the slope (gradient) of the relationship between parental income rank and the A\u2010Level degree attainment share (a rank\u2010rank gradient)"
+    },
+    {
+        "id": 944,
+        "category": 3,
+        "measure": "Transition Matrix Methodology"
+    },
+    {
+        "id": 945,
+        "category": 6,
+        "measure": "The paper reports an intergenerational elasticity\u2010type estimate \u2013 quantifying how a 10% increase in parental unused revolving credit is associated with a ~0.28\u20130.37% increase in children\u2019s earnings \u2013 and then uses a dynastic, defaultable debt structural model to decompose the channels. This approach falls under a structural decomposition / structural approach."
+    },
+    {
+        "id": 946,
+        "category": 8,
+        "measure": "social mobility integral index and different indicators"
+    },
+    {
+        "id": 948,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IGE)"
+    },
+    {
+        "id": 949,
+        "category": 1,
+        "measure": "The study appears to use regression\u2010based measures\u2014likely an estimation of intergenerational elasticity (IGE) or a regression coefficient quantifying the relationship between parental and offspring socioeconomic status."
+    },
+    {
+        "id": 951,
+        "category": 2,
+        "measure": "Intergenerational Wealth Rank Correlations"
+    },
+    {
+        "id": 952,
+        "category": 1,
+        "measure": "Predicted owner\u2010occupation probabilities estimated through logistic regression models"
+    },
+    {
+        "id": 954,
+        "category": 1,
+        "measure": "Regression\u2010based estimates of upward and downward income mobility (i.e. odds of experiencing upward vs. downward mobility)"
+    },
+    {
+        "id": 956,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE) and Rank mobility measures"
+    },
+    {
+        "id": 957,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 960,
+        "category": 4,
+        "measure": "Absolute Income Mobility"
+    },
+    {
+        "id": 961,
+        "category": 1,
+        "measure": "Intergenerational income mobility estimated via regression\u2010based measures (typically captured by the intergenerational elasticity, IGE)"
+    },
+    {
+        "id": 962,
+        "category": 2,
+        "measure": "The paper uses both relative mobility measures (assessed via rank\u2010based methods) and absolute mobility measures (assessed via changes in absolute dollars)."
+    },
+    {
+        "id": 965,
+        "category": 1,
+        "measure": "Regression coefficient estimates (from multilevel regression models capturing the impact of adolescent financial disadvantage on adult income poverty risks)"
+    },
+    {
+        "id": 966,
+        "category": 1,
+        "measure": "Estimated regression coefficient capturing the effect of temporary urban relocation on occupational income"
+    },
+    {
+        "id": 968,
+        "category": 1,
+        "measure": "County-level intergenerational mobility measure (Chetty\u2010Hendren rank\u2010rank slope)"
+    },
+    {
+        "id": 969,
+        "category": 2,
+        "measure": "Intergenerational Wealth Rank Correlation"
+    },
+    {
+        "id": 970,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 971,
+        "category": 2,
+        "measure": "income rank"
+    },
+    {
+        "id": 972,
+        "category": 1,
+        "measure": "The paper examines continuous, regression\u2010based estimates of intergenerational mobility \u2013 specifically the mobility in income and education \u2013 by predicting mobility outcomes using techniques such as Rigorous LASSO, Random Forest, and Gradient Boosting (analogous to measures like the intergenerational elasticity even if not labeled explicitly as IGE)"
+    },
+    {
+        "id": 973,
+        "category": 1,
+        "measure": "Intergenerational Income Mobility as estimated by the regression coefficient in a multilevel regression model"
+    },
+    {
+        "id": 974,
+        "category": 3,
+        "measure": "Probability measure \u2013 the likelihood that a child reaches the top income quintile"
+    },
+    {
+        "id": 975,
+        "category": 1,
+        "measure": "Regression coefficients from a multilevel model estimating the effect of a 1 SD increase in sprawl on upward economic mobility (0.07 SD at the tract level and 0.08 SD at the city level)"
+    },
+    {
+        "id": 978,
+        "category": 1,
+        "measure": "Intergenerational Income Elasticity (IGE)"
+    },
+    {
+        "id": 979,
+        "category": 8,
+        "measure": "Reachability Mobility (a novel measure using a copula-based approach combined with a standard mobility direction indicator)"
+    },
+    {
+        "id": 980,
+        "category": 8,
+        "measure": "The paper uses a variety of measures spanning several categories. For income mobility, it employs regression\u2010based measures\u2014namely, the intergenerational income elasticity (estimated via two\u2010sample two\u2010stage least squares), income correlation, and intergenerational education correlation (all fitting category 1); a rank\u2010based measure (the rank\u2013rank slope, category 2); and transition matrix/probability measures (the bottom\u2010to\u2010top income level probability and the low\u2010to\u2010high education level probability, category 3). In addition, it reports absolute mobility measures\u2014in particular, the share of individuals earning more than (or having a higher education than) their fathers (category 4)."
+    },
+    {
+        "id": 981,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 982,
+        "category": 1,
+        "measure": "The study appears to use regression\u2010based measures (estimating marginal effects on intergenerational income mobility, akin to an intergenerational income elasticity approach)"
+    },
+    {
+        "id": 983,
+        "category": 8,
+        "measure": "Gini coefficient for land ownership and an analysis of relative stability in family positions (unspecified mobility measure)"
+    },
+    {
+        "id": 984,
+        "category": 6,
+        "measure": "Intergenerational income persistence decomposed into employment, education, and capital income channels"
+    },
+    {
+        "id": 986,
+        "category": 1,
+        "measure": "Intergenerational Elasticity (IGE)"
+    },
+    {
+        "id": 987,
+        "category": 2,
+        "measure": "Income rank\u2010rank relationship (occupational persistence contribution)"
+    },
+    {
+        "id": 988,
+        "category": 8,
+        "measure": "New socioeconomic status scores derived via machine learning (leveraging occupation, industry, race, geography, housing tenure, and nativity) to predict life span using CenSoc data"
+    },
+    {
+        "id": 989,
+        "category": 3,
+        "measure": "Sibling Transition Matrix / Sibling Mobility Probability Measure"
+    },
+    {
+        "id": 990,
+        "category": 2,
+        "measure": "Rank\u2010rank regression coefficient; Conditional rank\u2010rank regression coefficient and the difference between conditional and unconditional coefficients (as a between\u2010group persistence measure)"
+    },
+    {
+        "id": 991,
+        "category": 4,
+        "measure": "The paper reports evidence using an Absolute Mobility Measure (tracking changes in absolute mobility levels over time) alongside estimates of Relative Mobility \u2013 typically obtained via regression\u2010based approaches (for example, the intergenerational elasticity of income), though the abstract does not specify the exact relative measure."
+    },
+    {
+        "id": 992,
+        "category": 2,
+        "measure": "Place\u2010based estimates of intergenerational economic mobility outcomes (essentially a rank\u2010based measure, as provided by Opportunity Insights)"
+    },
+    {
+        "id": 993,
+        "category": 8,
+        "measure": "The abstract does not specify a particular quantitative measure (such as Intergenerational Elasticity, rank-based measures, etc.) but rather discusses social mobility in descriptive terms without detailing an explicit model-based estimate."
+    },
+    {
+        "id": 995,
+        "category": 2,
+        "measure": "Rank\u2010rank regression for relative mobility"
+    },
+    {
+        "id": 996,
+        "category": 1,
+        "measure": "Intergenerational persistence estimated via regression models (including fixed effects and Lewbel's internal heteroscedasticity-based identification), applied to subjective wellbeing as well as income"
+    },
+    {
+        "id": 997,
+        "category": 1,
+        "measure": "Intergenerational Mobility (potentially estimated through Intergenerational Elasticity)"
+    },
+    {
+        "id": 998,
+        "category": 1,
+        "measure": "Causal regression coefficient estimates measuring the impact on lifetime earnings and wealth"
+    },
+    {
+        "id": 999,
+        "category": 8,
+        "measure": "A custom\u2010developed scale that gauges the degree of matching among individual occupation, education, and income to capture patterns of intergenerational (meritocratic) mobility"
+    },
+    {
+        "id": 1001,
+        "category": 1,
+        "measure": "Intergenerational Earnings Elasticity (IEE) via regression, with additional decomposition of the elasticity by educational attainment"
+    },
+    {
+        "id": 1002,
+        "category": 1,
+        "measure": "The papers estimating intergenerational effects\u2014whether on schooling or income\u2014rely on regression\u2010based measures (typically, an intergenerational elasticity or association estimated via methods such as OLS regression and various identification strategies, e.g. twins, adoptees, instrumental variables)"
+    },
+    {
+        "id": 1003,
+        "category": 1,
+        "measure": "Intergenerational mobility regression measures (e.g., Intergenerational Elasticity derived through iterative application)"
+    },
+    {
+        "id": 1004,
+        "category": 7,
+        "measure": "nonparametric (local) intergenerational mobility measures (persistence coefficients estimated via a varying coefficient model)"
+    },
+    {
+        "id": 1005,
+        "category": 1,
+        "measure": "Regression\u2010based estimates capturing the divorce penalty on educational and occupational outcomes by parental background (interaction coefficients from a regression framework)"
+    }
+]
