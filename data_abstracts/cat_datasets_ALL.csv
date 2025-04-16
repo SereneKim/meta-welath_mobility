@@ -1,0 +1,890 @@
+id,data_cat,data_type
+0,6,"Linked IRS administrative data (e.g., tax records used to track parent‐child income mobility)"
+1,13,N/A
+2,13,N/A
+3,1,UK longitudinal survey data (exact name not provided)
+4,2,US county-level administrative data derived from tax records to measure intergenerational income mobility along with aggregated county-level life expectancy data
+5,1,South Australian school children cohort study
+6,14,Aggregated cross‐sectional income distribution data for 1960–1987 birth cohorts in eight countries (non–linked parent-child data)
+7,1,N/A
+8,13,N/A
+9,6,Linked parent-child administrative data (for five countries); Detailed survey data (for two additional countries)
+10,13,N/A
+11,13,N/A
+12,6,"Australian linked administrative data (e.g., tax records used to link parent and child incomes)"
+13,1,National Longitudinal Survey of Youth (NLSY)
+14,3,"Repeated cross-sectional national survey data with retrospective questions (e.g., household surveys in Chile and Peru)"
+15,6,"Linked Administrative Data (using linked tax/earnings records across generations, specific dataset name not provided)"
+16,1,cross‐state panel data; cross‐U.S. commuting‐zone data
+17,6,Linked Administrative Data (using Australia’s administrative income records to link parent–child earnings over time)
+18,13,N/A
+19,12,Facebook friendship network data
+20,13,N/A
+21,13,N/A
+22,2,"The study appears to use administrative/registry data (e.g., Danish administrative registers and comparable U.S. administrative datasets), though no specific dataset names are provided."
+23,5,Volcanic experiment (Natural/Experimental Data)
+24,13,N/A
+25,1,National Longitudinal Survey of Youth 1979; 1970 US Census (the latter functioning as a national survey dataset)
+26,3,International Social Survey Program (ISSP) 2009 module
+27,1,Panel Study of Income Dynamics
+28,3,Britain's Labour Force Survey
+29,11,Harvard archival records; U.S. Census records (the latter aligning with Administrative/Registry Data)
+30,3,"Latin American and Caribbean national household survey data (aggregated)
+"
+31,12,Great British Class Survey
+32,1,Longitudinal survey data on career outcomes of two generations of young white men (exact dataset name not specified)
+33,1,"The abstract indicates a longitudinal panel study (tracking intergenerational data over 1994–2016), but does not specify the exact dataset name."
+34,1,Understanding Society
+35,4,Opportunity Atlas
+36,6,"Linked Administrative Data (e.g., IRS tax records)"
+37,7,N/A
+38,1,National Child Development Study
+39,3,Labour Force Survey (2014-2015)
+40,6,"Danish linked administrative registry data (e.g., civil registration, income, and health records)"
+41,5,Natural/Experimental Data (leveraging the natural experiment of the 1937 introduction of antibiotics and historical state-level segregation information)
+42,13,N/A
+43,1,"longitudinal subset of a larger two-country, multicity, mixed-methods study (surveys and semi-structured interviews)"
+44,13,N/A
+45,1,Longitudinal prospective study of 456 inner-city men
+46,9,Notre Dame alumni records
+47,2,Danish National Registers
+48,1,1958 National Child Development Study and 1970 British Cohort Study
+49,2,Swedish administrative/registry data
+50,13,N/A
+51,2,Norwegian administrative data
+52,13,N/A
+53,1,Panel Study of Income Dynamics
+54,1,Add Health (National Longitudinal Study of Adolescent Health) and MIDUS (Midlife in the United States Study)
+55,3,India Human Development Survey (IHDS)
+56,13,N/A
+57,13,N/A
+58,1,"Longitudinal household survey data from 2,000 households in rural China collected in 2005, 2008, 2012, 2016, and 2019"
+59,13,N/A
+60,13,N/A
+61,13,N/A
+62,3,1995 Israeli Census
+63,3,N/A
+64,12,Facebook friendship data (21 billion friendships)
+65,6,2012 Longitudinal and International Study of Adults linked to historical income data from the Canada Revenue Agency
+66,2,"Newly compiled administrative dataset of roll call votes on California education legislation, matched with electoral district‐level upward mobility measures"
+67,2,"The study uses multiple datasets: (a) Boston shooting incident records—which are Administrative/Registry Data (Category 2), (b) historic HOLC redlining maps—an Archival/Historical Data source (Category 11), and (c) income mobility data that aligns with the Opportunity Atlas (Category 4)"
+68,10,Household Budget Survey (Pseudo-Panel constructed from cross-sectional data 1988-2011)
+69,3,General Social Survey
+70,1,"Finnish Census Panel, Panel Study for Income Dynamics (PSID)"
+71,6,Swedish income tax records
+72,3,Nationwide Survey Experiment (exact dataset name not specified)
+73,1,PSID
+74,1,Panel Study of Income 1981
+75,3,"American Community Survey (1980–2015) and other national‐level data; additionally, a 20‐year qualitative fieldwork dataset (classified as 14: Others)"
+76,1,Panel Study of Income Dynamics
+77,6,"Swedish Linked Administrative Data (e.g., Swedish Population Registers)"
+78,13,N/A
+79,13,N/A
+80,1,"For the US application (1969–2014) the paper appears to use panel/longitudinal survey data (e.g. the Panel Study of Income Dynamics), while for the international comparison (US and 31 European countries in 2010) it likely relies on comparable national survey data (e.g. from the Luxembourg Income Study)"
+81,2,Swedish administrative register data (1975-1995)
+82,3,Britain's Labour Force Survey
+83,3,I972 General Household Survey in the U.K.
+84,13,N/A
+85,4,Opportunity Atlas
+86,6,N/A
+87,7,Andersens education mobility measure panel over sixteen Latin American economies
+88,1,Japan Child Panel Survey (JCPS)
+89,1,National Educational Longitudinal Study of 1988 (NELS 88)
+90,1,"Ongoing longitudinal, representative cohort study of families in 11 predominately rural counties of the Southeastern U.S."
+91,13,N/A
+92,11,Chicago business elite archival records (1830-1930)
+93,11,"Historical Sample of the Netherlands, Heights and Life Courses Database, Male Kin Height Database"
+94,1,The Life Chances Study
+95,14,"urban household survey carried out in six Chinese provinces (Shaanxi, Jilin, Hubei, Sichuan, Guangdong, and Shandong)"
+96,6,Finnish population register data linking individuals and parents
+97,3,National Baseline Household Survey (NBHS)
+98,13,N/A
+99,11,Historical assignment records (normal schools and insane asylums); Opportunity Atlas (from Opportunity Insights)
+100,11,"Newly digitized archival/historical industrial and regional development data (Finland and comparable Norwegian data); also, Finnish administrative data tracking individuals over 30 years (Administrative/Registry Data, category 2)"
+101,6,Finnish linked administrative/register data on 1.45M individuals and their parents
+102,1,National Longitudinal Survey of Youth (NLSY79)
+103,3,Philippines National Survey Data (rural household survey collecting intergenerational information)
+104,14,various micro data sources (exact names not specified)
+105,10,Family Income and Expenditure Survey
+106,14,Primary mixed-methods field data collected from Filipino nurse migrants in Ireland
+107,13,N/A
+108,1,National Longitudinal Survey of Youth (NLSY)
+109,11,Japanese American Research Project
+110,2,"U.S. county-level administrative data (e.g., Census/County statistics on household income, poverty rates, educational attainment, etc.)"
+111,1,cohort study of Norwegian males
+112,2,Swedish registry data
+113,1,Wisconsin Longitudinal Study (WLS)
+114,13,N/A
+115,13,N/A
+116,1,Panel Study of Income Dynamics
+117,13,N/A
+118,2,"U.S. administrative data (e.g., aggregated IRS/Census records on intergenerational mobility measured at the commuting zone level)"
+119,3,Custom National Survey Data on Malaysian socioeconomic mobility
+120,13,N/A
+121,3,2005 EUSILC inter-generational module
+122,13,N/A
+123,3,Indian National Survey Data – a rich income and consumption survey (likely akin to the NSS Consumer Expenditure Survey)
+124,11,Census statistics of 1950 and 1960 for the New York metropolis concerning Puerto Ricans
+125,13,N/A
+126,6,Finnish administrative registry data linking individuals to their parents
+127,3,ISSP 2009 module
+128,5,N/A
+129,12,Facebook friendship network data and community‐level average credit scores (the former from a Big Data source; the latter from credit bureau administrative records)
+130,13,N/A
+131,3,Labour Force Survey (2014-2023)
+132,3,EU-SILC 2011 microdata
+133,3,National Survey Data (exact dataset not specified)
+134,1,National Child Development Survey
+135,7,Luxembourg Wealth Study (2002-2018)
+136,1,Jordanian Labor Market Panel Survey
+137,2,"Swedish administrative/registry data covering 1975-1995 (e.g., population and income registers)"
+138,2,Class Background Registers of Yanshan county
+139,1,Birth to Thirty (Bt30) cohort
+140,1,Korean education employment panel (KEEP)
+141,11,Chilean nitrate industry archival records (35‐years of monthly output and inputs)
+142,1,1982 Pelotas Birth Cohort
+143,13,N/A
+144,1,Australian longitudinal panel dataset (exact dataset name not specified)
+145,1,Study tracking 3000 individuals from 1942 to 1972 (panel/longitudinal survey) and international father/son income correlation studies
+146,3,East African surveys of representative urban wage employees (used for cross-tabulations and summary statistics)
+147,14,Custom survey data from 1982 involving 1200 respondents from 10 major city districts in Pakistan
+148,1,Panel Study of Income Dynamics (PSID)
+149,1,"Longitudinal data for Norwegian children born in 1950, 1955, 1960, and 1965"
+150,1,"SOEP, PSID"
+151,1,Panel Study of Income Dynamics (PSID)
+152,3,2006 ESRU Survey on Social Mobility in Mexico
+153,1,1970 BCS and 1958 NCDS (British Cohort Study 1970; National Child Development Study 1958)
+154,13,N/A
+155,1,"Health and Retirement Study (HRS) and Survey of Health, Aging and Retirement in Europe (SHARE)"
+156,13,N/A
+157,2,Spanish Census Data
+158,6,Uruguayan Linked Administrative Data (1982–2010)
+159,13,N/A
+160,6,Linked Administrative Data (using criminal justice records combined with earnings records for individuals born 1980-1984)
+161,2,Swedish income data
+162,6,Canadian income tax records (linked father-son pairs)
+163,1,PSID sample
+164,1,British birth cohort studies of 1958 and 1970
+165,2,Swiss administrative/registry data – two datasets using administrative records (one for current individual income and one using historical records to proxy for fathers’ income)
+166,1,Five longitudinal data sets (exact names not specified)
+167,2,Administrative data associated with the Canadian tax system
+168,13,N/A
+169,13,N/A
+170,14,Not specified
+171,6,Uruguayan administrative records linking parental education/income with children’s schooling (1982–2010)
+172,13,N/A
+173,3,Singapore National Youth Surveys of 2002 and 2010
+174,1,Korea Labor and Income Panel Study
+175,13,N/A
+176,6,Swedish linked administrative (multi‐generational registry) data
+177,3,The paper uses microdata from a nationally representative survey covering China (1988–2005). The exact dataset name is not provided.
+178,7,Cross-National Equivalent File (PSIDGSOEP)
+179,6,Norwegian administrative register data
+180,14,Unspecified income dataset from young adults in Montreal and Vancouver
+181,3,Programme for International Assessment of Adult Competencies (PIAAC)
+182,1,Longitudinal survey data from three villages in the semi-arid tropical region of India
+183,1,"German Socio-Economic Panel (SOEP), Panel Study of Income Dynamics (PSID), British Household Panel Survey (BHPS)"
+184,6,"Italian linked administrative data (e.g., administrative records from Italian provinces)"
+185,3,PISA
+186,1,National Longitudinal Survey of Youth
+187,1,Panel Study of Income Dynamics (PSID)
+188,7,EU‐15 intergenerational panel data (exact dataset name not specified)
+189,10,"pseudo-panel data (for Colombia, Ecuador, Uruguay) and asset persistence estimates for Mexico"
+190,1,German Socio-Economic Panel Survey
+191,3,European Union Statistics on Income and Living; International Social Survey
+192,14,"Qualitative interviews, household surveys, and existing research studies (data on Uruguay’s Asignaciones Familiares program)"
+193,1,China Health and Nutrition Survey (CHNS)
+194,1,National Longitudinal Surveys
+195,3,Repeated cross‐sectional survey data from Taiwan (exact dataset unspecified)
+196,14,In-depth interviews and extensive fieldwork
+197,13,N/A
+198,13,N/A
+199,3,2006 Mexican Social Mobility Survey
+200,3,2001 Census
+201,2,Probate Records
+202,13,N/A
+203,1,1958 and 1970 birth cohort studies (panel/longitudinal surveys)
+204,11,3-stratum intergenerational mobility classifications assembled by Hazelrigg and Garnier for men in 16 countries (1960s-1970s)
+205,2,US income tax data
+206,14,Multiple datasets: 11 – Libro D'Oro (Archival/Historical Data); 3 – 19 nationally representative samples on children’s reading/math tests (National Survey Data); 10 – Consumer Expenditure Survey (Household Budget/Expenditure Survey); 2 – Census data (Administrative/Registry Data)
+207,13,N/A
+208,13,N/A
+209,1,Panel Study of Income Dynamics
+210,3,Bank of Italy's repeated cross-section household survey
+211,13,N/A
+212,13,N/A
+213,1,"Harmonized Longitudinal Data – likely derived from panel surveys (e.g., the US Panel Study of Income Dynamics and a corresponding British panel such as the British Household Panel Survey)"
+214,14,Custom database constructed using a two-sample instrumental variable (TSIV) approach developed by Angrist and Krueger
+215,13,N/A
+216,1,China Health and Nutrition Survey
+217,2,Gothenburg Tax Data (1925–1947 and 1936–1958)
+218,11,"Panel of 18,869 individuals tracked via wealth observed at death records (England and Wales, 1858–2012)"
+219,11,1940 and 1950 Census Data
+220,13,N/A
+221,13,N/A
+222,1,"PSID, GSOEP"
+223,6,Swedish administrative register data linking individuals born 1962–1964 with parental income records
+224,1,Panel Study of Income Dynamics
+225,6,Linked Administrative Data (using linked registry/tax records for intergenerational study)
+226,5,N/A
+227,1,1989-2009 China Health and Nutrition Survey (CHNS)
+228,6,"Linked Administrative Data – for example, linked tax records tracking parents’ and children’s earnings over time"
+229,3,N/A
+230,3,Chinese Urban Household Education and Employment Survey (CHUHEES)-2004
+231,13,N/A
+232,13,N/A
+233,13,N/A
+234,1,Taipei Household Registers Repeated Cross-sectional Survey (1963 & 1991)
+235,7,N/A
+236,3,Coleman data
+237,1,Korean Labor and Income Panel Study (KLIPS)
+238,6,Finnish linked administrative register panel data (covering individuals born 1930–1970 observed from 1950 through 1999)
+239,1,Chilean household panel survey (the country's most extended household panel survey)
+240,13,N/A
+241,14,Self-collected cross‐sectional survey data (using study-specific questionnaires and samples from Brazil and Mexico)
+242,7,European Community Household Panel
+243,13,N/A
+244,13,N/A
+245,2,Swedish Tax Data Files
+246,6,Chilean linked administrative registry data (fathers’ income records linked to offspring outcomes)
+247,11,Estate inventories of the deceased (tereke) recorded in Kastamonu court records (sicils)
+248,13,N/A
+249,1,National Educational Longitudinal Study (1988 and 2000 sweeps)
+250,2,Social Security Earnings Data (Administrative/Registry Data)
+251,6,Unspecified linked administrative data
+252,13,N/A
+253,3,Survey of Household Income and Wealth
+254,13,N/A
+255,11,"3,000 families survey of those individuals residing in the Loire-Infrieure department"
+256,14,Unique data from India
+257,14,"Comparative intergenerational mobility data; 3, 2001 Eurobarometer survey on pensions"
+258,3,Bank of Italy's Survey on Household Income and Wealth
+259,3,2006 By-Census dataset
+260,3,Nationally representative household survey data from five African countries
+261,3,2005 Social Stratification and Social Mobility Survey Project
+262,13,N/A
+263,13,N/A
+264,13,N/A
+265,2,Estate Tax Returns
+266,1,1958 National Child Development Study and 1970 British Cohort Study
+267,1,Panel/Longitudinal Surveys (exact dataset name not provided)
+268,13,N/A
+269,1,British Cohort Study (BCS)
+270,2,Administrative data containing the earnings histories of parents and children
+271,1,Panel Study of Income Dynamics
+272,5,N/A
+273,6,Chilean Linked Administrative Data for Greater Santiago
+274,1,N/A
+275,3,"Urban household surveys in China; National survey data on child poverty from Canada, the United Kingdom, and urban India"
+276,13,N/A
+277,3,one percent Integrated Public Use Microsample Series (IPUMS) of the decennial Census for the decades 1970 and 1990
+278,6,Linked Administrative Data (parent-child income records from administrative sources)
+279,1,Panel/Longitudinal Surveys – the paper uses a linked father‐son panel dataset measured over multiple years (exact dataset name not specified)
+280,13,N/A
+281,1,National Child Development Study; British Cohort Study
+282,3,Spanish National Survey Data – two separate cross‐sectional surveys (one providing children’s earnings and one providing fathers’ income) combined via a two‐sample two‐stage least squares approach
+283,7,OECD public spending data (2000-2009) and Program for International Student Assessment (PISA) test scores
+284,11,"wills on reproductive success, social status and income for England 1585-1638"
+285,3,"PISA 2003 (cross‐country survey, National Survey Data), ISTAT 2001 (Italy, National Survey Data) and GSOEP 2001–2002 (Germany, Panel/Longitudinal Survey)"
+286,3,decennial U.S. Censuses
+287,13,N/A
+288,3,Survey of young respondents reporting contemporaneous incomes of their parents (Singapore)
+289,11,new intergenerational data set
+290,13,N/A
+291,4,Opportunity Atlas
+292,7,"International panel data aggregated from multiple national sources (e.g., data underlying the Great Gatsby Curve)"
+293,1,"Panel/Longitudinal Surveys (e.g., data similar to the Panel Study of Income Dynamics)"
+294,7,Young Lives
+295,1,"British Birth Cohort Studies – for instance, the 1958 National Child Development Study and analogous longitudinal cohort studies for later birth years (e.g., a study tracking those born in 1991/92)"
+296,6,Social Security Earnings Histories from the 1984 Survey of Income and Program Participation
+297,1,Japanese Panel Survey of Consumers (1993-2004 rounds)
+298,13,N/A
+299,1,"U.S. Panel Study of Income Dynamics; 3, Singapore National Youth Survey"
+300,13,N/A
+301,1,Dunedin Study (cohort study of people born in Dunedin in 1972-1973)
+302,2,Swedish register data
+303,1,Unique residential history survey data with retrospective parental asset information from 141 villages in rural Bangladesh
+304,1,PSID
+305,6,Finnish linked administrative registry data (combining sons' earnings in 2000 with fathers' average earnings during 1970-1990)
+306,3,US General Social Survey
+307,14,Statistical and ethnographic data
+308,3,Cumulative ANES data
+309,6,Linked Administrative Data (exact dataset not specified)
+310,13,N/A
+311,13,N/A
+312,13,N/A
+313,6,administrative earnings records (linked parent-child records)
+314,3,PISA 2003 (cross-country survey) and a country-specific nationally representative survey
+315,1,Dataset used is not explicitly named in the abstract; likely a panel/longitudinal survey of urban Chinese families.
+316,1,"German SocioEconomic Panel, British Household Panel Survey"
+317,1,Three British birth cohort studies
+318,13,N/A
+319,3,National Sample Survey
+320,1,"Panel Study of Income Dynamics; also, aggregated administrative records from the Census and IRS (i.e. census data and IRS records)"
+321,1,National Longitudinal Survey of Youth (1979-2002)
+322,13,N/A
+323,1,1958 National Child Development Study and 1970 British Cohort Study
+324,13,N/A
+325,1,PSID
+326,13,N/A
+327,2,Danish wealth records
+328,11,Historical US Census/Archival Data (linked across generations)
+329,6,IRS Linked Administrative Data (parent–child earnings records aggregated at the census commuting zone level)
+330,6,Swedish linked administrative register data (parental and offspring income records)
+331,11,"Ethnographic and Archaeological data from forager, horticultural and herding populations"
+332,11,Rare English Surname Data (1858-1887)
+333,3,2001 National Health Interview Survey
+334,13,N/A
+335,7,Country-level panel data (exact dataset name not specified)
+336,13,N/A
+337,13,N/A
+338,7,"International panel data on income mobility, tax rates, and public expenditures (aggregated cross-country dataset)"
+339,3,Vietnam Household Living Standards Survey (VHLSS) of 2012 and Vietnam Living Standards Survey (VLSS) of 1997-98
+340,3,Mexican Social Mobility Survey 2006
+341,1,PSID (Panel Study of Income Dynamics)
+342,6,Linked Administrative Data (dataset not specified)
+343,13,N/A
+344,13,N/A
+345,1,Panel Studies of Income Dynamics (PSID)
+346,3,Spanish surveys (no single dataset covering long‐term info on both children’s and fathers’ earnings; two separate national surveys)
+347,13,N/A
+348,13,N/A
+349,13,N/A
+350,1,Panel Study of Income Dynamics
+351,3,National representative survey of Mexico
+352,2,"Social Security Earnings Data; and a second dataset that appears to be a panel/longitudinal survey containing adolescent test scores, family structure, schooling, and parental wealth (exact name not specified)"
+353,13,N/A
+354,11,"Historical surname records from multiple countries (Sweden, US, England, India, China, Chile, Japan, Korea)"
+355,13,N/A
+356,7,Harmonized micro data from 18 Latin American countries spanning multiple cohorts
+357,2,administrative earnings records
+358,2,US state data
+359,6,Norwegian administrative registers linking fathers’ and sons’ income records
+360,14,"Social survey and observation dataset from a community study in Chittagong, Bangladesh"
+361,13,N/A
+362,2,Danish administrative registers
+363,14,Reanalysis and synthesis of previously collected data on intergenerational economic mobility from various earlier studies
+364,14,Custom questionnaire survey data from Osaka middle and vocational school graduates
+365,1,National Longitudinal Survey of Youth
+366,1,Panel Study of Income Dynamics; Current Population Survey; Census; National Vital Statistics data
+367,14,"Precapitalist tribal society dataset; very poor, predominantly peasant pre-industrial society dataset; and city-level datasets from nine Latin American societies"
+368,3,Nationwide sample survey of 1965 and 1964 Tokyo survey
+369,13,N/A
+370,3,General Social Survey (GSS)
+371,1,30 poverty-stricken counties in Xinjiang (2000-2012)
+372,1,Chinese Household Income Project (1995 and 2002)
+373,13,N/A
+374,3,National Survey Data – a dataset of Chinese rural residents’ income (exact name not specified)
+375,1,"1958 NCDS cohort, 1970 BCS cohort"
+376,1,CHIP data (2003 and 2008)
+377,1,N/A
+378,1,CHNS data from 1989 to 2009 (China Health and Nutrition Survey)
+379,1,CHNS data
+380,1,CHNS dataset
+381,1,CHNS data set
+382,1,CHNS
+383,1,Chinese Health and Nutrition Survey
+384,13,N/A
+385,3,N/A
+386,1,China Health and Nutrition Survey; China Family Panel Studies
+387,1,China Health and Nutrition Survey (CHNS) [Panel/Longitudinal Surveys] and regional public education expenditure records [Administrative/Registry Data]
+388,13,N/A
+389,1,China Health and Nutrition Survey (1991-2011)
+390,3,CGSS
+391,10,"Pseudo-Panel/Household Budget Survey – the abstract implies the use of repeated cross‐sectional data reconstructed as pseudo-panel data (e.g. household consumption and linked intergenerational education/occupation measures), though no specific dataset is named"
+392,13,N/A
+393,1,CHNS (China Health and Nutrition Survey)
+394,11,Netherlands government grant archival records
+395,2,Administrative/Registry Data (Exact dataset not specified)
+396,10,Human Capital Study 200204
+397,3,"European Values Studies, Life in Transition Survey"
+398,13,N/A
+399,9,University of Texas Project (UTIP) Global Data Sets 1963-2008
+400,14,"Cross-national cross-sectional data on income and wealth inequality using mediating factors (state type and wealth‐income ratio) across high-, low-, and middle-income countries"
+401,13,N/A
+402,3,2005 and 2013 national labour force surveys (Ethiopia)
+403,6,"Linked Administrative Data (e.g., US IRS records and Swedish Population Registers)"
+404,6,Norwegian administrative registers (linked registry data capturing income and demographic records)
+405,13,N/A
+406,6,Swedish handcollected administrative data on wealth and bequests (linked across generations)
+407,6,Office for National Statistics Longitudinal Study of England and Wales
+408,1,"Household, Income and Labour Dynamics in Australia (HILDA) Survey"
+409,6,"Linked Administrative Data (e.g., U.S. IRS tax records linking parent and child outcomes with county locations)"
+410,1,Panel Study of Income Dynamics (PSID)
+411,1,1958 National Child Development Study and 1970 British Cohort Study
+412,1,Representative group of American children (panel/longitudinal survey)
+413,11,Historical surname records from archival sources spanning multiple centuries and regions
+414,1,Panel dataset (rural India panel dataset spanning 1994–2012) supplemented with repeated cross‐sections from the National Sample Survey (Category 3)
+415,1,Baccalaureate & Beyond Longitudinal Study of 1993 and 2008
+416,13,N/A
+417,1,Panel Study of Income Dynamics; Institute on Assets and Social Policy Levering Mobility study (qualitative dataset from a research institute)
+418,1,Panel Study of Income Dynamics; National Longitudinal Surveys of Youth
+419,13,N/A
+420,13,N/A
+421,1,National Longitudinal Survey of Youth
+422,2,"Administrative/Registry Data – National intergenerational income mobility data (1980–1996); Archival/Historical Data – Elite interviews and historical sources for Columbus, OH case study"
+423,1,National Longitudinal Survey of Youths of 1997
+424,13,N/A
+425,3,N/A
+426,2,US administrative mortgage data (GSE‐conforming and privately securitized mortgage records linked with state-level lender rights)
+427,1,N/A
+428,3,Nationally representative survey data
+429,11,Newly assembled archival/historical dataset on three generations of Irish American families (1901–1940); Industrial Removal Office records used as a natural experiment on immigrant assimilation
+430,11,"Historical US Census Data (names and occupational income, 1850-1940)"
+431,13,N/A
+432,3,N/A
+433,2,1970 Brazilian Census
+434,1,"US: National Longitudinal Study of Youth 1979 (Panel/Longitudinal Surveys, 1); Britain: British Cohort Study 1970 (Panel/Longitudinal Surveys, 1); Sweden: Population Register cohort (Administrative/Registry Data, 2)"
+435,8,"New Zealand Rich List (1996, 2005, 2015)"
+436,3,European Union Statistics on Income and Living Conditions (EU-SILC) 2005
+437,3,Large representative German dataset including IQ test scores and non‐cognitive skill measures (exact name not specified)
+438,1,Urban birth cohort study (longitudinal survey) linked with county‐level upward mobility estimates from Chetty and Hendren (Opportunity Atlas)
+439,1,"Household, Income and Labour Dynamics Australia Survey"
+440,1,Study of Income Dynamics (PSID)
+441,11,French archival records on wealth mobility (1848–1960)
+442,6,Linked Administrative Data: Longitudinal register data from the Netherlands complemented with the WoON-survey
+443,1,Korean Labor and Income Panel Study (KLIPS)
+444,6,"Linked Administrative Data (using UK and Swedish administrative registers on birth records, educational outcomes, and income)"
+445,13,N/A
+446,1,"Panel Study of Income Dynamics, National Longitudinal Surveys of Youth"
+447,1,Panel Study of Income Dynamics
+448,1,"Korea Labor and Income Panel Study; also, Household Income and Expenditure Survey falls under 3"
+449,14,Not specified
+450,11,Irish American families dataset (1901–1940)
+451,2,Dutch funded pension system
+452,1,PSID (Panel Study of Income Dynamics)
+453,11,Three‐generation occupational records from Great Britain and the US (1850–1910)
+454,6,Survey of Income and Program Participation (SIPP) matched with longitudinal administrative tax records
+455,2,recently published county-level data
+456,5,"County-level estimates of intergenerational economic mobility for children born between 1980 and 1986, using policy-induced variation in Medicaid eligibility"
+457,13,N/A
+458,14,2004 Immigration and Intergenerational Mobility in Metropolitan Los Angeles
+459,13,N/A
+460,2,Equality of Opportunity Project administrative tax records
+461,11,Newly collected panel data on U.S. prisons and convict-labor camps (1886–1940) and historical distribution records of convict labor camps
+462,6,Dutch survey data linked to administrative income data
+463,1,1958 and 1970 cohort panel data (longitudinal surveys)
+464,11,"Iowa State Census of 1915, 1940 Federal Census"
+465,11,"Historical slavery prevalence records (Civil War-era archival data) combined with contemporary intergenerational mobility measures drawn from Chetty et al. (2014a), often associated with the Opportunity Atlas"
+466,3,U.S. census
+467,1,National Longitudinal Surveys
+468,2,Norwegian register-based administrative data (rich registry data on neighbourhood income and attainment)
+469,13,N/A
+470,3,"National Survey Data (data from 40 countries, likely similar to the World Values Survey)"
+471,3,CGSS data
+472,7,cross-country panel dataset covering 76 countries and regions between 1970 and 2011
+473,13,N/A
+474,2,prefecture-level administrative data from China
+475,1,Panel Study of Income Dynamics (PSID)
+476,13,N/A
+477,1,Panel Study of Income Dynamics
+478,1,N/A
+479,13,N/A
+480,1,PSID (Panel Study of Income Dynamics)
+481,1,Panel Study of Income Dynamics
+482,7,Cross-National Equivalent File 1980-2016 (CNEF 1980-2016)
+483,13,N/A
+484,13,N/A
+485,13,N/A
+486,2,U.S. IRS administrative tax data (SOI Working Paper data)
+487,13,N/A
+488,9,University of Texas System student records (administrative/institutional data)
+489,3,"Afrobarometer, Latinobarometer"
+490,3,household level data from Pakistan national survey
+491,6,"US Linked Administrative Data (e.g., IRS tax records linked across generations)"
+492,3,rich survey and test score data
+493,1,China Health and Nutrition Survey
+494,7,Internationally comparable measures of intergenerational mobility
+495,13,N/A
+496,1,National Longitudinal Survey of Youth 1979
+497,2,Australian tax data covering over a million individuals born between 1978 and 1982
+498,11,Cape Colony archival records
+499,2,"The paper draws on a few distinct types of data. In Chapter 1 the author uses an approach based on multiple measures derived from surname‐based records to assess intergenerational mobility (an unspecified, nonstandard dataset – categorized here as ‘others’), in Chapter 2 the study employs rich administrative/registry data from Sweden, and in Chapter 3 the analysis is based on simulation exercises evaluating teacher effectiveness (i.e. no external dataset). The most clearly identifiable real-world dataset is the rich administrative data for Sweden, which falls under category 2."
+500,1,Panel Study of Income Dynamics (PSID)
+501,2,"Chicago administrative records (e.g., Census tract–level data on violence, incarceration, lead exposure, and related administrative registry data)"
+502,3,Detailed childhood income survey data from Japan (no specific dataset name provided)
+503,14,Case study dataset assembled from six selected poverty‐stricken counties in rural China
+504,13,N/A
+505,6,Swedish administrative data on net wealth of adoptees merged with corresponding information for biological and adoptive parents
+506,3,IPUMS survey data bank
+507,2,Chetty et al. (2014) tax records and another tax‐based administrative dataset
+508,1,National Longitudinal Survey of Youth 1979
+509,1,China Health and Nutrition Survey (CHNS)
+510,3,household income distribution survey
+511,2,1986 Census Administrative Data on cohort of individuals born between 1963 and 1970
+512,1,China Health and Nutrition Survey (CHNS)
+513,9,"Federal University of Pernambuco (UFPE) admissions and earnings records, alongside mobility estimates for US comparator institutions as reported by Chetty et al. (2017)"
+514,3,National Survey Data (exact dataset not indicated)
+515,2,Norwegian tax registers
+516,2,2015 U.S. Department of Education College Scorecard Data
+517,2,Swedish register data
+518,3,N/A
+519,1,British Cohort Study
+520,13,N/A
+521,1,Panel Study of Income Dynamics
+522,11,1915 Iowa State Census; linked data from the 1850-1910 Censuses
+523,13,N/A
+524,1,Likely a Vietnamese panel/longitudinal survey covering 2004–2014 (exact dataset name not specified)
+525,2,Credit score data from credit bureaus (administrative/registry records)
+526,13,N/A
+527,13,N/A
+528,11,Complete-count U.S. population census records (linked across years; 1910–1930 and 1930–1940 addresses)
+529,1,Panel Study of Income Dynamics
+530,11,3000 familles survey
+531,14,Aggregated cross‐national measures of class inequality and mobility compiled from various country-level sources
+532,13,N/A
+533,13,N/A
+534,14,U.S. data
+535,3,National Survey of College Graduates
+536,1,National Longitudinal Survey of Youth 1979 and National Longitudinal Survey of Youth 1979 for Children and Young Adults
+537,6,Deidentified tax records linked with SAT/ACT scores
+538,13,N/A
+539,2,"Brazilian administrative education records (enrollment, admissions, and high school choice data) and Swedish income register data"
+540,4,Opportunity Atlas
+541,13,N/A
+542,6,Credit bureau records linking parents’ and children’s credit information
+543,13,N/A
+544,13,N/A
+545,2,US administrative data on tax and public education expenditure functions (with a comparative experiment using Norwegian administrative fiscal data)
+546,1,"British birth cohort studies (e.g., the 1958 National Child Development Study and the 1991/92 cohort study)"
+547,2,Swedish administrative registers
+548,1,Panel Study of Income Dynamics
+549,5,Housing Voucher Experiment
+550,2,"U.S. administrative data aggregated at the metropolitan statistical area level (e.g., real gross metropolitan product and income mobility measures)"
+551,1,Three Longitudinal Surveys
+552,1,German socio-economic panel
+553,13,N/A
+554,6,Longitudinal and International Study of Adults
+555,1,Panel Studies of Income Dynamics
+556,7,"national panel data sets for Australia, the United States and Germany"
+557,3,EU-SILC 2011
+558,13,N/A
+559,1,British Cohort Study
+560,1,National Longitudinal Survey of Youth 1979 (NLSY79) and National Longitudinal Survey of Youth 79 for Children and Young Adults (NLSY79 CY)
+561,13,N/A
+562,13,N/A
+563,3,"National Survey Data – a cross‐sectional snapshot comparing households (Millennials, Gen X, and Baby Boomers) drawn from national surveys (exact dataset name not specified)"
+564,1,Nationally representative longitudinal household survey data
+565,2,High-quality administrative data for Denmark and the United States
+566,1,Panel Study of Income Dynamics
+567,2,State-level administrative records on school finance reforms and newly collected funding formulas data
+568,2,Rich register data (register data for adult children in the Netherlands)
+569,3,Philippine National Survey Data (likely a nationally representative survey on labor market outcomes)
+570,14,Questionnaire-based survey of approximately 370 responses
+571,14,"Unique, study-specific survey sample of the Russian population"
+572,2,Norwegian administrative data
+573,3,esru Social Mobility Survey (emovi) 2011
+574,1,Panel Study of Income Dynamics (PSID)
+575,1,National Longitudinal Study of Youth 1979
+576,2,Chinese Population Census
+577,1,SOEP for Germany; PSID for the US
+578,2,Dutch funded pension system
+579,13,N/A
+580,3,European Union Statistics on Income and Living (commonly EU-SILC) and International Social Survey
+581,11,German historical administrative records on forced migrants and their descendants
+582,6,Norwegian administrative registry data (linked across generations)
+583,6,"Linked Administrative Data (exact dataset not specified, but likely government records linking parent and child earnings)"
+584,1,"Panel dataset spanning 1994–2012 for rural India; also, National Sample Survey (repeated cross‐sections)"
+585,3,Chile and Peru repeated cross-sectional national household surveys with retrospective modules
+586,6,Canadian income tax records (linked father-son records)
+587,1,restricted Panel Study of Income Dynamics; Census data; Aggregated metropolitan level statistics from IRS records
+588,7,"Internationally Comparable Measures of Intergenerational Mobility (across countries, akin to panel data)"
+589,11,Florence 1427 and 2011 surname-linked archival/historical dataset
+590,13,N/A
+591,7,New international empirical evidence (unspecified International Panel Data)
+592,1,Urban China panel survey (exact data source not explicitly mentioned)
+593,3,Japanese Social Stratification and Mobility (SSM) surveys
+594,13,N/A
+595,1,"Not specified (panel/longitudinal data spanning 30 years tracking intergenerational changes in education, wages, and occupations)"
+596,11,Florence 1427 archival records linked with Florence 2011 pseudo-descendant data
+597,2,Swedish income data (administrative/registry records)
+598,14,"Aggregated cross‐country measures – the paper uses pre‐calculated indices (IEO and HOI) compiled from various national sources rather than relying on a single, well‐known dataset."
+599,6,Linked Administrative Data: Parental and child credit bureau records (linked across generations)
+600,13,N/A
+601,14,Chicago calibration data from segregated-era neighborhoods
+602,2,"Complete population administrative/registry data for approximately 177,000 28-year olds in the Netherlands"
+603,13,N/A
+604,6,Linked Administrative Data – likely U.S. tax records linked across generations (parent–child administrative records)
+605,6,Dutch survey data linked with administrative income data
+606,1,"NLSY79, Panel Study of Income Dynamics"
+607,6,U.S. Census Bureau's Survey of Income and Program Participation (SIPP) matched to Social Security Administration (SSA) administrative earnings records; U.S. Bureau of Labor Statistics' National Longitudinal Survey of Youth (NLSY)
+608,13,N/A
+609,2,Rich income data drawn from administrative/registry sources (exact dataset not specified)
+610,13,N/A
+611,2,Swedish administrative registry data
+612,2,Newly collected state-level school funding formulas data used to simulate counterfactual revenues across 20 US states
+613,13,N/A
+614,6,Swedish administrative registers dataset of matched father-son pairs
+615,6,Linked Administrative Data (derived from tax records in the US and Canada)
+616,1,"Health and Retirement Study (HRS) – a panel/longitudinal survey, and Survey of Health, Ageing and Retirement in Europe (SHARE) – international panel data"
+617,2,Chilean administrative/registry data (using tax and civil records from Greater Santiago and nationwide)
+618,7,"International Panel Data (country-level measures of income inequality, trust, and intergenerational mobility; no specific dataset name provided)"
+619,6,Linked Administrative Data (likely using IRS tax records combined with educational and marital records aggregated by commuting zones)
+620,13,N/A
+621,3,Large national survey dataset with genetic markers (exact dataset name not specified)
+622,6,"Linked Administrative Data from national registers (e.g. birth, educational, and tax records) for the UK and Sweden"
+623,14,Rich family survey data (no specific dataset name provided)
+624,13,N/A
+625,3,US General Social Survey
+626,3,2012 US wealth distribution
+627,1,PSID
+628,13,N/A
+629,1,"Household, Income and Labour Dynamics Australia survey"
+630,1,CHNS database
+631,13,N/A
+632,6,Norwegian administrative registers (linked administrative data)
+633,1,United States PSID data
+634,4,Opportunity Atlas
+635,6,Linked Administrative Data (exact dataset not specified)
+636,1,Panel Study of Income Dynamics (PSID)
+637,1,Young Lives survey
+638,13,N/A
+639,3,Chinese National Survey Data (exact name not specified)
+640,5,Experimental Questionnaire data
+641,1,"The paper uses both longitudinal (panel) income data and cross‐sectional income data from ten developed economies. While the longitudinal component fits within Panel/Longitudinal Surveys (category 1), the cross‐sectional data likely come from National Survey Data (category 3). No specific dataset names are provided."
+642,6,Danish linked administrative register data (using linked parental and individual records)
+643,6,Linked administrative tax return data across two generations in Italy
+644,13,N/A
+645,4,Opportunity Atlas (i.e. intergenerational mobility data based on linked administrative records)
+646,1,"For the United States, likely the Panel Study of Income Dynamics (PSID) and for Germany, the German Socio-Economic Panel (SOEP)"
+647,2,Administrative data from tax returns
+648,13,N/A
+649,1,"Likely a panel/longitudinal dataset such as the Panel Study of Income Dynamics (PSID), though the abstract does not specify the exact dataset."
+650,13,N/A
+651,5,High School Remedial Education Program experimental data
+652,6,"Swiss administrative data on labor income, family linkages, and census data"
+653,1,Indian Human Development Survey Data set
+654,13,N/A
+655,2,"Swedish administrative registry data—specifically, register-based data on commuting zones and cohorts used for intergenerational mobility (Essay I), national student aid and labor market records following the Recruitment Grant repeal (Essay II), and adoption registers linking adopted children with their biological and adoptive parents (Essay III)"
+656,2,Income tax data from Australia
+657,6,Linked Swedish administrative register data
+658,14,"Primary survey data collected from 61 households in Utmanzai, District Charsadda, Khyber Pakhtunkhwa, Pakistan"
+659,2,Norwegian administrative data (registry data on labor earnings from 1993–2017)
+660,6,Swedish administrative registers (linked parent-child administrative data)
+661,2,Swedish administrative registers
+662,13,N/A
+663,2,Norwegian population-wide administrative data
+664,13,N/A
+665,1,China's nationally representative longitudinal household survey data
+666,3,National Sample Survey
+667,11,Sweden CEO dataset from 30 largest public firms (historical archival records)
+668,6,"Switzerland’s linked administrative data combining labor income records, census, and survey data"
+669,1,Korean Labor and Income Panel Study; Panel Study of Income Dynamics
+670,1,"SOEP, PSID"
+671,2,German Census Data
+672,1,"It appears to use panel/longitudinal survey data; for example, in the United States studies like the Panel Study of Income Dynamics (PSID) and in South Africa data such as the National Income Dynamics Study (NIDS) are common candidates."
+673,4,Opportunity Atlas (modern mobility measures via Chetty et al.) combined with county‐level archival/historical frontier experience data
+674,3,Wealth and housing survey data from France
+675,13,N/A
+676,13,N/A
+677,1,China Health and Nutrition Survey
+678,3,Multiple harmonized U.S. national surveys that include father's occupation and own family income data
+679,1,"The paper appears to use longitudinal, panel-type data – for instance, repeated cross‐national surveys (e.g. data from 20 European countries in 2010 and 18 in 2014) and linked panel records for intergenerational and intragenerational income and wage mobility (data comparing Germany and the United States). No specific dataset name is mentioned."
+680,3,1995 and 2005 Survey of Social Stratification and Mobility (SSM)
+681,3,Harmonized U.S. National Survey Data combining surveys with father's occupation and family income questions
+682,6,Australian Linked Administrative Data (i.e. linked records used to track parent‐child wealth)
+683,13,N/A
+684,6,Chilean linked administrative records (exact dataset name not specified)
+685,3,"General Social Survey; Panel Study of Income Dynamics, National Longitudinal Survey of Youth"
+686,13,N/A
+687,13,N/A
+688,13,N/A
+689,2,Estonia registry dataset on yearly earnings and background characteristics (2007-2017)
+690,13,N/A
+691,2,Swedish population registers (birth cohorts 1953–1955)
+692,13,N/A
+693,6,Norwegian administrative registers linking parental wealth and children's wages
+694,13,N/A
+695,14,"The abstract does not specify a particular dataset by name. It merely indicates that cross‐country data were used (e.g., data from Germany, Norway, Sweden, and the US). Without more detail, we cannot definitively classify it as panel data, administrative records, etc."
+696,3,1987 National Postsecondary Student Aid Study
+697,3,"The study relies on actual survey‐based data from Japan (a national survey), though the specific dataset name is not provided."
+698,3,N/A
+699,13,N/A
+700,13,N/A
+701,2,Newly collected administrative data on states' funding formulas
+702,3,Spanish National Survey of Income and Living Conditions (Encuesta de Condiciones de Vida)
+703,13,N/A
+704,6,"Linked Administrative Data (for measuring intergenerational income mobility, typically using IRS tax records) combined with an industrial robots dataset across 722 local labor markets (which falls under Others, i.e. category 14)"
+705,1,Unique residential history data with retrospective parental asset information from 141 villages in rural Bangladesh
+706,1,China Health and Nutrition Survey (CHNS)
+707,2,"Scandinavian administrative income data (Sweden, Denmark, Norway); United States survey data"
+708,13,N/A
+709,1,National Longitudinal Study of Adolescent to Adult Health
+710,13,N/A
+711,1,Panel Study of Income Dynamics (PSID) and National Longitudinal Study of Adolescent to Adult Health (Add Health)
+712,5,Field et al. 2013 household liquidity relaxation experimental dataset
+713,13,N/A
+714,3,Harmonized micro data from 18 Latin American countries spanning multiple cohorts
+715,6,Linked Administrative Data (using national administrative registers from Canada and Denmark)
+716,1,NLSY
+717,3,National Sample Survey (1983-2005)
+718,3,GSS; National Survey Data; and NLS; Panel/Longitudinal Surveys
+719,3,2005 Social Stratification and Social Mobility Survey Project
+720,3,government survey data on personal income (and related consumer expenditure estimates)
+721,6,IRS tax record–based linked administrative data (as used in Chetty et al. 2014)
+722,0,European Union Statistics on Income and Living Conditions survey: 3; European Community Household Panel: 7
+723,14,"Multiple datasets detected: (1) Chilean government economic statistics (e.g., national accounts data on GDP, poverty, and tax rates) which most closely aligns with Administrative/Registry Data (2) Latinobarómetro survey data, a multi‐country public opinion survey in Latin America classified as National Survey Data"
+724,5,"Quasi‐experimental U.S. policy variation data (e.g., evidence on the Child Tax Credit expansion; no specific dataset name provided)"
+725,13,N/A
+726,6,Swiss administrative data on labor income since 1982 with family linkages across three generations
+727,3,Household-level survey data from Pakistan (exact survey not specified)
+728,3,European Social Survey wave 9
+729,2,Danish administrative registers linking educational attainment and income trajectories for individuals born in 1960-1961
+730,1,Dataset name not specified
+731,1,Stockholm Prospective Cohort Study of individuals born in 1953
+732,1,Cross‐sectional and longitudinal income data from advanced economies
+733,5,Housing Voucher Experiment
+734,1,Panel Study of Income Dynamics
+735,9,Large-scale College Graduate Survey; Nationally Representative Household Survey (from China)
+736,6,Linked Administrative Data from Spanish tax returns
+737,1,China Health and Nutrition Survey (CHNS)
+738,2,Norwegian administrative register data
+739,1,China Health and Nutrition Survey; Regional Statistic Yearbooks (Administrative/Registry Data)
+740,13,N/A
+741,13,N/A
+742,13,N/A
+743,12,ACLED data; 2020 political preferences survey
+744,2,Rich administrative data (administrative/registry data) from France
+745,1,China Family Panel Studies (CFPS)
+746,1,China Health and Nutrition Survey
+747,2,"Norwegian register data on ten cohorts of high school students (including GPA, enrollment, and peer exposure data)"
+748,13,N/A
+749,13,N/A
+750,2,Chetty et al. (2014) Administrative Tax Data; PSID (Panel Study of Income Dynamics)
+751,1,China Family Panel Survey (CFPS)
+752,1,Two complementary panel datasets from Poland (exact dataset names not provided)
+753,14,Self-collected questionnaire dataset from Greek University students and graduates
+754,1,"US birth cohorts panel data (exact dataset name not specified, but it uses longitudinal observations of early baby boomers and late generation X/early millennial cohorts)"
+755,2,Chinese intergovernmental transfer records and fiscal administrative data
+756,14,OECD Income and Wealth Distribution Databases; World Economic Forum
+757,13,N/A
+758,6,Swedish population registers linking parent and child income data
+759,2,"Brazil Tax and Employment Registries; additionally, Brazil Census and Survey Data (used for predicting informal income) aligns with category 3"
+760,13,N/A
+761,6,Linked Administrative Data (Norwegian administrative registries)
+762,2,Tax and Employment Registries; also using Census and Survey Data for predicting informal income (corresponds to category 3)
+763,5,Natural/Experimental Data – variation in historical railroad track arrangements used as an instrument for city-wide segregation and its effects on intergenerational outcomes
+764,2,Tax and Employment Registries; Census and Survey Data
+765,3,The India Human Development Survey 2012 (IHDS-II)
+766,12,Infutor data
+767,1,"National Longitudinal Survey Data (United States, 1978-2006)"
+768,6,administrative education data linked to tax records
+769,13,N/A
+770,3,US cross‐sectional income distributions (interpreted as national survey data)
+771,1,PSID
+772,1,PSID
+773,6,"U.S. linked administrative data (e.g., IRS tax records combined with demographic and educational administrative records)"
+774,14,Dataset of twins and their parents with genetic information
+775,13,N/A
+776,13,N/A
+777,13,N/A
+778,1,British birth cohorts data; Panel/Longitudinal Surveys; Repeated cross‐sectional UK data and Wealth and Assets Survey; National Survey Data
+779,6,Taiwan linked administrative data (multi‐generation income records from official registries)
+780,7,newly available and internationally comparable data on intergenerational elasticities of income and education
+781,2,rich register data from the Netherlands linking individuals across generations
+782,13,N/A
+783,6,"Linked Administrative Data – likely drawn from Swedish population registers and corresponding US administrative records (e.g., IRS/SSA data) to track intergenerational labor income over time"
+784,6,"Linked Administrative Data – for example, Sweden’s national register data (e.g., population registers such as LISA) linked across generations and U.S. administrative tax records linking parent and child incomes"
+785,1,NLSY79 and NLSY79CY
+786,6,Administrative data linked to parish records from northern Sweden
+787,2,U.S. Census data – an administrative/registry source covering cohorts born between 1915 and 1984
+788,1,China Family Panel Studies
+789,6,Dutch municipalities records combined with tax authorities microdata and education records
+790,6,Stockholm Birth Cohort Multigenerational Study
+791,1,British Household Panel Survey (BHPS) and Understanding Society (UKHLS)
+792,2,Graduate Career Tracking System 2010-2021
+793,6,Census microdata linked with tax records
+794,2,Prefecture-level administrative records on migration and income in China
+795,2,roll-call votes on California education legislation matched with electoral district levels of income mobility
+796,2,comprehensive register data for Swedish cohorts born 1958 to 1977 and their parents
+797,3,Commissioned nationally representative survey in Georgia (2021)
+798,6,Swedish administrative registers linking father‐son lifetime income records
+799,1,Indonesian Family Life Survey
+800,2,N/A
+801,13,N/A
+802,5,"Survey experiments conducted in Austria, the United States, and Germany"
+803,3,Turkish Statistical Institutes Survey of Income and Living Conditions
+804,14,Purposive survey dataset of 742 land development settlers from Pahang and Johor
+805,2,Australian income tax data; supplemented with other administrative data encompassing within- and between-country mobility measures
+806,2,French administrative data
+807,1,The abstract implies the use of panel or longitudinal survey data capturing intergenerational wealth (especially housing wealth) among families in Great Britain. The exact dataset name is not specified.
+808,1,"Longitudinal database tracking over 20,000 places in the USA from 1980 to 2018"
+809,6,"Linked Administrative Data – for example, administrative records such as IRS tax records linked across generations combined with bank regulatory (e.g. FDIC) data"
+810,6,Linked Administrative Data (immigrant landing documents linked with tax records in Canada)
+811,4,Opportunity Insights project IGIM data; American Community Survey (Gini index); CDC WONDER (mortality data)
+812,3,Chinese General Social Survey 2010
+813,1,United States National Longitudinal Study of Adolescent Health
+814,2,Norwegian high-quality register data
+815,2,"Chantillon démographique permanent (EDP, INSEE's demographic panel sample)"
+816,6,Administrative Canadian tax data
+817,7,World Bank database
+818,6,New dataset assembled from tax and other administrative sources
+819,1,"Understanding Society, the UK Household Longitudinal Study"
+820,6,Swedish and UK linked administrative income register data
+821,2,NHIS data
+822,6,N/A
+823,11,Hand-collected archival/historical data on households wealth assessments in late medieval Florence
+824,6,"Decennial Census, credit reports, administrative earnings"
+825,1,China Family Panel Studies (CFPS)
+826,1,N/A
+827,6,"Brazilian linked administrative data constructed from confidential records on high school graduates, college admissions, and labor market outcomes"
+828,2,German Census Data
+829,3,"comprehensive database of socio-economic variables for Ethiopia, Ghana, Uganda, Malawi, and Nigeria"
+830,6,"Decennial Census, credit reports, and administrative earnings"
+831,14,OECD Social Mobility Integral Index and related country-level indicators
+832,8,Swiss rich lists
+833,1,Chinese Health and Nutrition Survey
+834,3,Adult Education Survey (AES) provided by TURKSTAT
+835,11,U.S. archival/historical income data (1850–1930)
+836,2,Taiwan administrative records
+837,6,Unique linked administrative data from the Netherlands’ population registers on children and grandchildren of immigrants and native Dutch (third generation) in 2018
+838,13,N/A
+839,1,Quebec Longitudinal Study of Kindergarten Children
+840,3,Korean household microdata (national survey data)
+841,3,Chinese Household Income Project survey data
+842,1,China Health and Nutrition Survey (CHNS)
+843,3,"US household survey data on income, wealth, education and time use"
+844,2,administrative data for the Netherlands
+845,14,Global Database of Intergenerational Mobility (GDIM)
+846,14,"The paper uses multiple datasets: National Survey Data (survey data), Administrative/Registry Data (administrative data), and simulated data which does not fall under a standard category (Others)"
+847,8,Swiss rich lists
+848,3,CGSS
+849,3,EUSILC (European Union Statistics on Income and Living Conditions)
+850,11,Novel longitudinal dataset constructed from historical Swedish records (1890s–1940s)
+851,5,Quasi-natural experimental data combining state-level US bank deregulation measures with individual intergenerational mobility outcomes (exact dataset name not specified)
+852,6,Chetty-Hendren intergenerational mobility linked administrative data
+853,2,Taiwan administrative records
+854,1,"1982 Birth Cohort in the city of Pelotas, Brazil"
+855,6,Norwegian administrative register data linking parental and individual records
+856,7,World Bank's Global Database on Intergenerational Mobility (GDIM)
+857,6,"Linked Administrative Data (county- and state-level records on overdose deaths, opioid prescription rates, and socioeconomic indicators compiled by the authors)"
+858,4,Opportunity Atlas
+859,2,Census tract and city-level administrative data
+860,1,China Family Panel Studies (CFPS)
+861,3,nationally representative Chinese household survey data
+862,1,National Longitudinal Survey of Youth 1979
+863,1,European Community Household Panel; European Union Statistics on Income and Living Conditions
+864,3,European Values Survey
+865,1,Chinese Family Panel Studies (CFPS) [Panel/Longitudinal Surveys] and macro data on digital factor participation at the city level [Others]
+866,2,"Danish register data for 630,000 children and their parents"
+867,13,N/A
+868,6,New Zealand male birth cohort administrative records (linked administrative data)
+869,6,Census microdata linked with tax records
+870,6,pre-1940 US Census data linked with Social Security data via CenSoc
+871,2,Norwegian administrative/registry data based on the entire registered population in Norway
+872,13,N/A
+873,11,Historical Census Data (digitized and record-linked parent-child links)
+874,2,U.S. Census of Governments; Opportunity Atlas (by Opportunity Insights)
+875,3,2018 Household Survey on Territorial Dynamics and Wellbeing
+876,1,National Income Dynamics Study (NIDS) panel data for South Africa
+877,12,"Satellite Imagery data (Big Data) for urban spatial patterns, complemented by intergenerational mobility measures likely derived from Opportunity Atlas"
+878,6,Gautreaux Assisted Housing Program historical records linked with U.S. administrative data
+879,3,"European Social Survey (Round 3, 2006)"
+880,13,N/A
+881,1,Household Income and Labour Dynamics in Australia (HILDA) survey
+882,0,"The abstracts employ at least two distinct types of datasets. Two of the papers—the one on teenage childbearing and the one on teacher‐student gender matching—appear to use standard administrative or registry records (e.g. school performance records, teacher assignment records), which corresponds best to category 2. In contrast, the papers on intergenerational schooling effects and on mobility/assortative mating rely on explicitly Swedish data that link parents and children (typical of the high‐quality register data used in Sweden), corresponding to category 6. (No specific dataset names were provided in the abstracts.)"
+883,13,N/A
+884,1,NLSY (National Longitudinal Survey of Youth)
+885,1,1970 British Cohort Study (BCS70)
+886,13,N/A
+887,13,N/A
