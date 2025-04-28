@@ -1,0 +1,76 @@
+citing_year,citing_cat,counts,percentage
+1980,Regression‐based Measures,1,1.0
+1981,Decomposition / Structural Approaches,1,1.0
+1990,Regression‐based Measures,1,1.0
+1992,Regression‐based Measures,3,1.0
+1995,Transition Matrix / Probability Measures,1,1.0
+1997,Others,1,1.0
+1998,Regression‐based Measures,5,0.45454545454545453
+1998,Transition Matrix / Probability Measures,5,0.45454545454545453
+1998,Others,1,0.09090909090909091
+1999,Regression‐based Measures,3,1.0
+2000,Regression‐based Measures,2,0.6666666666666666
+2000,Decomposition / Structural Approaches,1,0.3333333333333333
+2002,Regression‐based Measures,9,0.8181818181818182
+2002,Non‐parametric Approaches,2,0.18181818181818182
+2003,Regression‐based Measures,3,0.75
+2003,Transition Matrix / Probability Measures,1,0.25
+2005,Regression‐based Measures,11,0.4782608695652174
+2005,Transition Matrix / Probability Measures,11,0.4782608695652174
+2005,Decomposition / Structural Approaches,1,0.043478260869565216
+2006,Regression‐based Measures,24,0.75
+2006,Transition Matrix / Probability Measures,5,0.15625
+2006,Decomposition / Structural Approaches,3,0.09375
+2007,Regression‐based Measures,25,0.6756756756756757
+2007,Others,12,0.32432432432432434
+2008,Regression‐based Measures,31,0.9393939393939394
+2008,Multigenerational Measures,1,0.030303030303030304
+2008,Transition Matrix / Probability Measures,1,0.030303030303030304
+2009,Regression‐based Measures,20,1.0
+2010,Regression‐based Measures,16,0.64
+2010,Decomposition / Structural Approaches,7,0.28
+2010,Rank‐based Measures,2,0.08
+2011,Regression‐based Measures,77,0.8369565217391305
+2011,Rank‐based Measures,8,0.08695652173913043
+2011,Multigenerational Measures,4,0.043478260869565216
+2012,Regression‐based Measures,42,0.8936170212765957
+2012,Decomposition / Structural Approaches,3,0.06382978723404255
+2012,Absolute Mobility Measures,1,0.02127659574468085
+2013,Regression‐based Measures,57,0.6785714285714286
+2013,Decomposition / Structural Approaches,13,0.15476190476190477
+2013,Transition Matrix / Probability Measures,7,0.08333333333333333
+2014,Regression‐based Measures,77,0.6581196581196581
+2014,Rank‐based Measures,15,0.1282051282051282
+2014,Absolute Mobility Measures,9,0.07692307692307693
+2015,Regression‐based Measures,101,0.7709923664122137
+2015,Decomposition / Structural Approaches,12,0.0916030534351145
+2015,Non‐parametric Approaches,8,0.061068702290076333
+2016,Regression‐based Measures,118,0.921875
+2016,Others,5,0.0390625
+2016,Absolute Mobility Measures,3,0.0234375
+2017,Regression‐based Measures,71,0.7171717171717171
+2017,Non‐parametric Approaches,23,0.23232323232323232
+2017,Absolute Mobility Measures,3,0.030303030303030304
+2018,Regression‐based Measures,111,0.7762237762237763
+2018,Rank‐based Measures,12,0.08391608391608392
+2018,Absolute Mobility Measures,7,0.04895104895104895
+2019,Regression‐based Measures,169,0.6706349206349206
+2019,Others,27,0.10714285714285714
+2019,Decomposition / Structural Approaches,24,0.09523809523809523
+2020,Regression‐based Measures,112,0.5
+2020,Decomposition / Structural Approaches,30,0.13392857142857142
+2020,Rank‐based Measures,28,0.125
+2021,Regression‐based Measures,121,0.5707547169811321
+2021,Rank‐based Measures,38,0.1792452830188679
+2021,Others,24,0.11320754716981132
+2022,Regression‐based Measures,146,0.5488721804511278
+2022,Absolute Mobility Measures,50,0.18796992481203006
+2022,Decomposition / Structural Approaches,30,0.11278195488721804
+2023,Regression‐based Measures,149,0.6056910569105691
+2023,Rank‐based Measures,58,0.23577235772357724
+2023,Transition Matrix / Probability Measures,27,0.10975609756097561
+2024,Regression‐based Measures,154,0.5167785234899329
+2024,Rank‐based Measures,58,0.19463087248322147
+2024,Others,46,0.15436241610738255
+2025,Regression‐based Measures,11,0.5238095238095238
+2025,Rank‐based Measures,10,0.47619047619047616

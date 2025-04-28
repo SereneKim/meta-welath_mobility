@@ -1,19 +1,19 @@
-id,type_method_A,type_method_B
-https://openalex.org/W2119587652,1,8
-https://openalex.org/W3123816425,3,4
-https://openalex.org/W1979983413,6,1
-https://openalex.org/W2512952691,2,1
-https://openalex.org/W2151222191,1,8
-https://openalex.org/W2195136954,1,8
-https://openalex.org/W2158765930,1,5
-https://openalex.org/W2772867153,1,2
-https://openalex.org/W2159953986,3,4
-https://openalex.org/W2144050291,6,8
-https://openalex.org/W1906749728,1,4
-https://openalex.org/W2322954441,3,8
-https://openalex.org/W3202616165,1,8
-https://openalex.org/W2171543589,1,8
-https://openalex.org/W2943421593,1,8
-https://openalex.org/W325124896,8,7
-https://openalex.org/W2807800750,1,4
-https://openalex.org/W1523582143,4,1
+id,title,type_method_A,type_method_B
+https://openalex.org/W2119587652,Cross-Country Differences in Intergenerational Earnings Mobility,1,8
+https://openalex.org/W3123816425,Race and Economic Opportunity in the United States: an Intergenerational Perspective*,3,4
+https://openalex.org/W1979983413,Comparative Social Mobility Revisited: Models of Convergence and Divergence in 16 Countries,6,1
+https://openalex.org/W2512952691,Intergenerational Wealth Mobility and the Role of Inheritance: Evidence from Multiple Generations,2,1
+https://openalex.org/W2151222191,Intergenerational Mobility and Inequality: The Latin American Case,1,8
+https://openalex.org/W2195136954,INEQUALITY AND TRUST: NEW EVIDENCE FROM PANEL DATA,1,8
+https://openalex.org/W2158765930,The Grandparents Effect in Social Mobility,1,5
+https://openalex.org/W2772867153,Generations of Advantage. Multigenerational Correlations in Family Wealth,1,2
+https://openalex.org/W2159953986,Breaking the Caste Barrier: Intergenerational Mobility in India,3,4
+https://openalex.org/W2144050291,On the State of the Union,6,8
+https://openalex.org/W1906749728,Breaking the ‘Class’ Ceiling? Social Mobility into Britain's Elite Occupations,1,4
+https://openalex.org/W2322954441,Racial Inequality Trends and the Intergenerational Persistence of Income and Family Structure,3,8
+https://openalex.org/W3202616165,Government spending and intergenerational income mobility: Evidence from China,1,8
+https://openalex.org/W2171543589,Intergenerational Persistence in Income and Social Class: The Effect of Within-Group Inequality,1,8
+https://openalex.org/W2943421593,Equalization or Selection? Reassessing the “Meritocratic Power” of a College Degree in Intergenerational Income Mobility,1,8
+https://openalex.org/W325124896,"A Comparison of Intergenerational Mobility Curves in Germany, Norway, Sweden, and the US",8,7
+https://openalex.org/W2807800750,Multiple Measures of Historical Intergenerational Mobility: Iowa 1915 to 1940,1,4
+https://openalex.org/W1523582143,Pursuing the American Dream: Economic Mobility Across Generations,4,1

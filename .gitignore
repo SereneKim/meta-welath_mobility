@@ -2,3 +2,5 @@
 OpenAlex_tutorial/
 
 .env
+
+paper_extraction/

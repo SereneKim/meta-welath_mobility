@@ -1,0 +1,90 @@
+cited_year,citing_cat,counts,percentage
+1979,Regression‐based Measures,96,0.6153846153846154
+1979,Decomposition / Structural Approaches,19,0.12179487179487179
+1979,Rank‐based Measures,15,0.09615384615384616
+1980,Regression‐based Measures,20,0.7692307692307693
+1980,Transition Matrix / Probability Measures,3,0.11538461538461539
+1980,Absolute Mobility Measures,2,0.07692307692307693
+1986,Regression‐based Measures,3,1.0
+1990,Regression‐based Measures,12,0.7058823529411765
+1990,Others,2,0.11764705882352941
+1990,Transition Matrix / Probability Measures,2,0.11764705882352941
+1992,Regression‐based Measures,18,0.75
+1992,Transition Matrix / Probability Measures,3,0.125
+1992,Non‐parametric Approaches,2,0.08333333333333333
+1997,Others,1,1.0
+1998,Regression‐based Measures,16,0.8421052631578947
+1998,Transition Matrix / Probability Measures,2,0.10526315789473684
+1998,Decomposition / Structural Approaches,1,0.05263157894736842
+1999,Regression‐based Measures,49,0.7313432835820896
+1999,Rank‐based Measures,6,0.08955223880597014
+1999,Decomposition / Structural Approaches,3,0.04477611940298507
+2000,Regression‐based Measures,22,0.6875
+2000,Decomposition / Structural Approaches,3,0.09375
+2000,Absolute Mobility Measures,2,0.0625
+2002,Regression‐based Measures,133,0.7348066298342542
+2002,Decomposition / Structural Approaches,14,0.07734806629834254
+2002,Others,9,0.049723756906077346
+2003,Regression‐based Measures,13,0.6842105263157895
+2003,Non‐parametric Approaches,2,0.10526315789473684
+2003,Transition Matrix / Probability Measures,2,0.10526315789473684
+2005,Regression‐based Measures,153,0.7766497461928934
+2005,Decomposition / Structural Approaches,12,0.06091370558375635
+2005,Others,8,0.04060913705583756
+2006,Regression‐based Measures,63,0.6847826086956522
+2006,Rank‐based Measures,7,0.07608695652173914
+2006,Decomposition / Structural Approaches,6,0.06521739130434782
+2007,Regression‐based Measures,84,0.8316831683168316
+2007,Others,7,0.06930693069306931
+2007,Decomposition / Structural Approaches,4,0.039603960396039604
+2008,Regression‐based Measures,25,0.8064516129032258
+2008,Absolute Mobility Measures,3,0.0967741935483871
+2008,Decomposition / Structural Approaches,2,0.06451612903225806
+2009,Regression‐based Measures,91,0.7165354330708661
+2009,Rank‐based Measures,13,0.10236220472440945
+2009,Others,6,0.047244094488188976
+2010,Regression‐based Measures,36,0.6923076923076923
+2010,Absolute Mobility Measures,4,0.07692307692307693
+2010,Rank‐based Measures,4,0.07692307692307693
+2011,Regression‐based Measures,96,0.6357615894039735
+2011,Others,13,0.08609271523178808
+2011,Non‐parametric Approaches,10,0.06622516556291391
+2012,Regression‐based Measures,50,0.7692307692307693
+2012,Decomposition / Structural Approaches,5,0.07692307692307693
+2012,Rank‐based Measures,4,0.06153846153846154
+2013,Regression‐based Measures,129,0.7010869565217391
+2013,Rank‐based Measures,14,0.07608695652173914
+2013,Absolute Mobility Measures,12,0.06521739130434782
+2014,Regression‐based Measures,200,0.5830903790087464
+2014,Rank‐based Measures,41,0.119533527696793
+2014,Decomposition / Structural Approaches,28,0.08163265306122448
+2015,Regression‐based Measures,37,0.6727272727272727
+2015,Non‐parametric Approaches,4,0.07272727272727272
+2015,Others,4,0.07272727272727272
+2016,Regression‐based Measures,73,0.5658914728682171
+2016,Rank‐based Measures,28,0.21705426356589147
+2016,Absolute Mobility Measures,11,0.08527131782945736
+2017,Regression‐based Measures,52,0.5098039215686274
+2017,Rank‐based Measures,14,0.13725490196078433
+2017,Absolute Mobility Measures,13,0.12745098039215685
+2018,Regression‐based Measures,51,0.5368421052631579
+2018,Rank‐based Measures,15,0.15789473684210525
+2018,Decomposition / Structural Approaches,11,0.11578947368421053
+2019,Regression‐based Measures,69,0.5
+2019,Rank‐based Measures,27,0.1956521739130435
+2019,Absolute Mobility Measures,12,0.08695652173913043
+2020,Regression‐based Measures,30,0.5263157894736842
+2020,Rank‐based Measures,12,0.21052631578947367
+2020,Absolute Mobility Measures,9,0.15789473684210525
+2021,Regression‐based Measures,16,0.5517241379310345
+2021,Rank‐based Measures,8,0.27586206896551724
+2021,Absolute Mobility Measures,4,0.13793103448275862
+2022,Regression‐based Measures,21,0.4666666666666667
+2022,Rank‐based Measures,13,0.28888888888888886
+2022,Absolute Mobility Measures,5,0.1111111111111111
+2023,Rank‐based Measures,8,0.42105263157894735
+2023,Regression‐based Measures,6,0.3157894736842105
+2023,Others,3,0.15789473684210525
+2024,Regression‐based Measures,6,0.46153846153846156
+2024,Rank‐based Measures,3,0.23076923076923078
+2024,Absolute Mobility Measures,2,0.15384615384615385
