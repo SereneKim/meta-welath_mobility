@@ -1,0 +1,40 @@
+
+RQs:
+
+1.	Measurement and Methodological Advances
+2.	Empirical Estimates and Determinants
+3.	Policy, Institutional, and Geographic Impacts
+4.	Intergenerational Wealth Mobility and Inheritance
+5.	Demographic Differences in Mobility (Race, Gender, etc.)
+6.	Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)
+7.	Theoretical and Structural Models
+8.	Perceptions of Mobility and Attitudes
+9.	Others
+
+
+Data types:
+
+1.	Panel/Longitudinal Surveys
+2.	Administrative/Registry Data
+3.	National Survey Data
+4.	Opportunity Atlas
+5.	Natural/Experimental Data
+6.	Linked Administrative Data
+7.	International Panel Data
+8.	Rich List Data
+9.	University/Institution Data
+10.	Pseudo-Panel/Household Budget Survey
+11.	Archival/Historical Data
+12.	Big Data
+13.	No dataset
+14.	Others
+
+Measures:
+1. Regression‐based Measures 
+2. Rank‐based Measures
+3. Transition Matrix / Probability Measures
+4. Absolute Mobility Measures
+5. Multigenerational Measures
+6. Decomposition / Structural Approaches
+7. Non‐parametric Approaches
+8. Others
