@@ -1,0 +1,61 @@
+from_method_cat_title,to_method_cat_title,weight
+Regression‐based Measures,Regression‐based Measures,1250
+Regression‐based Measures,Decomposition / Structural Approaches,163
+Rank‐based Measures,Regression‐based Measures,144
+Others,Regression‐based Measures,119
+Decomposition / Structural Approaches,Regression‐based Measures,105
+Regression‐based Measures,Rank‐based Measures,90
+Transition Matrix / Probability Measures,Regression‐based Measures,85
+Absolute Mobility Measures,Regression‐based Measures,78
+Non‐parametric Approaches,Regression‐based Measures,60
+Regression‐based Measures,Transition Matrix / Probability Measures,49
+Rank‐based Measures,Rank‐based Measures,38
+Regression‐based Measures,Others,36
+Regression‐based Measures,Absolute Mobility Measures,35
+Decomposition / Structural Approaches,Decomposition / Structural Approaches,34
+Absolute Mobility Measures,Absolute Mobility Measures,26
+Rank‐based Measures,Decomposition / Structural Approaches,20
+Absolute Mobility Measures,Rank‐based Measures,19
+Others,Decomposition / Structural Approaches,18
+Others,Rank‐based Measures,14
+Others,Transition Matrix / Probability Measures,13
+Rank‐based Measures,Transition Matrix / Probability Measures,12
+Regression‐based Measures,Non‐parametric Approaches,12
+Transition Matrix / Probability Measures,Transition Matrix / Probability Measures,12
+Multigenerational Measures,Regression‐based Measures,12
+Others,Absolute Mobility Measures,11
+Transition Matrix / Probability Measures,Rank‐based Measures,11
+Transition Matrix / Probability Measures,Decomposition / Structural Approaches,11
+Rank‐based Measures,Absolute Mobility Measures,8
+Absolute Mobility Measures,Transition Matrix / Probability Measures,7
+Non‐parametric Approaches,Transition Matrix / Probability Measures,7
+Absolute Mobility Measures,Decomposition / Structural Approaches,7
+Rank‐based Measures,Others,6
+Non‐parametric Approaches,Rank‐based Measures,6
+Decomposition / Structural Approaches,Rank‐based Measures,6
+Absolute Mobility Measures,Others,4
+Regression‐based Measures,Multigenerational Measures,4
+Multigenerational Measures,Rank‐based Measures,4
+Decomposition / Structural Approaches,Others,4
+Non‐parametric Approaches,Decomposition / Structural Approaches,4
+Others,Others,4
+Transition Matrix / Probability Measures,Absolute Mobility Measures,3
+Non‐parametric Approaches,Non‐parametric Approaches,3
+Rank‐based Measures,Non‐parametric Approaches,3
+Rank‐based Measures,Multigenerational Measures,3
+Non‐parametric Approaches,Absolute Mobility Measures,3
+Transition Matrix / Probability Measures,Others,3
+Transition Matrix / Probability Measures,Multigenerational Measures,2
+Others,Multigenerational Measures,2
+Multigenerational Measures,Decomposition / Structural Approaches,2
+Non‐parametric Approaches,Others,2
+Multigenerational Measures,Others,2
+Others,Non‐parametric Approaches,2
+Decomposition / Structural Approaches,Multigenerational Measures,1
+Decomposition / Structural Approaches,Non‐parametric Approaches,1
+Decomposition / Structural Approaches,Transition Matrix / Probability Measures,1
+Absolute Mobility Measures,Non‐parametric Approaches,1
+Multigenerational Measures,Non‐parametric Approaches,1
+Transition Matrix / Probability Measures,Non‐parametric Approaches,1
+Absolute Mobility Measures,Multigenerational Measures,1
+Multigenerational Measures,Multigenerational Measures,1

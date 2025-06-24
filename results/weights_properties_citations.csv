@@ -1,0 +1,2353 @@
+﻿from_type,from_val,to_type,to_val,weight
+Type,empirical,Measure,Regression‐based Measures,1585
+Measure,Regression‐based Measures,Type,empirical,1430
+Type,empirical,RqType,Empirical Estimates and Determinants,1234
+Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,913
+RqType,Empirical Estimates and Determinants,Type,empirical,874
+RqType,Intergenerational Wealth Mobility and Inheritance,Type,empirical,713
+RqType,Empirical Estimates and Determinants,Measure,Regression‐based Measures,702
+DataType,Panel/Longitudinal Surveys,Type,empirical,678
+Type,empirical,RqType,Intergenerational Wealth Mobility and Inheritance,627
+Type,empirical,DataType,Linked Administrative Data,606
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Regression‐based Measures,596
+Type,empirical,DataType,Panel/Longitudinal Surveys,590
+DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,563
+Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,458
+Type,empirical,DataType,No dataset,447
+DataType,Panel/Longitudinal Surveys,RqType,Empirical Estimates and Determinants,438
+Measure,Regression‐based Measures,DataType,Panel/Longitudinal Surveys,429
+RqType,Intergenerational Wealth Mobility and Inheritance,RqType,Empirical Estimates and Determinants,409
+Type,empirical,Measure,Rank‐based Measures,390
+Measure,Regression‐based Measures,DataType,Linked Administrative Data,389
+Measure,Rank‐based Measures,Type,empirical,378
+Type,empirical,Measure,Transition Matrix / Probability Measures,371
+DataType,Linked Administrative Data,Type,empirical,369
+Measure,Regression‐based Measures,DataType,No dataset,367
+DataType,Administrative/Registry Data,Type,empirical,343
+Type,empirical,DataType,Administrative/Registry Data,312
+Type,empirical,Year,2014,304
+RqType,Measurement and Methodological Advances,Type,empirical,302
+DataType,No dataset,Type,empirical,288
+DataType,Linked Administrative Data,Measure,Regression‐based Measures,277
+Year,2024,Type,empirical,267
+Measure,Rank‐based Measures,Measure,Regression‐based Measures,267
+DataType,Administrative/Registry Data,Measure,Regression‐based Measures,263
+RqType,Empirical Estimates and Determinants,DataType,Panel/Longitudinal Surveys,261
+DataType,National Survey Data,Type,empirical,260
+RqType,Empirical Estimates and Determinants,DataType,Linked Administrative Data,259
+Type,empirical,Type,theoretical,241
+Measure,Regression‐based Measures,Measure,Transition Matrix / Probability Measures,240
+Type,empirical,Measure,Decomposition / Structural Approaches,239
+Measure,Regression‐based Measures,Measure,Rank‐based Measures,235
+Year,2022,Type,empirical,235
+DataType,National Survey Data,Measure,Regression‐based Measures,235
+DataType,No dataset,Measure,Regression‐based Measures,235
+RqType,Empirical Estimates and Determinants,RqType,Intergenerational Wealth Mobility and Inheritance,231
+DataType,Linked Administrative Data,RqType,Empirical Estimates and Determinants,231
+Year,2019,Type,empirical,220
+Measure,Regression‐based Measures,DataType,Administrative/Registry Data,219
+RqType,Measurement and Methodological Advances,Measure,Regression‐based Measures,217
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,Panel/Longitudinal Surveys,216
+Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,213
+Year,2023,Type,empirical,212
+RqType,Empirical Estimates and Determinants,DataType,No dataset,208
+DataType,Panel/Longitudinal Surveys,RqType,Intergenerational Wealth Mobility and Inheritance,206
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,Linked Administrative Data,205
+Measure,Regression‐based Measures,Year,2014,204
+DataType,Administrative/Registry Data,RqType,Empirical Estimates and Determinants,199
+Year,2020,Type,empirical,197
+Measure,Regression‐based Measures,Type,theoretical,195
+Year,2021,Type,empirical,192
+Measure,Transition Matrix / Probability Measures,Type,empirical,190
+RqType,Measurement and Methodological Advances,RqType,Empirical Estimates and Determinants,187
+Type,empirical,Year,2005,184
+Measure,Regression‐based Measures,Measure,Decomposition / Structural Approaches,182
+Year,2019,Measure,Regression‐based Measures,181
+Measure,Absolute Mobility Measures,Type,empirical,178
+Measure,Decomposition / Structural Approaches,Type,empirical,177
+DataType,No dataset,RqType,Empirical Estimates and Determinants,174
+Type,empirical,DataType,National Survey Data,173
+RqType,Empirical Estimates and Determinants,Measure,Rank‐based Measures,172
+RqType,Empirical Estimates and Determinants,Measure,Transition Matrix / Probability Measures,169
+Type,empirical,Year,2002,168
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,No dataset,165
+DataType,National Survey Data,RqType,Empirical Estimates and Determinants,163
+Type,empirical,Year,2013,161
+Year,2022,Measure,Regression‐based Measures,159
+Year,2024,Measure,Regression‐based Measures,159
+Year,2023,Measure,Regression‐based Measures,158
+DataType,Panel/Longitudinal Surveys,DataType,Linked Administrative Data,156
+Measure,Transition Matrix / Probability Measures,Measure,Regression‐based Measures,154
+Type,empirical,RqType,Theoretical and Structural Models,154
+Measure,Regression‐based Measures,Year,2005,153
+DataType,Panel/Longitudinal Surveys,DataType,No dataset,150
+Year,2020,Measure,Regression‐based Measures,148
+RqType,"Policy, Institutional, and Geographic Impacts",Type,empirical,145
+Year,2019,RqType,Empirical Estimates and Determinants,144
+Type,empirical,RqType,Measurement and Methodological Advances,144
+Measure,Regression‐based Measures,DataType,National Survey Data,142
+RqType,Empirical Estimates and Determinants,DataType,Administrative/Registry Data,140
+RqType,Empirical Estimates and Determinants,Year,2014,138
+Year,2024,RqType,Empirical Estimates and Determinants,138
+Year,2022,RqType,Empirical Estimates and Determinants,136
+Year,2021,Measure,Regression‐based Measures,135
+Measure,Regression‐based Measures,Year,2002,134
+Measure,Rank‐based Measures,DataType,Linked Administrative Data,133
+Measure,Regression‐based Measures,Year,2013,131
+Type,empirical,Year,2011,130
+Measure,Others,Type,empirical,130
+Measure,Decomposition / Structural Approaches,Measure,Regression‐based Measures,127
+Type,empirical,Year,2016,126
+Type,empirical,Year,2019,126
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Rank‐based Measures,123
+Year,2021,RqType,Empirical Estimates and Determinants,122
+Measure,Regression‐based Measures,RqType,Theoretical and Structural Models,122
+Type,empirical,Year,1979,122
+Type,empirical,DataType,International Panel Data,121
+Type,empirical,Year,2009,121
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Transition Matrix / Probability Measures,120
+Year,2018,Type,empirical,118
+Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,118
+DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,118
+Year,2020,RqType,Empirical Estimates and Determinants,117
+Type,Not_specified,Type,empirical,116
+Year,2015,Type,empirical,114
+RqType,Empirical Estimates and Determinants,Type,theoretical,114
+Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,113
+DataType,Administrative/Registry Data,DataType,Linked Administrative Data,112
+Year,2016,Type,empirical,112
+Year,2023,RqType,Empirical Estimates and Determinants,110
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,Administrative/Registry Data,110
+DataType,Panel/Longitudinal Surveys,Measure,Rank‐based Measures,107
+DataType,Administrative/Registry Data,RqType,Intergenerational Wealth Mobility and Inheritance,107
+RqType,"Policy, Institutional, and Geographic Impacts",Measure,Regression‐based Measures,106
+RqType,"Policy, Institutional, and Geographic Impacts",RqType,Empirical Estimates and Determinants,106
+DataType,Linked Administrative Data,RqType,Intergenerational Wealth Mobility and Inheritance,105
+DataType,National Survey Data,RqType,Intergenerational Wealth Mobility and Inheritance,105
+Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,105
+Type,empirical,Type,Not_specified,104
+Measure,Absolute Mobility Measures,Measure,Regression‐based Measures,103
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2014,103
+Type,empirical,Measure,Absolute Mobility Measures,102
+RqType,Empirical Estimates and Determinants,Measure,Decomposition / Structural Approaches,101
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Decomposition / Structural Approaches,101
+Measure,Regression‐based Measures,DataType,International Panel Data,101
+RqType,Intergenerational Wealth Mobility and Inheritance,Type,theoretical,100
+Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,99
+RqType,Measurement and Methodological Advances,DataType,Linked Administrative Data,98
+DataType,No dataset,RqType,Intergenerational Wealth Mobility and Inheritance,98
+DataType,Administrative/Registry Data,DataType,Panel/Longitudinal Surveys,98
+Measure,Regression‐based Measures,Year,2011,97
+Type,empirical,Year,2007,96
+Measure,Regression‐based Measures,Year,1979,96
+Year,2015,Measure,Regression‐based Measures,96
+Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,96
+Year,2024,DataType,Linked Administrative Data,95
+DataType,No dataset,DataType,Linked Administrative Data,95
+DataType,Panel/Longitudinal Surveys,DataType,Administrative/Registry Data,95
+Type,empirical,Year,2017,94
+Year,2014,Type,empirical,94
+Measure,Others,Measure,Regression‐based Measures,93
+Measure,Rank‐based Measures,DataType,Panel/Longitudinal Surveys,93
+Type,Not_specified,Measure,Regression‐based Measures,92
+DataType,Panel/Longitudinal Surveys,Year,2014,92
+DataType,Linked Administrative Data,Measure,Rank‐based Measures,92
+Year,2017,Type,empirical,91
+Year,2018,Measure,Regression‐based Measures,91
+Measure,Regression‐based Measures,Year,2009,91
+RqType,Measurement and Methodological Advances,DataType,Panel/Longitudinal Surveys,90
+Year,2014,Measure,Regression‐based Measures,89
+Type,empirical,Year,2006,89
+Type,empirical,RqType,"Policy, Institutional, and Geographic Impacts",87
+Year,2016,Measure,Regression‐based Measures,86
+Measure,Others,RqType,Empirical Estimates and Determinants,86
+Year,2022,DataType,Linked Administrative Data,85
+DataType,National Survey Data,DataType,Panel/Longitudinal Surveys,85
+RqType,Measurement and Methodological Advances,RqType,Intergenerational Wealth Mobility and Inheritance,84
+DataType,Linked Administrative Data,DataType,No dataset,84
+Year,2018,RqType,Empirical Estimates and Determinants,84
+Measure,Regression‐based Measures,Year,2007,84
+Type,theoretical,Type,empirical,83
+DataType,No dataset,DataType,Panel/Longitudinal Surveys,83
+RqType,Empirical Estimates and Determinants,Year,2013,81
+Type,empirical,Year,2018,80
+Measure,Regression‐based Measures,Year,2016,80
+Type,empirical,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",80
+DataType,Administrative/Registry Data,Measure,Rank‐based Measures,78
+Year,2024,Measure,Rank‐based Measures,78
+Measure,Regression‐based Measures,Type,Not_specified,78
+DataType,Linked Administrative Data,Measure,Transition Matrix / Probability Measures,78
+Year,2015,RqType,Empirical Estimates and Determinants,77
+RqType,Empirical Estimates and Determinants,RqType,Measurement and Methodological Advances,77
+DataType,Panel/Longitudinal Surveys,Year,2005,77
+Year,2011,Type,empirical,76
+Year,2011,Measure,Regression‐based Measures,76
+DataType,National Survey Data,DataType,No dataset,76
+Year,2023,DataType,Linked Administrative Data,75
+Type,Not_specified,RqType,Empirical Estimates and Determinants,75
+Year,2019,RqType,Intergenerational Wealth Mobility and Inheritance,74
+Year,2017,Measure,Regression‐based Measures,74
+RqType,Empirical Estimates and Determinants,Year,2002,74
+DataType,Panel/Longitudinal Surveys,Measure,Decomposition / Structural Approaches,74
+Year,2020,DataType,Linked Administrative Data,73
+DataType,Linked Administrative Data,DataType,Panel/Longitudinal Surveys,73
+Measure,Absolute Mobility Measures,DataType,Linked Administrative Data,72
+Measure,Regression‐based Measures,Year,2019,72
+Measure,Rank‐based Measures,DataType,Administrative/Registry Data,71
+Year,2024,RqType,Intergenerational Wealth Mobility and Inheritance,71
+Measure,Rank‐based Measures,Measure,Transition Matrix / Probability Measures,70
+DataType,Panel/Longitudinal Surveys,DataType,National Survey Data,70
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,National Survey Data,70
+RqType,Empirical Estimates and Determinants,Year,2005,70
+RqType,Empirical Estimates and Determinants,DataType,National Survey Data,69
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2005,69
+DataType,Linked Administrative Data,DataType,Administrative/Registry Data,69
+Year,2013,Measure,Regression‐based Measures,69
+Year,2014,RqType,Empirical Estimates and Determinants,69
+Year,2024,DataType,Panel/Longitudinal Surveys,69
+DataType,National Survey Data,DataType,Linked Administrative Data,68
+Year,2023,RqType,Intergenerational Wealth Mobility and Inheritance,68
+Year,2013,Type,empirical,68
+Year,2016,RqType,Empirical Estimates and Determinants,68
+RqType,Empirical Estimates and Determinants,RqType,Theoretical and Structural Models,68
+RqType,Intergenerational Wealth Mobility and Inheritance,RqType,Theoretical and Structural Models,67
+DataType,Panel/Longitudinal Surveys,Type,theoretical,67
+RqType,Measurement and Methodological Advances,Measure,Rank‐based Measures,67
+RqType,Empirical Estimates and Determinants,DataType,International Panel Data,66
+Year,2019,DataType,Linked Administrative Data,66
+Measure,Non‐parametric Approaches,Type,empirical,66
+DataType,Administrative/Registry Data,DataType,No dataset,66
+DataType,Archival/Historical Data,Type,empirical,65
+DataType,Linked Administrative Data,Year,2014,65
+Measure,Regression‐based Measures,Year,2006,64
+Year,2017,RqType,Empirical Estimates and Determinants,64
+Type,empirical,Year,2012,64
+Type,empirical,Measure,Others,64
+RqType,Theoretical and Structural Models,Type,empirical,63
+DataType,Administrative/Registry Data,Measure,Transition Matrix / Probability Measures,63
+Measure,Transition Matrix / Probability Measures,DataType,Panel/Longitudinal Surveys,63
+Year,2019,DataType,Panel/Longitudinal Surveys,63
+DataType,Panel/Longitudinal Surveys,Year,2002,63
+Year,2024,DataType,Administrative/Registry Data,62
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2002,62
+Measure,Rank‐based Measures,Year,2014,62
+RqType,Empirical Estimates and Determinants,Year,2011,62
+Type,empirical,Year,1999,62
+Measure,Transition Matrix / Probability Measures,DataType,Linked Administrative Data,61
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,Linked Administrative Data,60
+Year,2022,RqType,Intergenerational Wealth Mobility and Inheritance,60
+DataType,International Panel Data,Type,empirical,60
+Type,theoretical,Measure,Regression‐based Measures,60
+DataType,Panel/Longitudinal Surveys,Year,2013,60
+RqType,Empirical Estimates and Determinants,Year,2019,59
+Measure,Decomposition / Structural Approaches,DataType,Linked Administrative Data,59
+Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,59
+Measure,Decomposition / Structural Approaches,DataType,No dataset,59
+Year,2020,RqType,Intergenerational Wealth Mobility and Inheritance,58
+Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,58
+Measure,Rank‐based Measures,DataType,No dataset,58
+Year,2023,DataType,Panel/Longitudinal Surveys,58
+RqType,Empirical Estimates and Determinants,Year,2016,58
+Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",58
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2013,58
+DataType,Panel/Longitudinal Surveys,Year,2011,58
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,1979,58
+RqType,Empirical Estimates and Determinants,Measure,Absolute Mobility Measures,56
+Year,2022,Measure,Transition Matrix / Probability Measures,56
+Year,2020,DataType,Panel/Longitudinal Surveys,56
+Year,2021,DataType,Panel/Longitudinal Surveys,56
+RqType,Empirical Estimates and Determinants,RqType,"Policy, Institutional, and Geographic Impacts",56
+RqType,Empirical Estimates and Determinants,Year,1979,55
+Year,2021,DataType,Linked Administrative Data,55
+Measure,Regression‐based Measures,Year,2017,54
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Type,empirical,54
+Year,2022,DataType,Panel/Longitudinal Surveys,54
+DataType,No dataset,Type,theoretical,54
+Measure,Regression‐based Measures,Year,2018,53
+DataType,No dataset,Measure,Rank‐based Measures,53
+DataType,Others,Type,empirical,53
+RqType,Measurement and Methodological Advances,Measure,Transition Matrix / Probability Measures,53
+Year,2024,Measure,Transition Matrix / Probability Measures,53
+DataType,Linked Administrative Data,Type,theoretical,53
+Measure,Regression‐based Measures,Measure,Absolute Mobility Measures,52
+DataType,No dataset,Measure,Transition Matrix / Probability Measures,52
+Measure,Decomposition / Structural Approaches,DataType,Panel/Longitudinal Surveys,52
+Measure,Regression‐based Measures,Year,2012,52
+DataType,No dataset,Measure,Decomposition / Structural Approaches,52
+DataType,No dataset,Year,2014,52
+DataType,Administrative/Registry Data,Measure,Decomposition / Structural Approaches,51
+Year,2021,RqType,Intergenerational Wealth Mobility and Inheritance,51
+RqType,Theoretical and Structural Models,Measure,Regression‐based Measures,51
+Measure,Absolute Mobility Measures,DataType,Panel/Longitudinal Surveys,51
+Measure,Regression‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",51
+RqType,Measurement and Methodological Advances,DataType,No dataset,50
+Year,2022,DataType,No dataset,50
+Type,empirical,Year,2020,50
+DataType,International Panel Data,Measure,Regression‐based Measures,49
+Measure,Non‐parametric Approaches,Measure,Regression‐based Measures,49
+RqType,Empirical Estimates and Determinants,Type,Not_specified,49
+Year,2022,Measure,Rank‐based Measures,49
+Type,empirical,Year,2015,49
+Measure,Regression‐based Measures,Year,1999,49
+Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,48
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2009,48
+Measure,Rank‐based Measures,Year,2016,48
+Measure,Transition Matrix / Probability Measures,DataType,No dataset,47
+Year,2013,RqType,Empirical Estimates and Determinants,47
+DataType,Panel/Longitudinal Surveys,Year,2009,47
+Year,2024,Year,2014,47
+RqType,Measurement and Methodological Advances,DataType,Administrative/Registry Data,46
+Year,2022,Year,2014,46
+Year,2020,Measure,Rank‐based Measures,46
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2007,46
+DataType,No dataset,RqType,Theoretical and Structural Models,46
+Type,Not_specified,DataType,No dataset,45
+Type,theoretical,RqType,Empirical Estimates and Determinants,45
+DataType,National Survey Data,Measure,Transition Matrix / Probability Measures,45
+Year,2019,Measure,Transition Matrix / Probability Measures,45
+Measure,Others,DataType,Panel/Longitudinal Surveys,45
+DataType,Administrative/Registry Data,Type,theoretical,45
+DataType,Linked Administrative Data,Measure,Decomposition / Structural Approaches,45
+RqType,Measurement and Methodological Advances,Year,2014,45
+Year,2021,Measure,Rank‐based Measures,45
+DataType,Administrative/Registry Data,Year,2014,44
+Type,empirical,Year,2010,44
+Year,2019,DataType,No dataset,44
+DataType,International Panel Data,RqType,Empirical Estimates and Determinants,44
+RqType,Empirical Estimates and Determinants,Year,2009,44
+Year,2023,Measure,Rank‐based Measures,43
+DataType,National Survey Data,Type,theoretical,42
+Type,empirical,Year,2022,42
+Year,2019,Year,2014,42
+Measure,Absolute Mobility Measures,Measure,Rank‐based Measures,42
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2011,42
+DataType,Archival/Historical Data,Measure,Regression‐based Measures,42
+DataType,Panel/Longitudinal Surveys,RqType,Measurement and Methodological Advances,42
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2016,42
+RqType,Empirical Estimates and Determinants,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",42
+Measure,Rank‐based Measures,Measure,Decomposition / Structural Approaches,41
+Year,2021,Year,2014,41
+Year,2019,Measure,Rank‐based Measures,41
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,No dataset,41
+RqType,Theoretical and Structural Models,RqType,Empirical Estimates and Determinants,41
+Year,2018,DataType,Linked Administrative Data,40
+Measure,Non‐parametric Approaches,RqType,Empirical Estimates and Determinants,40
+RqType,Intergenerational Wealth Mobility and Inheritance,RqType,Measurement and Methodological Advances,40
+DataType,Panel/Longitudinal Surveys,RqType,Theoretical and Structural Models,40
+Measure,Decomposition / Structural Approaches,Type,theoretical,40
+Measure,Decomposition / Structural Approaches,Year,2014,40
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,International Panel Data,40
+Measure,Decomposition / Structural Approaches,Measure,Rank‐based Measures,40
+Year,2023,DataType,Administrative/Registry Data,39
+RqType,Empirical Estimates and Determinants,Year,2017,39
+Year,2011,RqType,Intergenerational Wealth Mobility and Inheritance,39
+Year,2020,DataType,No dataset,39
+Type,empirical,DataType,Others,39
+Type,Not_specified,DataType,Linked Administrative Data,38
+Measure,Others,DataType,Linked Administrative Data,38
+Year,2012,Measure,Regression‐based Measures,38
+Year,2023,DataType,No dataset,38
+Year,2011,RqType,Empirical Estimates and Determinants,38
+Measure,Regression‐based Measures,Measure,Others,38
+Year,2024,Year,2019,38
+Measure,Transition Matrix / Probability Measures,Measure,Rank‐based Measures,38
+Measure,Regression‐based Measures,Year,2015,38
+DataType,Panel/Longitudinal Surveys,DataType,International Panel Data,37
+Type,empirical,DataType,Archival/Historical Data,37
+DataType,Panel/Longitudinal Surveys,Year,1979,37
+Year,2016,RqType,Intergenerational Wealth Mobility and Inheritance,37
+Year,2020,Measure,Transition Matrix / Probability Measures,37
+Measure,Absolute Mobility Measures,Measure,Transition Matrix / Probability Measures,37
+DataType,Linked Administrative Data,RqType,Measurement and Methodological Advances,37
+Year,2016,DataType,Linked Administrative Data,36
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Measure,Regression‐based Measures,36
+RqType,Theoretical and Structural Models,DataType,No dataset,36
+DataType,Panel/Longitudinal Surveys,Type,Not_specified,36
+RqType,Empirical Estimates and Determinants,Year,2018,36
+Year,2020,Year,2014,36
+Measure,Regression‐based Measures,Year,2010,36
+Year,2012,Type,empirical,35
+Type,theoretical,DataType,No dataset,35
+Measure,Decomposition / Structural Approaches,Measure,Transition Matrix / Probability Measures,35
+Year,2023,Measure,Transition Matrix / Probability Measures,35
+Year,2015,DataType,Panel/Longitudinal Surveys,35
+Type,Not_specified,DataType,Panel/Longitudinal Surveys,35
+DataType,Panel/Longitudinal Surveys,Year,2016,35
+DataType,Administrative/Registry Data,Year,2016,35
+RqType,Empirical Estimates and Determinants,Year,2006,35
+DataType,National Survey Data,Year,2014,35
+Year,2018,Measure,Rank‐based Measures,35
+DataType,Panel/Longitudinal Surveys,Year,2007,35
+DataType,Panel/Longitudinal Surveys,Year,2019,34
+DataType,Administrative/Registry Data,Year,2019,34
+DataType,National Survey Data,Measure,Decomposition / Structural Approaches,34
+Year,2023,Year,2014,34
+Year,2018,Year,2014,34
+Measure,Others,Measure,Rank‐based Measures,34
+DataType,Panel/Longitudinal Surveys,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",34
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2017,34
+Type,theoretical,DataType,Linked Administrative Data,34
+RqType,Empirical Estimates and Determinants,Year,2020,34
+Measure,Regression‐based Measures,Year,2020,34
+DataType,Linked Administrative Data,RqType,Theoretical and Structural Models,34
+DataType,Panel/Longitudinal Surveys,Year,2017,33
+Year,2015,RqType,Intergenerational Wealth Mobility and Inheritance,33
+Year,2018,DataType,No dataset,33
+Year,2021,DataType,No dataset,33
+Year,2024,DataType,No dataset,33
+Year,2017,DataType,Panel/Longitudinal Surveys,33
+Year,2016,DataType,Panel/Longitudinal Surveys,33
+DataType,National Survey Data,Year,2002,33
+DataType,National Survey Data,Measure,Rank‐based Measures,33
+RqType,Empirical Estimates and Determinants,Year,2007,33
+Measure,Rank‐based Measures,Type,theoretical,32
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2019,32
+Measure,Rank‐based Measures,Year,2019,32
+DataType,Panel/Longitudinal Surveys,Year,2006,32
+DataType,Linked Administrative Data,Year,2005,32
+RqType,"Policy, Institutional, and Geographic Impacts",Measure,Rank‐based Measures,32
+Year,2024,Measure,Absolute Mobility Measures,32
+Type,theoretical,RqType,Intergenerational Wealth Mobility and Inheritance,32
+Year,2018,RqType,Intergenerational Wealth Mobility and Inheritance,32
+DataType,Archival/Historical Data,RqType,Intergenerational Wealth Mobility and Inheritance,32
+Measure,Others,DataType,No dataset,32
+Year,2014,DataType,No dataset,32
+DataType,Archival/Historical Data,RqType,Empirical Estimates and Determinants,32
+RqType,"Policy, Institutional, and Geographic Impacts",Measure,Transition Matrix / Probability Measures,32
+Measure,Others,Measure,Transition Matrix / Probability Measures,32
+Year,2018,DataType,Panel/Longitudinal Surveys,32
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,Panel/Longitudinal Surveys,32
+Year,2024,RqType,Measurement and Methodological Advances,32
+Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,32
+DataType,Administrative/Registry Data,RqType,Theoretical and Structural Models,32
+Measure,Decomposition / Structural Approaches,RqType,Theoretical and Structural Models,32
+RqType,Empirical Estimates and Determinants,Year,1999,32
+DataType,No dataset,Year,1979,31
+DataType,No dataset,DataType,Administrative/Registry Data,31
+Year,2022,DataType,Administrative/Registry Data,31
+DataType,Linked Administrative Data,Year,2013,31
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2014,31
+RqType,Empirical Estimates and Determinants,Year,2015,31
+Measure,Others,RqType,Intergenerational Wealth Mobility and Inheritance,31
+Year,2008,Measure,Regression‐based Measures,31
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",RqType,Empirical Estimates and Determinants,31
+RqType,Intergenerational Wealth Mobility and Inheritance,Type,Not_specified,31
+RqType,Empirical Estimates and Determinants,Measure,Others,31
+DataType,Linked Administrative Data,Measure,Absolute Mobility Measures,30
+Year,2007,Measure,Regression‐based Measures,30
+Year,2015,DataType,No dataset,30
+Year,2013,DataType,No dataset,30
+DataType,Linked Administrative Data,Year,2016,30
+DataType,Panel/Longitudinal Surveys,Year,2012,30
+Measure,Rank‐based Measures,RqType,Theoretical and Structural Models,30
+Type,empirical,Year,2000,30
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2006,30
+Year,2022,Measure,Decomposition / Structural Approaches,30
+RqType,"Policy, Institutional, and Geographic Impacts",Measure,Decomposition / Structural Approaches,30
+Type,empirical,Year,2021,29
+Year,2022,Year,2019,29
+Year,2023,Year,2019,29
+Measure,Rank‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",29
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2018,29
+Type,theoretical,Measure,Decomposition / Structural Approaches,29
+Year,2023,Measure,Decomposition / Structural Approaches,29
+Year,2024,Measure,Decomposition / Structural Approaches,29
+Type,empirical,Year,2008,29
+Measure,Regression‐based Measures,DataType,Archival/Historical Data,29
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,Archival/Historical Data,29
+DataType,Others,Measure,Regression‐based Measures,29
+DataType,Others,RqType,Empirical Estimates and Determinants,29
+Year,2015,Measure,Transition Matrix / Probability Measures,29
+Year,2021,Measure,Transition Matrix / Probability Measures,29
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2012,29
+RqType,"Policy, Institutional, and Geographic Impacts",RqType,Intergenerational Wealth Mobility and Inheritance,28
+Year,2013,DataType,Panel/Longitudinal Surveys,28
+Year,2014,DataType,Panel/Longitudinal Surveys,28
+DataType,No dataset,Year,2005,28
+DataType,Linked Administrative Data,Year,1979,28
+Year,2017,DataType,Linked Administrative Data,27
+Type,Not_specified,RqType,Intergenerational Wealth Mobility and Inheritance,27
+Year,2014,RqType,Intergenerational Wealth Mobility and Inheritance,27
+Year,2013,RqType,Intergenerational Wealth Mobility and Inheritance,27
+Year,2008,Type,empirical,27
+Year,2016,DataType,No dataset,27
+Year,2011,DataType,Panel/Longitudinal Surveys,27
+RqType,Measurement and Methodological Advances,Year,2016,27
+DataType,Linked Administrative Data,Year,2019,27
+RqType,Measurement and Methodological Advances,Year,2005,27
+DataType,National Survey Data,DataType,Administrative/Registry Data,27
+Year,2021,DataType,Administrative/Registry Data,27
+Measure,Transition Matrix / Probability Measures,DataType,Administrative/Registry Data,27
+DataType,Linked Administrative Data,Year,2002,27
+DataType,Administrative/Registry Data,Year,2013,27
+DataType,Linked Administrative Data,DataType,International Panel Data,27
+RqType,"Policy, Institutional, and Geographic Impacts",Type,theoretical,26
+Measure,Absolute Mobility Measures,DataType,Administrative/Registry Data,26
+Year,2024,RqType,"Policy, Institutional, and Geographic Impacts",26
+DataType,Administrative/Registry Data,Year,2002,26
+Measure,Regression‐based Measures,Year,2008,26
+DataType,Panel/Longitudinal Surveys,Year,2015,26
+Year,2015,DataType,Linked Administrative Data,26
+Year,2007,Type,empirical,26
+DataType,Administrative/Registry Data,RqType,Measurement and Methodological Advances,26
+Year,2023,Year,2016,26
+Measure,Rank‐based Measures,Measure,Absolute Mobility Measures,25
+Year,2006,Measure,Regression‐based Measures,25
+Measure,Absolute Mobility Measures,DataType,No dataset,25
+Type,empirical,Year,1980,25
+Type,theoretical,RqType,Theoretical and Structural Models,25
+DataType,Administrative/Registry Data,Year,1979,25
+Type,Not_specified,Type,theoretical,25
+RqType,Measurement and Methodological Advances,Year,2019,25
+Year,2019,DataType,National Survey Data,25
+Year,2020,DataType,Administrative/Registry Data,25
+DataType,Administrative/Registry Data,RqType,"Policy, Institutional, and Geographic Impacts",25
+RqType,Theoretical and Structural Models,Measure,Decomposition / Structural Approaches,25
+Measure,Absolute Mobility Measures,Year,2014,25
+Year,2016,Measure,Rank‐based Measures,25
+Measure,Transition Matrix / Probability Measures,Type,theoretical,24
+Year,2019,Year,2013,24
+Year,2021,Year,2013,24
+Measure,Rank‐based Measures,Year,2013,24
+DataType,No dataset,Year,2013,24
+Year,2021,Measure,Decomposition / Structural Approaches,24
+Measure,Transition Matrix / Probability Measures,Measure,Decomposition / Structural Approaches,24
+Year,2019,Measure,Decomposition / Structural Approaches,24
+Measure,Others,Year,2014,24
+DataType,No dataset,DataType,International Panel Data,24
+Type,Not_specified,Measure,Rank‐based Measures,24
+Type,empirical,Measure,Non‐parametric Approaches,24
+RqType,Measurement and Methodological Advances,Year,2011,24
+DataType,No dataset,Year,2011,24
+RqType,Measurement and Methodological Advances,Measure,Absolute Mobility Measures,24
+Measure,Non‐parametric Approaches,DataType,Linked Administrative Data,24
+Year,2014,DataType,Linked Administrative Data,24
+Year,2012,RqType,Empirical Estimates and Determinants,24
+Type,Not_specified,Measure,Transition Matrix / Probability Measures,24
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,Linked Administrative Data,23
+Year,2017,RqType,Intergenerational Wealth Mobility and Inheritance,23
+Measure,Rank‐based Measures,Year,2009,23
+Year,2018,Measure,Transition Matrix / Probability Measures,23
+Year,2023,RqType,Measurement and Methodological Advances,23
+Year,2023,Type,theoretical,23
+Year,2022,Type,theoretical,23
+Measure,Rank‐based Measures,DataType,National Survey Data,23
+DataType,Administrative/Registry Data,DataType,National Survey Data,23
+Year,2024,Year,2022,23
+Type,Not_specified,Measure,Decomposition / Structural Approaches,23
+Measure,Transition Matrix / Probability Measures,Year,2014,23
+DataType,Administrative/Registry Data,DataType,International Panel Data,23
+Year,2015,Measure,Rank‐based Measures,23
+Measure,Decomposition / Structural Approaches,Year,1979,23
+Measure,Regression‐based Measures,Year,2000,22
+Measure,Rank‐based Measures,Year,1979,22
+Year,2024,Year,2017,22
+DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,22
+RqType,Theoretical and Structural Models,DataType,Linked Administrative Data,22
+DataType,Archival/Historical Data,DataType,Linked Administrative Data,22
+Measure,Multigenerational Measures,Type,empirical,22
+DataType,Natural/Experimental Data,Type,empirical,22
+DataType,Administrative/Registry Data,Year,2009,22
+RqType,Empirical Estimates and Determinants,Year,2012,22
+Measure,Rank‐based Measures,Measure,Others,22
+Year,2019,Type,theoretical,22
+Measure,Regression‐based Measures,Year,2022,22
+Measure,Rank‐based Measures,Year,2005,22
+Year,2019,DataType,Administrative/Registry Data,22
+DataType,Linked Administrative Data,RqType,"Policy, Institutional, and Geographic Impacts",22
+DataType,National Survey Data,Year,2013,22
+Year,2020,Measure,Decomposition / Structural Approaches,22
+RqType,Theoretical and Structural Models,Type,theoretical,21
+RqType,Empirical Estimates and Determinants,Year,2022,21
+DataType,Administrative/Registry Data,Year,2005,21
+Measure,Decomposition / Structural Approaches,DataType,Administrative/Registry Data,21
+RqType,Measurement and Methodological Advances,Year,2002,21
+Year,2024,Year,2018,21
+RqType,Measurement and Methodological Advances,Measure,Decomposition / Structural Approaches,21
+Type,Not_specified,Year,2014,21
+DataType,Linked Administrative Data,Year,2011,21
+Type,empirical,Year,1992,21
+Type,theoretical,Year,1979,21
+Year,2022,Measure,Absolute Mobility Measures,21
+Year,2011,DataType,No dataset,21
+Year,2007,RqType,Empirical Estimates and Determinants,21
+DataType,Linked Administrative Data,Type,Not_specified,21
+Year,2016,Measure,Transition Matrix / Probability Measures,21
+Type,Not_specified,RqType,Theoretical and Structural Models,21
+DataType,National Survey Data,RqType,Theoretical and Structural Models,21
+Measure,Rank‐based Measures,Year,2017,20
+DataType,Others,DataType,Linked Administrative Data,20
+Year,2006,Type,empirical,20
+Year,2005,Measure,Regression‐based Measures,20
+Measure,Regression‐based Measures,Year,1980,20
+Measure,Non‐parametric Approaches,DataType,Panel/Longitudinal Surveys,20
+Type,theoretical,DataType,Panel/Longitudinal Surveys,20
+Year,2014,Type,theoretical,20
+Year,2020,Year,2019,20
+RqType,Measurement and Methodological Advances,DataType,National Survey Data,20
+DataType,National Survey Data,Year,2005,20
+DataType,No dataset,Year,2002,20
+RqType,Measurement and Methodological Advances,Year,2013,20
+DataType,Linked Administrative Data,Year,2018,20
+Year,2017,Year,2014,20
+Year,2016,Year,2014,20
+Type,theoretical,Year,2014,20
+Year,2021,DataType,International Panel Data,20
+DataType,Others,Measure,Rank‐based Measures,20
+DataType,Archival/Historical Data,Measure,Rank‐based Measures,20
+Type,empirical,Year,2023,20
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,1999,20
+RqType,Empirical Estimates and Determinants,Year,2010,19
+RqType,Intergenerational Wealth Mobility and Inheritance,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",19
+DataType,Opportunity Atlas,Type,empirical,19
+DataType,International Panel Data,DataType,No dataset,19
+Year,2017,DataType,No dataset,19
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Measure,Transition Matrix / Probability Measures,19
+Measure,Absolute Mobility Measures,RqType,Measurement and Methodological Advances,19
+DataType,No dataset,RqType,Measurement and Methodological Advances,19
+DataType,Linked Administrative Data,Year,2020,19
+RqType,Empirical Estimates and Determinants,DataType,Others,19
+Measure,Regression‐based Measures,DataType,Others,19
+Year,2022,Year,2016,19
+RqType,"Policy, Institutional, and Geographic Impacts",RqType,Theoretical and Structural Models,19
+Year,2021,Year,2019,19
+DataType,Linked Administrative Data,DataType,National Survey Data,19
+Year,2022,DataType,National Survey Data,19
+Measure,Others,DataType,Administrative/Registry Data,19
+Year,2022,RqType,"Policy, Institutional, and Geographic Impacts",19
+Year,2023,RqType,"Policy, Institutional, and Geographic Impacts",19
+Year,2020,Year,2013,19
+Measure,Rank‐based Measures,Year,2018,19
+Year,2019,DataType,International Panel Data,19
+Measure,Rank‐based Measures,DataType,International Panel Data,19
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Measure,Rank‐based Measures,19
+Year,2017,Measure,Rank‐based Measures,19
+Year,2021,Type,theoretical,18
+Year,2018,Type,theoretical,18
+Measure,Absolute Mobility Measures,Year,2019,18
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,Administrative/Registry Data,18
+Measure,Decomposition / Structural Approaches,Year,2002,18
+Measure,Rank‐based Measures,Year,2002,18
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2013,18
+Year,2022,Year,2013,18
+Measure,Absolute Mobility Measures,Measure,Decomposition / Structural Approaches,18
+DataType,Archival/Historical Data,Year,2014,18
+Year,2022,DataType,International Panel Data,18
+RqType,Measurement and Methodological Advances,DataType,International Panel Data,18
+Type,theoretical,Measure,Rank‐based Measures,18
+Type,empirical,Year,2003,18
+Year,2019,Year,2011,18
+Measure,Regression‐based Measures,Year,1992,18
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Absolute Mobility Measures,18
+DataType,International Panel Data,DataType,Linked Administrative Data,18
+RqType,Perceptions of Mobility and Attitudes,Type,empirical,18
+Year,2010,Measure,Regression‐based Measures,18
+Year,2008,RqType,Empirical Estimates and Determinants,18
+DataType,Others,DataType,Panel/Longitudinal Surveys,18
+Year,2022,RqType,Measurement and Methodological Advances,18
+Year,2020,Year,2016,18
+DataType,Administrative/Registry Data,Measure,Others,18
+Year,2022,RqType,Theoretical and Structural Models,18
+Measure,Absolute Mobility Measures,Year,2017,17
+Year,2020,Year,2017,17
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",RqType,Intergenerational Wealth Mobility and Inheritance,17
+Year,2025,Type,empirical,17
+Type,empirical,Year,1998,17
+DataType,National Survey Data,Type,Not_specified,17
+DataType,Linked Administrative Data,Year,2009,17
+DataType,National Survey Data,Year,2009,17
+RqType,Measurement and Methodological Advances,Year,2009,17
+Measure,Non‐parametric Approaches,Measure,Transition Matrix / Probability Measures,17
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,Panel/Longitudinal Surveys,17
+Year,2020,RqType,Measurement and Methodological Advances,17
+Measure,Rank‐based Measures,DataType,Others,17
+DataType,No dataset,Year,2016,17
+Year,2024,Year,2016,17
+RqType,Measurement and Methodological Advances,Measure,Others,17
+Year,2023,RqType,Theoretical and Structural Models,17
+Year,2024,RqType,Theoretical and Structural Models,17
+Measure,Transition Matrix / Probability Measures,RqType,Theoretical and Structural Models,17
+Measure,Others,Type,theoretical,17
+Year,2024,Type,theoretical,17
+Measure,Rank‐based Measures,Year,2022,17
+Measure,Transition Matrix / Probability Measures,Year,2005,17
+Year,2011,DataType,Administrative/Registry Data,17
+Measure,Transition Matrix / Probability Measures,Year,2002,17
+Year,2018,Year,2013,17
+Measure,Absolute Mobility Measures,Year,2013,17
+DataType,Panel/Longitudinal Surveys,Year,2018,17
+Year,2014,Measure,Decomposition / Structural Approaches,17
+DataType,National Survey Data,Year,2007,17
+DataType,Linked Administrative Data,Year,2007,17
+DataType,National Survey Data,Year,2011,17
+Year,2020,Year,2011,17
+Year,2015,Year,2011,17
+DataType,Panel/Longitudinal Surveys,Year,1999,17
+DataType,National Survey Data,Year,1979,16
+Type,empirical,Year,1990,16
+DataType,Linked Administrative Data,Year,1999,16
+RqType,Measurement and Methodological Advances,Year,2017,16
+DataType,Administrative/Registry Data,Year,2017,16
+Year,2023,Measure,Absolute Mobility Measures,16
+Year,2010,Type,empirical,16
+DataType,University/Institution Data,Type,empirical,16
+Year,2005,Type,empirical,16
+Measure,Regression‐based Measures,Year,1998,16
+Year,2009,Measure,Regression‐based Measures,16
+Year,2012,DataType,No dataset,16
+RqType,Measurement and Methodological Advances,Type,Not_specified,16
+Year,2017,Measure,Transition Matrix / Probability Measures,16
+DataType,Others,Measure,Transition Matrix / Probability Measures,16
+Year,2024,Year,2020,16
+Measure,Absolute Mobility Measures,Type,theoretical,16
+Year,2015,Type,theoretical,16
+Year,2020,Type,theoretical,16
+Year,2013,Type,theoretical,16
+RqType,Measurement and Methodological Advances,Type,theoretical,16
+Measure,Regression‐based Measures,Year,2021,16
+Measure,Transition Matrix / Probability Measures,Year,2019,16
+Year,2015,DataType,National Survey Data,16
+Measure,Decomposition / Structural Approaches,Year,2005,16
+Year,2019,Year,2005,16
+Year,2015,DataType,Administrative/Registry Data,16
+RqType,Intergenerational Wealth Mobility and Inheritance,RqType,"Policy, Institutional, and Geographic Impacts",16
+DataType,Panel/Longitudinal Surveys,RqType,"Policy, Institutional, and Geographic Impacts",16
+Year,2023,Year,2013,16
+Measure,Decomposition / Structural Approaches,Year,2013,16
+DataType,Administrative/Registry Data,Year,2018,16
+Year,2019,Year,2018,16
+Year,2016,Measure,Decomposition / Structural Approaches,16
+Year,2020,DataType,International Panel Data,16
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2008,16
+Year,2024,Year,2023,16
+Type,Not_specified,Year,2011,16
+Measure,Rank‐based Measures,Year,2011,16
+DataType,No dataset,DataType,National Survey Data,15
+Year,2024,DataType,National Survey Data,15
+Year,2011,Year,2005,15
+Year,2014,DataType,Administrative/Registry Data,15
+Year,2015,Year,2002,15
+Measure,Transition Matrix / Probability Measures,Year,2013,15
+Year,2022,Year,2018,15
+DataType,No dataset,Year,2018,15
+Year,2020,Year,2018,15
+Measure,Non‐parametric Approaches,Measure,Rank‐based Measures,15
+Measure,Regression‐based Measures,Measure,Non‐parametric Approaches,15
+DataType,Administrative/Registry Data,Year,2011,15
+Measure,Transition Matrix / Probability Measures,Year,2011,15
+Measure,Transition Matrix / Probability Measures,Year,1979,15
+DataType,Linked Administrative Data,Year,2017,15
+DataType,No dataset,Year,2017,15
+Year,2023,Year,2017,15
+DataType,National Survey Data,Measure,Absolute Mobility Measures,15
+Year,2011,DataType,Linked Administrative Data,15
+RqType,Theoretical and Structural Models,RqType,Intergenerational Wealth Mobility and Inheritance,15
+Measure,Non‐parametric Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,15
+DataType,Big Data,Type,empirical,15
+Year,2009,Type,empirical,15
+Year,2006,DataType,No dataset,15
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,No dataset,15
+DataType,Administrative/Registry Data,Type,Not_specified,15
+Measure,Rank‐based Measures,Type,Not_specified,15
+Type,theoretical,Measure,Transition Matrix / Probability Measures,15
+Year,2022,Year,2020,15
+Year,2023,Year,2020,15
+Type,empirical,Year,2024,15
+DataType,Linked Administrative Data,Measure,Others,15
+DataType,Administrative/Registry Data,Measure,Absolute Mobility Measures,14
+Year,2013,DataType,Linked Administrative Data,14
+Year,2008,RqType,Intergenerational Wealth Mobility and Inheritance,14
+Measure,Multigenerational Measures,Measure,Regression‐based Measures,14
+Measure,Non‐parametric Approaches,DataType,No dataset,14
+Year,2010,RqType,Empirical Estimates and Determinants,14
+DataType,Natural/Experimental Data,RqType,Empirical Estimates and Determinants,14
+DataType,No dataset,Type,Not_specified,14
+Year,2024,Type,Not_specified,14
+Measure,Transition Matrix / Probability Measures,Year,2009,14
+Year,2014,Measure,Transition Matrix / Probability Measures,14
+Year,2011,Measure,Transition Matrix / Probability Measures,14
+DataType,Administrative/Registry Data,Year,2020,14
+Measure,Rank‐based Measures,Year,2020,14
+Year,2018,Year,2016,14
+Year,2021,Year,2016,14
+Year,2021,RqType,Theoretical and Structural Models,14
+Year,2018,RqType,Theoretical and Structural Models,14
+Year,2014,RqType,Theoretical and Structural Models,14
+Year,2020,RqType,Theoretical and Structural Models,14
+Year,2016,Type,theoretical,14
+Year,2024,Year,2021,14
+DataType,No dataset,Year,2019,14
+Measure,Rank‐based Measures,Year,2006,14
+RqType,Measurement and Methodological Advances,Year,2006,14
+DataType,National Survey Data,Year,2006,14
+DataType,Administrative/Registry Data,Year,2022,14
+Year,2013,Year,2005,14
+Year,2015,Year,2005,14
+Year,2021,Year,2005,14
+Year,2019,Year,2002,14
+Year,2014,Year,2013,14
+Type,Not_specified,Year,2013,14
+Measure,Decomposition / Structural Approaches,Year,2018,14
+Year,2015,Measure,Decomposition / Structural Approaches,14
+Measure,Others,Measure,Decomposition / Structural Approaches,14
+Year,2018,Measure,Decomposition / Structural Approaches,14
+DataType,Others,Year,2014,14
+Measure,Decomposition / Structural Approaches,DataType,International Panel Data,14
+DataType,National Survey Data,DataType,International Panel Data,14
+Year,2018,DataType,International Panel Data,14
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2015,14
+RqType,Measurement and Methodological Advances,Year,2007,14
+Measure,Others,Year,2011,14
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2000,14
+DataType,National Survey Data,Year,2010,14
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2010,14
+RqType,"Policy, Institutional, and Geographic Impacts",Year,1979,14
+DataType,Linked Administrative Data,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",14
+Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",14
+Measure,Rank‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",14
+RqType,Measurement and Methodological Advances,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",14
+RqType,Empirical Estimates and Determinants,Year,2000,13
+DataType,Panel/Longitudinal Surveys,Year,2010,13
+Type,Not_specified,Year,1979,13
+RqType,Theoretical and Structural Models,Year,1979,13
+Year,2023,Year,1979,13
+Year,2015,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",13
+DataType,Administrative/Registry Data,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",13
+Year,2021,Year,2017,13
+Year,2022,Year,2017,13
+Year,2019,Year,2017,13
+DataType,Natural/Experimental Data,DataType,Linked Administrative Data,13
+DataType,International Panel Data,RqType,Intergenerational Wealth Mobility and Inheritance,13
+Year,2006,RqType,Intergenerational Wealth Mobility and Inheritance,13
+DataType,Natural/Experimental Data,Measure,Regression‐based Measures,13
+Year,2007,DataType,No dataset,13
+DataType,Others,DataType,No dataset,13
+Year,2006,RqType,Empirical Estimates and Determinants,13
+DataType,University/Institution Data,RqType,Empirical Estimates and Determinants,13
+Year,2011,Year,2009,13
+RqType,Theoretical and Structural Models,DataType,Panel/Longitudinal Surveys,13
+DataType,National Survey Data,RqType,Measurement and Methodological Advances,13
+Year,2021,RqType,Measurement and Methodological Advances,13
+Measure,Absolute Mobility Measures,Year,2020,13
+Measure,Absolute Mobility Measures,Year,2016,13
+Year,2019,Year,2012,13
+DataType,National Survey Data,Year,2012,13
+DataType,Panel/Longitudinal Surveys,Measure,Others,13
+Year,2016,RqType,Theoretical and Structural Models,13
+Year,2011,Type,theoretical,13
+DataType,National Survey Data,Year,2019,13
+Year,2023,DataType,National Survey Data,13
+Measure,Decomposition / Structural Approaches,DataType,National Survey Data,13
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2005,13
+DataType,International Panel Data,DataType,Administrative/Registry Data,13
+DataType,Archival/Historical Data,DataType,Administrative/Registry Data,13
+DataType,No dataset,RqType,"Policy, Institutional, and Geographic Impacts",13
+Year,2015,Year,2013,13
+Year,2016,Year,2013,13
+RqType,Measurement and Methodological Advances,Year,2018,13
+Year,2015,Year,2014,13
+RqType,Theoretical and Structural Models,Year,2014,13
+Type,Not_specified,DataType,International Panel Data,13
+Measure,Absolute Mobility Measures,DataType,International Panel Data,13
+DataType,Administrative/Registry Data,Year,2007,13
+Measure,Regression‐based Measures,Year,2003,13
+Year,2016,Year,2011,13
+Measure,Decomposition / Structural Approaches,Year,2011,13
+Year,2022,Year,2011,13
+Year,2021,Year,2011,13
+Year,2012,Type,theoretical,12
+Measure,Others,Year,2019,12
+Year,2021,DataType,National Survey Data,12
+Year,2011,DataType,National Survey Data,12
+DataType,No dataset,Year,2006,12
+Year,2019,Year,2006,12
+DataType,Panel/Longitudinal Surveys,Year,2022,12
+Year,2020,Year,2005,12
+Year,2016,Year,2005,12
+Year,2018,DataType,Administrative/Registry Data,12
+Measure,Absolute Mobility Measures,RqType,"Policy, Institutional, and Geographic Impacts",12
+Year,2014,Year,2002,12
+Year,2023,Year,2018,12
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2018,12
+Measure,Non‐parametric Approaches,Year,2014,12
+Measure,Transition Matrix / Probability Measures,DataType,International Panel Data,12
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,International Panel Data,12
+DataType,Panel/Longitudinal Surveys,Year,2008,12
+RqType,Theoretical and Structural Models,Measure,Rank‐based Measures,12
+Year,2016,Year,2007,12
+Year,2011,Year,2007,12
+Year,2019,Year,2007,12
+Year,2014,Year,1979,12
+Year,2018,Year,1979,12
+Year,2022,Year,1979,12
+Measure,Regression‐based Measures,Year,1990,12
+Year,2022,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",12
+Measure,Others,Year,2017,12
+Year,2021,Measure,Absolute Mobility Measures,12
+Year,2012,RqType,Intergenerational Wealth Mobility and Inheritance,12
+RqType,Others,Measure,Regression‐based Measures,12
+Year,2020,Type,Not_specified,12
+Year,2023,Type,Not_specified,12
+DataType,No dataset,Year,2009,12
+Year,2014,Year,2009,12
+Year,2007,DataType,Panel/Longitudinal Surveys,12
+Year,2012,DataType,Panel/Longitudinal Surveys,12
+Measure,Others,RqType,Measurement and Methodological Advances,12
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Others,12
+Year,2022,Measure,Others,12
+Measure,Absolute Mobility Measures,RqType,Theoretical and Structural Models,12
+RqType,Measurement and Methodological Advances,RqType,Theoretical and Structural Models,12
+Measure,Others,RqType,Theoretical and Structural Models,12
+DataType,No dataset,Measure,Absolute Mobility Measures,11
+Year,2025,DataType,Linked Administrative Data,11
+Year,2007,RqType,Intergenerational Wealth Mobility and Inheritance,11
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Type,empirical,11
+DataType,University/Institution Data,Measure,Regression‐based Measures,11
+RqType,Perceptions of Mobility and Attitudes,Measure,Regression‐based Measures,11
+Year,2010,DataType,No dataset,11
+Year,2005,RqType,Empirical Estimates and Determinants,11
+Measure,Multigenerational Measures,RqType,Empirical Estimates and Determinants,11
+Year,2025,RqType,Empirical Estimates and Determinants,11
+Measure,Transition Matrix / Probability Measures,Type,Not_specified,11
+Year,2019,Type,Not_specified,11
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,1980,11
+Year,2019,Year,2009,11
+RqType,Measurement and Methodological Advances,DataType,Others,11
+DataType,Administrative/Registry Data,DataType,Others,11
+Year,2019,Year,2016,11
+DataType,National Survey Data,Year,2016,11
+Measure,Transition Matrix / Probability Measures,Year,2016,11
+Year,2024,Measure,Others,11
+Year,2019,RqType,Theoretical and Structural Models,11
+DataType,International Panel Data,Type,theoretical,11
+Year,2007,Type,theoretical,11
+Year,2006,Type,theoretical,11
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2021,11
+Year,2016,DataType,National Survey Data,11
+Measure,Others,DataType,National Survey Data,11
+DataType,Administrative/Registry Data,Year,2006,11
+DataType,Linked Administrative Data,Year,2006,11
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2022,11
+Year,2023,Year,2022,11
+Type,Not_specified,Year,2005,11
+Year,2014,Year,2005,11
+Type,Not_specified,DataType,Administrative/Registry Data,11
+Year,2020,RqType,"Policy, Institutional, and Geographic Impacts",11
+Type,Not_specified,RqType,"Policy, Institutional, and Geographic Impacts",11
+Year,2007,Year,2002,11
+Year,2023,Year,2002,11
+Type,Not_specified,Year,2018,11
+Year,2013,Measure,Decomposition / Structural Approaches,11
+DataType,International Panel Data,Measure,Decomposition / Structural Approaches,11
+Year,2011,Measure,Decomposition / Structural Approaches,11
+Year,2023,DataType,International Panel Data,11
+RqType,Empirical Estimates and Determinants,Year,2008,11
+DataType,International Panel Data,Measure,Rank‐based Measures,11
+DataType,No dataset,Year,2007,11
+Year,2017,Year,2011,11
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2011,11
+Year,2014,Year,2011,11
+Measure,Rank‐based Measures,Year,2010,11
+Year,2021,Year,1979,11
+Year,2024,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",11
+Measure,Non‐parametric Approaches,Year,2011,10
+DataType,No dataset,Year,2010,10
+RqType,Empirical Estimates and Determinants,Year,1992,10
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,1992,10
+Measure,Absolute Mobility Measures,Year,1979,10
+Year,2024,Year,1979,10
+Year,2019,Year,1979,10
+Measure,Absolute Mobility Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",10
+DataType,No dataset,Year,1999,10
+DataType,National Survey Data,Year,1999,10
+DataType,National Survey Data,Year,2017,10
+Year,2020,Measure,Absolute Mobility Measures,10
+Measure,Others,Measure,Absolute Mobility Measures,10
+DataType,Big Data,DataType,Linked Administrative Data,10
+Measure,Multigenerational Measures,RqType,Intergenerational Wealth Mobility and Inheritance,10
+RqType,Others,Type,empirical,10
+Year,2025,Measure,Regression‐based Measures,10
+DataType,Opportunity Atlas,Measure,Regression‐based Measures,10
+RqType,Perceptions of Mobility and Attitudes,RqType,Empirical Estimates and Determinants,10
+RqType,Empirical Estimates and Determinants,Year,1980,10
+Measure,Decomposition / Structural Approaches,Year,2009,10
+Year,2016,Year,2009,10
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2009,10
+Year,2015,Year,2009,10
+DataType,Archival/Historical Data,Measure,Transition Matrix / Probability Measures,10
+RqType,Theoretical and Structural Models,Measure,Transition Matrix / Probability Measures,10
+Year,2005,DataType,Panel/Longitudinal Surveys,10
+DataType,International Panel Data,DataType,Panel/Longitudinal Surveys,10
+Year,2023,Measure,Others,10
+DataType,International Panel Data,RqType,Theoretical and Structural Models,10
+RqType,Empirical Estimates and Determinants,Year,2021,10
+Year,2022,Year,2021,10
+Year,2014,DataType,National Survey Data,10
+Year,2020,Year,2006,10
+Measure,Absolute Mobility Measures,Year,2022,10
+RqType,Theoretical and Structural Models,Year,2005,10
+Year,2017,Year,2005,10
+Year,2018,Year,2005,10
+Year,2016,DataType,Administrative/Registry Data,10
+Year,2017,DataType,Administrative/Registry Data,10
+Year,2013,DataType,Administrative/Registry Data,10
+Year,2021,Year,2002,10
+Year,2006,Year,2002,10
+Year,2020,Year,2002,10
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2002,10
+Year,2013,Year,2002,10
+Year,2024,Year,2013,10
+Year,2017,Year,2013,10
+Type,theoretical,Year,2013,10
+Measure,Absolute Mobility Measures,Year,2018,10
+Year,2021,Year,2018,10
+DataType,Archival/Historical Data,Year,2018,10
+Year,2024,DataType,International Panel Data,10
+Type,theoretical,DataType,International Panel Data,10
+DataType,No dataset,Year,2015,10
+Year,2022,Year,2015,10
+DataType,Linked Administrative Data,DataType,Archival/Historical Data,10
+Year,2015,Year,2007,10
+Measure,Rank‐based Measures,Year,2023,10
+RqType,Empirical Estimates and Determinants,Measure,Non‐parametric Approaches,10
+DataType,Panel/Longitudinal Surveys,Measure,Non‐parametric Approaches,10
+Measure,Absolute Mobility Measures,Year,2011,10
+Measure,Rank‐based Measures,Year,2021,9
+Type,Not_specified,Year,2019,9
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2019,9
+Measure,Decomposition / Structural Approaches,Year,2019,9
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,National Survey Data,9
+Measure,Transition Matrix / Probability Measures,DataType,National Survey Data,9
+Year,2014,Year,2006,9
+Measure,Transition Matrix / Probability Measures,Year,2006,9
+RqType,Measurement and Methodological Advances,Year,2022,9
+Year,2010,Year,2005,9
+Year,2012,Year,2005,9
+Year,2023,Year,2005,9
+Year,2022,Year,2005,9
+Year,2024,Year,2005,9
+Measure,Non‐parametric Approaches,DataType,Administrative/Registry Data,9
+RqType,Measurement and Methodological Advances,RqType,"Policy, Institutional, and Geographic Impacts",9
+Year,2019,RqType,"Policy, Institutional, and Geographic Impacts",9
+Measure,Transition Matrix / Probability Measures,RqType,"Policy, Institutional, and Geographic Impacts",9
+Measure,Others,Year,2002,9
+Measure,Others,Year,2013,9
+DataType,International Panel Data,Year,2014,9
+Year,2015,DataType,International Panel Data,9
+Year,2016,DataType,International Panel Data,9
+Year,2014,DataType,International Panel Data,9
+Measure,Rank‐based Measures,Year,2015,9
+Measure,Rank‐based Measures,DataType,Archival/Historical Data,9
+Year,2019,DataType,Archival/Historical Data,9
+Year,2014,Year,2007,9
+Measure,Rank‐based Measures,Year,2007,9
+RqType,Measurement and Methodological Advances,Measure,Non‐parametric Approaches,9
+Year,2018,Year,2011,9
+Year,2013,Year,2011,9
+Type,Not_specified,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",9
+DataType,Administrative/Registry Data,Year,1999,9
+Measure,Rank‐based Measures,Year,1999,9
+Measure,Transition Matrix / Probability Measures,Year,2017,9
+Type,Not_specified,Measure,Absolute Mobility Measures,9
+DataType,Others,Measure,Absolute Mobility Measures,9
+DataType,Opportunity Atlas,DataType,Linked Administrative Data,9
+Year,2008,DataType,Linked Administrative Data,9
+RqType,Perceptions of Mobility and Attitudes,RqType,Intergenerational Wealth Mobility and Inheritance,9
+DataType,Others,RqType,Intergenerational Wealth Mobility and Inheritance,9
+Year,2009,RqType,Intergenerational Wealth Mobility and Inheritance,9
+Year,2005,RqType,Intergenerational Wealth Mobility and Inheritance,9
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,1998,9
+Measure,Absolute Mobility Measures,Type,Not_specified,9
+Year,2022,Type,Not_specified,9
+Year,2021,Year,2009,9
+Year,2022,Year,2009,9
+Year,2013,Year,2009,9
+Year,2023,Year,2009,9
+Year,2024,Year,2009,9
+Year,2018,RqType,Measurement and Methodological Advances,9
+Year,2017,RqType,Measurement and Methodological Advances,9
+DataType,No dataset,Year,2020,9
+Measure,Absolute Mobility Measures,DataType,Others,9
+DataType,Linked Administrative Data,DataType,Others,9
+DataType,No dataset,Year,2012,9
+DataType,No dataset,Measure,Others,9
+Year,2020,Measure,Others,9
+Year,2013,RqType,Theoretical and Structural Models,9
+Year,2015,RqType,Theoretical and Structural Models,9
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2017,8
+Measure,Multigenerational Measures,DataType,Linked Administrative Data,8
+Year,2002,Type,empirical,8
+DataType,Big Data,Measure,Regression‐based Measures,8
+Year,2002,Measure,Regression‐based Measures,8
+Year,2005,DataType,No dataset,8
+Year,2009,RqType,Empirical Estimates and Determinants,8
+DataType,Opportunity Atlas,RqType,Empirical Estimates and Determinants,8
+Measure,Others,Type,Not_specified,8
+Measure,Others,Year,2009,8
+Year,2013,Measure,Transition Matrix / Probability Measures,8
+Year,2008,DataType,Panel/Longitudinal Surveys,8
+Year,2006,DataType,Panel/Longitudinal Surveys,8
+Year,2021,DataType,Others,8
+RqType,Empirical Estimates and Determinants,Year,2024,8
+Measure,Decomposition / Structural Approaches,Year,2012,8
+Measure,Absolute Mobility Measures,Measure,Others,8
+Year,2011,RqType,Theoretical and Structural Models,8
+Year,2017,Type,theoretical,8
+Year,2010,Type,theoretical,8
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Type,theoretical,8
+DataType,Administrative/Registry Data,Year,2021,8
+Year,2012,DataType,National Survey Data,8
+Year,2007,Year,2005,8
+Measure,Others,Year,2005,8
+DataType,Others,DataType,Administrative/Registry Data,8
+Year,2012,DataType,Administrative/Registry Data,8
+Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",8
+Year,2022,Year,2002,8
+Year,2016,Year,2002,8
+Type,Not_specified,Year,2002,8
+Year,2012,Year,2002,8
+Year,2017,Year,2002,8
+DataType,International Panel Data,Year,2013,8
+Type,theoretical,Year,2018,8
+DataType,National Survey Data,Year,2018,8
+Year,2017,Measure,Decomposition / Structural Approaches,8
+Year,2012,Measure,Decomposition / Structural Approaches,8
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2014,8
+Year,2014,Measure,Rank‐based Measures,8
+DataType,Natural/Experimental Data,Measure,Rank‐based Measures,8
+DataType,No dataset,DataType,Archival/Historical Data,8
+RqType,Empirical Estimates and Determinants,DataType,Archival/Historical Data,8
+DataType,Linked Administrative Data,Year,2023,8
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2003,8
+RqType,Empirical Estimates and Determinants,Year,2003,8
+Year,2016,Year,1979,8
+Measure,Others,Year,1979,8
+Year,2013,Year,1979,8
+Year,2020,Year,1979,8
+RqType,Empirical Estimates and Determinants,Year,1990,8
+Year,2021,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",8
+DataType,National Survey Data,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",8
+Year,2019,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",8
+Year,2023,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",8
+Measure,Transition Matrix / Probability Measures,Year,1999,8
+DataType,National Survey Data,Year,2000,7
+Measure,Transition Matrix / Probability Measures,Year,2010,7
+DataType,Panel/Longitudinal Surveys,Year,1992,7
+RqType,Measurement and Methodological Advances,Year,1979,7
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,1990,7
+Year,2020,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",7
+Measure,Others,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",7
+Year,2020,Year,1999,7
+RqType,Measurement and Methodological Advances,Year,1999,7
+Year,2019,Year,1999,7
+Year,2018,Year,2017,7
+RqType,"Policy, Institutional, and Geographic Impacts",Measure,Absolute Mobility Measures,7
+Year,2019,Measure,Absolute Mobility Measures,7
+Year,1998,Measure,Regression‐based Measures,7
+Year,2009,DataType,No dataset,7
+Year,2008,DataType,No dataset,7
+DataType,Archival/Historical Data,DataType,No dataset,7
+Year,1998,RqType,Empirical Estimates and Determinants,7
+RqType,Others,RqType,Empirical Estimates and Determinants,7
+DataType,Big Data,RqType,Empirical Estimates and Determinants,7
+Year,2018,Type,Not_specified,7
+DataType,National Survey Data,Year,1980,7
+Measure,Absolute Mobility Measures,Year,2009,7
+Year,2018,Year,2009,7
+DataType,International Panel Data,Measure,Transition Matrix / Probability Measures,7
+DataType,Natural/Experimental Data,Measure,Transition Matrix / Probability Measures,7
+Year,2010,DataType,Panel/Longitudinal Surveys,7
+DataType,Archival/Historical Data,DataType,Panel/Longitudinal Surveys,7
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",DataType,Panel/Longitudinal Surveys,7
+RqType,Perceptions of Mobility and Attitudes,DataType,Panel/Longitudinal Surveys,7
+DataType,Others,RqType,Measurement and Methodological Advances,7
+Measure,Non‐parametric Approaches,RqType,Measurement and Methodological Advances,7
+Year,2011,RqType,Measurement and Methodological Advances,7
+Year,2019,RqType,Measurement and Methodological Advances,7
+Measure,Transition Matrix / Probability Measures,RqType,Measurement and Methodological Advances,7
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2020,7
+RqType,Measurement and Methodological Advances,Year,2020,7
+Type,Not_specified,Year,2020,7
+DataType,Panel/Longitudinal Surveys,DataType,Others,7
+Year,2022,DataType,Others,7
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,Others,7
+Year,2023,DataType,Others,7
+Year,2017,Year,2016,7
+Measure,Decomposition / Structural Approaches,Year,2016,7
+Measure,Regression‐based Measures,Year,2024,7
+Year,2015,Year,2012,7
+Measure,Rank‐based Measures,Year,2012,7
+Year,2021,Year,2012,7
+RqType,Measurement and Methodological Advances,Year,2012,7
+Year,2012,RqType,Theoretical and Structural Models,7
+DataType,Others,Type,theoretical,7
+DataType,Linked Administrative Data,Year,2021,7
+Year,2020,DataType,National Survey Data,7
+Measure,Absolute Mobility Measures,DataType,National Survey Data,7
+Year,2017,DataType,National Survey Data,7
+Year,2011,Year,2006,7
+Measure,Decomposition / Structural Approaches,Year,2006,7
+DataType,Linked Administrative Data,Year,2022,7
+DataType,Archival/Historical Data,Year,2005,7
+Measure,Non‐parametric Approaches,Year,2005,7
+Type,theoretical,DataType,Administrative/Registry Data,7
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,Administrative/Registry Data,7
+DataType,National Survey Data,RqType,"Policy, Institutional, and Geographic Impacts",7
+Year,2021,RqType,"Policy, Institutional, and Geographic Impacts",7
+Year,2011,Year,2002,7
+Year,2005,Year,2002,7
+Year,2018,Year,2002,7
+Year,2024,Year,2002,7
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Measure,Decomposition / Structural Approaches,7
+DataType,Others,Measure,Decomposition / Structural Approaches,7
+DataType,Natural/Experimental Data,Year,2014,7
+Year,2018,Year,2015,7
+Year,2020,Year,2015,7
+Year,2024,DataType,Archival/Historical Data,7
+Measure,Others,Year,2007,7
+RqType,Empirical Estimates and Determinants,Year,2023,7
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Non‐parametric Approaches,7
+DataType,No dataset,Measure,Non‐parametric Approaches,7
+Year,2005,Type,theoretical,6
+DataType,Panel/Longitudinal Surveys,Year,2021,6
+RqType,Theoretical and Structural Models,Year,2019,6
+Year,2016,Year,2006,6
+Year,2015,Year,2006,6
+Measure,Others,Year,2006,6
+RqType,Theoretical and Structural Models,DataType,Administrative/Registry Data,6
+DataType,Others,RqType,"Policy, Institutional, and Geographic Impacts",6
+Year,2008,Year,2002,6
+Type,empirical,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",6
+RqType,Theoretical and Structural Models,Year,2013,6
+Measure,Transition Matrix / Probability Measures,Year,2018,6
+Year,2007,Measure,Decomposition / Structural Approaches,6
+Measure,Multigenerational Measures,Year,2014,6
+RqType,Theoretical and Structural Models,DataType,International Panel Data,6
+Measure,Others,DataType,International Panel Data,6
+DataType,No dataset,Year,2008,6
+Year,2019,Year,2008,6
+DataType,National Survey Data,Year,2008,6
+Measure,Multigenerational Measures,Measure,Rank‐based Measures,6
+Year,2017,Year,2015,6
+RqType,Measurement and Methodological Advances,Year,2015,6
+Year,2019,Year,2015,6
+Year,2021,Year,2015,6
+DataType,Administrative/Registry Data,Year,2015,6
+Year,2023,Year,2007,6
+Year,2012,Year,2007,6
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2023,6
+Measure,Regression‐based Measures,Year,2023,6
+RqType,Theoretical and Structural Models,Year,2011,6
+DataType,Others,Year,2011,6
+DataType,Panel/Longitudinal Surveys,Year,2000,6
+DataType,Linked Administrative Data,Year,2000,6
+Year,2016,Year,2010,6
+RqType,Theoretical and Structural Models,Year,2010,6
+Year,2022,Year,2010,6
+Year,2011,Year,2010,6
+DataType,Administrative/Registry Data,Year,2010,6
+DataType,Linked Administrative Data,Year,1992,6
+Year,2006,Year,1979,6
+Year,2012,Year,1979,6
+DataType,International Panel Data,Year,1979,6
+Year,2011,Year,1979,6
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,1979,6
+DataType,Panel/Longitudinal Surveys,Year,1990,6
+DataType,Others,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",6
+Year,2016,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",6
+DataType,No dataset,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",6
+Type,Not_specified,Year,2017,6
+Measure,Decomposition / Structural Approaches,Measure,Absolute Mobility Measures,6
+Measure,Transition Matrix / Probability Measures,Measure,Absolute Mobility Measures,6
+RqType,Perceptions of Mobility and Attitudes,DataType,Linked Administrative Data,6
+Year,2006,DataType,Linked Administrative Data,6
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",RqType,Intergenerational Wealth Mobility and Inheritance,6
+Year,2010,RqType,Intergenerational Wealth Mobility and Inheritance,6
+Year,1998,Type,empirical,6
+DataType,Panel/Longitudinal Surveys,Year,1998,6
+RqType,Empirical Estimates and Determinants,Year,1998,6
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Measure,Regression‐based Measures,6
+RqType,Others,DataType,No dataset,6
+DataType,Natural/Experimental Data,DataType,No dataset,6
+DataType,Opportunity Atlas,DataType,No dataset,6
+RqType,"Policy, Institutional, and Geographic Impacts",Type,Not_specified,6
+DataType,Linked Administrative Data,Year,1980,6
+DataType,Panel/Longitudinal Surveys,Year,1980,6
+Year,2020,Year,2009,6
+Year,2025,Measure,Transition Matrix / Probability Measures,6
+DataType,University/Institution Data,DataType,Panel/Longitudinal Surveys,6
+Measure,Decomposition / Structural Approaches,RqType,Measurement and Methodological Advances,6
+Type,Not_specified,RqType,Measurement and Methodological Advances,6
+Measure,Others,Year,2016,6
+DataType,Administrative/Registry Data,Year,2012,6
+Year,2022,Year,2012,6
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2012,6
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",RqType,Theoretical and Structural Models,6
+DataType,Others,RqType,Theoretical and Structural Models,6
+Measure,Decomposition / Structural Approaches,Year,2017,5
+DataType,Others,Year,2017,5
+DataType,Big Data,Measure,Absolute Mobility Measures,5
+Year,2018,Measure,Absolute Mobility Measures,5
+Year,2005,DataType,Linked Administrative Data,5
+Year,1998,DataType,No dataset,5
+RqType,Perceptions of Mobility and Attitudes,DataType,No dataset,5
+Measure,Multigenerational Measures,DataType,No dataset,5
+Year,2014,Type,Not_specified,5
+Year,2011,Type,Not_specified,5
+RqType,Theoretical and Structural Models,Type,Not_specified,5
+DataType,Others,Type,Not_specified,5
+Year,2021,Type,Not_specified,5
+Measure,Transition Matrix / Probability Measures,Year,1980,5
+DataType,International Panel Data,Year,2009,5
+Year,2017,Year,2009,5
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2009,5
+Year,2008,Measure,Transition Matrix / Probability Measures,5
+DataType,University/Institution Data,Measure,Transition Matrix / Probability Measures,5
+RqType,Perceptions of Mobility and Attitudes,Measure,Transition Matrix / Probability Measures,5
+DataType,Opportunity Atlas,Measure,Transition Matrix / Probability Measures,5
+Year,1998,DataType,Panel/Longitudinal Surveys,5
+DataType,Archival/Historical Data,RqType,Measurement and Methodological Advances,5
+RqType,"Policy, Institutional, and Geographic Impacts",RqType,Measurement and Methodological Advances,5
+DataType,Panel/Longitudinal Surveys,Year,2020,5
+DataType,National Survey Data,DataType,Others,5
+Year,2024,DataType,Others,5
+Measure,Non‐parametric Approaches,Year,2016,5
+Year,2014,Year,2012,5
+Year,2016,Year,2012,5
+DataType,Linked Administrative Data,Year,2012,5
+Year,2021,Measure,Others,5
+DataType,National Survey Data,Measure,Others,5
+Measure,Transition Matrix / Probability Measures,Measure,Others,5
+Year,2007,RqType,Theoretical and Structural Models,5
+Year,2006,RqType,Theoretical and Structural Models,5
+DataType,Opportunity Atlas,RqType,Theoretical and Structural Models,5
+DataType,Archival/Historical Data,Type,theoretical,5
+Measure,Absolute Mobility Measures,Year,2021,5
+RqType,Measurement and Methodological Advances,Year,2021,5
+Year,2023,Year,2021,5
+DataType,Opportunity Atlas,Year,2019,5
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2019,5
+RqType,Theoretical and Structural Models,DataType,National Survey Data,5
+DataType,International Panel Data,DataType,National Survey Data,5
+Year,2007,DataType,National Survey Data,5
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2006,5
+Year,2008,Year,2006,5
+Year,2013,Year,2006,5
+Year,2017,Year,2006,5
+Year,2021,Year,2006,5
+DataType,No dataset,Year,2022,5
+Type,Not_specified,Year,2022,5
+DataType,International Panel Data,Year,2005,5
+Year,2009,Year,2005,5
+Year,2006,Year,2005,5
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2005,5
+Year,2008,Year,2005,5
+Year,2008,DataType,Administrative/Registry Data,5
+Type,theoretical,RqType,"Policy, Institutional, and Geographic Impacts",5
+Year,2025,RqType,"Policy, Institutional, and Geographic Impacts",5
+Measure,Others,RqType,"Policy, Institutional, and Geographic Impacts",5
+Type,theoretical,Year,2002,5
+Measure,Non‐parametric Approaches,Year,2002,5
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2002,5
+DataType,International Panel Data,Year,2002,5
+DataType,Panel/Longitudinal Surveys,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",5
+RqType,Theoretical and Structural Models,Year,2018,5
+Measure,Others,Year,2018,5
+DataType,Natural/Experimental Data,Measure,Decomposition / Structural Approaches,5
+Measure,Non‐parametric Approaches,Measure,Decomposition / Structural Approaches,5
+Year,2006,Measure,Decomposition / Structural Approaches,5
+DataType,Opportunity Atlas,Measure,Decomposition / Structural Approaches,5
+RqType,Perceptions of Mobility and Attitudes,Year,2014,5
+Year,2025,Year,2014,5
+Year,2017,DataType,International Panel Data,5
+DataType,Administrative/Registry Data,Year,2008,5
+Year,2011,Measure,Rank‐based Measures,5
+RqType,Perceptions of Mobility and Attitudes,Measure,Rank‐based Measures,5
+Year,2025,Measure,Rank‐based Measures,5
+Measure,Absolute Mobility Measures,Year,2015,5
+Year,2018,DataType,Archival/Historical Data,5
+Year,2020,DataType,Archival/Historical Data,5
+Measure,Multigenerational Measures,DataType,Archival/Historical Data,5
+Measure,Transition Matrix / Probability Measures,Year,2007,5
+DataType,Archival/Historical Data,Year,2007,5
+Year,2022,Year,2007,5
+Measure,Decomposition / Structural Approaches,Year,2007,5
+DataType,Panel/Longitudinal Surveys,Year,2023,5
+Year,2021,Measure,Non‐parametric Approaches,5
+DataType,National Survey Data,Year,2003,5
+Measure,Transition Matrix / Probability Measures,Year,2003,5
+Year,2019,Year,2003,5
+DataType,No dataset,Year,2003,5
+Type,theoretical,Year,2011,5
+Year,2024,Year,2011,5
+Year,2023,Year,2011,5
+Year,2012,Year,2011,5
+DataType,Administrative/Registry Data,Year,2000,5
+Year,2011,Year,2000,5
+DataType,No dataset,Year,2000,5
+Year,2019,Year,2000,5
+RqType,Measurement and Methodological Advances,Year,2010,5
+Measure,Decomposition / Structural Approaches,Year,2010,5
+Year,2019,Year,2010,5
+Year,2023,Year,2010,5
+Measure,Transition Matrix / Probability Measures,Year,1992,5
+DataType,Administrative/Registry Data,Year,1992,5
+Year,2015,Year,1979,5
+Measure,Non‐parametric Approaches,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",5
+Year,2014,Year,1999,5
+Year,2013,Year,1999,5
+DataType,International Panel Data,Year,2011,4
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2011,4
+Measure,Decomposition / Structural Approaches,Year,2000,4
+Measure,Absolute Mobility Measures,Year,2010,4
+Type,Not_specified,Year,2010,4
+Type,theoretical,Year,2010,4
+Year,2013,Year,2010,4
+Year,2024,Year,2010,4
+Year,2014,Year,2010,4
+Year,2015,Year,2010,4
+DataType,Linked Administrative Data,Year,2010,4
+DataType,No dataset,Year,1992,4
+Year,2007,Year,1979,4
+DataType,Others,Year,1979,4
+DataType,National Survey Data,Year,1990,4
+DataType,Administrative/Registry Data,Year,1990,4
+Year,2014,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",4
+RqType,"Policy, Institutional, and Geographic Impacts",RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",4
+DataType,Opportunity Atlas,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",4
+Year,2015,Year,1999,4
+Year,2008,Year,1999,4
+Type,theoretical,Year,1999,4
+RqType,"Policy, Institutional, and Geographic Impacts",Year,1999,4
+Year,2018,Year,1999,4
+Year,2022,Year,1999,4
+Year,2023,Year,1999,4
+Year,2025,Measure,Absolute Mobility Measures,4
+Year,2007,DataType,Linked Administrative Data,4
+DataType,University/Institution Data,DataType,Linked Administrative Data,4
+Year,2012,DataType,Linked Administrative Data,4
+DataType,Natural/Experimental Data,RqType,Intergenerational Wealth Mobility and Inheritance,4
+Year,2002,RqType,Intergenerational Wealth Mobility and Inheritance,4
+DataType,National Survey Data,Year,1998,4
+Year,2011,Year,1998,4
+DataType,No dataset,Year,1998,4
+Year,2003,Measure,Regression‐based Measures,4
+Year,2002,RqType,Empirical Estimates and Determinants,4
+Year,2015,Type,Not_specified,4
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Type,Not_specified,4
+Measure,Decomposition / Structural Approaches,Type,Not_specified,4
+DataType,Administrative/Registry Data,Year,1980,4
+Year,2010,Year,2009,4
+Year,2012,Year,2009,4
+Type,Not_specified,Year,2009,4
+Year,2010,Measure,Transition Matrix / Probability Measures,4
+Year,2007,Measure,Transition Matrix / Probability Measures,4
+Year,2012,Measure,Transition Matrix / Probability Measures,4
+Measure,Multigenerational Measures,Measure,Transition Matrix / Probability Measures,4
+Year,2009,DataType,Panel/Longitudinal Surveys,4
+Year,2002,DataType,Panel/Longitudinal Surveys,4
+DataType,Natural/Experimental Data,DataType,Panel/Longitudinal Surveys,4
+Type,theoretical,RqType,Measurement and Methodological Advances,4
+Year,2012,RqType,Measurement and Methodological Advances,4
+Year,2016,RqType,Measurement and Methodological Advances,4
+Year,2021,Year,2020,4
+RqType,Theoretical and Structural Models,Year,2020,4
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2020,4
+Year,2019,DataType,Others,4
+DataType,No dataset,DataType,Others,4
+Year,2020,DataType,Others,4
+Measure,Transition Matrix / Probability Measures,DataType,Others,4
+Type,theoretical,Year,2016,4
+Type,Not_specified,Year,2016,4
+Measure,Absolute Mobility Measures,Year,2024,4
+DataType,Administrative/Registry Data,Year,2024,4
+Measure,Rank‐based Measures,Year,2024,4
+Measure,Absolute Mobility Measures,Year,2012,4
+Year,2023,Year,2012,4
+Measure,Transition Matrix / Probability Measures,Year,2012,4
+Year,2017,Year,2012,4
+Year,2020,Year,2012,4
+Year,2024,Year,2012,4
+Type,theoretical,Measure,Others,4
+DataType,Archival/Historical Data,Measure,Others,4
+Year,2018,Measure,Others,4
+Measure,Decomposition / Structural Approaches,Measure,Others,4
+Year,2010,RqType,Theoretical and Structural Models,4
+Measure,Non‐parametric Approaches,RqType,Theoretical and Structural Models,4
+Year,2009,Type,theoretical,4
+Year,2008,Type,theoretical,4
+Measure,Non‐parametric Approaches,Type,theoretical,4
+DataType,Natural/Experimental Data,Type,theoretical,4
+Measure,Multigenerational Measures,Type,theoretical,4
+RqType,Others,Type,theoretical,4
+Measure,Transition Matrix / Probability Measures,Year,2021,4
+DataType,Others,Year,2019,4
+Type,theoretical,Year,2019,4
+Year,2018,DataType,National Survey Data,4
+Year,2010,DataType,National Survey Data,4
+Year,2009,DataType,National Survey Data,4
+DataType,Archival/Historical Data,Year,2006,4
+Measure,Non‐parametric Approaches,Year,2006,4
+RqType,Perceptions of Mobility and Attitudes,Year,2006,4
+Year,2012,Year,2006,4
+Year,2022,Year,2006,4
+Year,2024,Year,2006,4
+Measure,Others,Year,2022,4
+Type,empirical,DataType,Big Data,4
+Measure,Absolute Mobility Measures,Year,2005,4
+Measure,Multigenerational Measures,DataType,Administrative/Registry Data,4
+Year,2007,DataType,Administrative/Registry Data,4
+DataType,Big Data,RqType,"Policy, Institutional, and Geographic Impacts",4
+RqType,Theoretical and Structural Models,RqType,"Policy, Institutional, and Geographic Impacts",4
+Year,2009,Year,2002,4
+RqType,Perceptions of Mobility and Attitudes,Year,2002,4
+RqType,Theoretical and Structural Models,Year,2002,4
+Measure,Absolute Mobility Measures,Year,2002,4
+Year,2010,Year,2002,4
+DataType,Archival/Historical Data,Year,2002,4
+DataType,University/Institution Data,Year,2013,4
+DataType,Big Data,Year,2018,4
+DataType,Natural/Experimental Data,Year,2018,4
+Year,2010,Measure,Decomposition / Structural Approaches,4
+Year,2011,Year,2008,4
+DataType,University/Institution Data,Measure,Rank‐based Measures,4
+DataType,Opportunity Atlas,Measure,Rank‐based Measures,4
+Year,2013,Measure,Rank‐based Measures,4
+Type,Not_specified,Year,2015,4
+Year,2016,Year,2015,4
+Measure,Decomposition / Structural Approaches,Year,2015,4
+DataType,Linked Administrative Data,Year,2015,4
+Year,2023,Year,2015,4
+Year,2024,Year,2015,4
+DataType,Others,Year,2015,4
+Measure,Non‐parametric Approaches,Year,2015,4
+Measure,Others,Year,2015,4
+Type,empirical,RqType,Perceptions of Mobility and Attitudes,4
+Type,Not_specified,DataType,Archival/Historical Data,4
+Type,theoretical,Year,2007,4
+Year,2017,Year,2007,4
+DataType,Administrative/Registry Data,Year,2023,4
+Measure,Others,Year,2023,4
+Year,2019,Measure,Non‐parametric Approaches,4
+Year,2020,Measure,Non‐parametric Approaches,4
+Measure,Rank‐based Measures,Measure,Non‐parametric Approaches,4
+DataType,Panel/Longitudinal Surveys,Year,2003,4
+Year,1998,Type,theoretical,3
+Year,2002,Type,theoretical,3
+DataType,Opportunity Atlas,Type,theoretical,3
+RqType,Perceptions of Mobility and Attitudes,Type,theoretical,3
+Measure,Decomposition / Structural Approaches,Year,2021,3
+DataType,Others,Year,2021,3
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2021,3
+DataType,National Survey Data,Year,2021,3
+DataType,Big Data,Year,2019,3
+Type,Not_specified,DataType,National Survey Data,3
+Type,theoretical,DataType,National Survey Data,3
+Year,2013,DataType,National Survey Data,3
+Year,2008,DataType,National Survey Data,3
+Measure,Absolute Mobility Measures,Year,2006,3
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2006,3
+DataType,Others,Year,2006,3
+DataType,International Panel Data,Year,2006,3
+Year,2025,Year,2022,3
+DataType,Others,Year,2022,3
+Measure,Regression‐based Measures,DataType,Big Data,3
+RqType,Empirical Estimates and Determinants,DataType,Big Data,3
+DataType,Others,Year,2005,3
+RqType,Others,Year,2005,3
+DataType,Opportunity Atlas,Year,2005,3
+RqType,Others,DataType,Administrative/Registry Data,3
+Year,2006,DataType,Administrative/Registry Data,3
+Year,2009,DataType,Administrative/Registry Data,3
+DataType,Opportunity Atlas,DataType,Administrative/Registry Data,3
+DataType,International Panel Data,RqType,"Policy, Institutional, and Geographic Impacts",3
+DataType,Natural/Experimental Data,RqType,"Policy, Institutional, and Geographic Impacts",3
+Year,2014,RqType,"Policy, Institutional, and Geographic Impacts",3
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",RqType,"Policy, Institutional, and Geographic Impacts",3
+DataType,Opportunity Atlas,RqType,"Policy, Institutional, and Geographic Impacts",3
+Type,empirical,DataType,Natural/Experimental Data,3
+Measure,Regression‐based Measures,DataType,Natural/Experimental Data,3
+DataType,Panel/Longitudinal Surveys,DataType,Natural/Experimental Data,3
+Measure,Absolute Mobility Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",3
+Year,2022,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",3
+Measure,Non‐parametric Approaches,Year,2013,3
+DataType,Archival/Historical Data,Year,2013,3
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2018,3
+Year,2025,Year,2018,3
+DataType,International Panel Data,Year,2018,3
+DataType,University/Institution Data,Measure,Decomposition / Structural Approaches,3
+Year,2005,Measure,Decomposition / Structural Approaches,3
+Year,1998,Measure,Decomposition / Structural Approaches,3
+Year,2002,Measure,Decomposition / Structural Approaches,3
+RqType,Perceptions of Mobility and Attitudes,Measure,Decomposition / Structural Approaches,3
+DataType,University/Institution Data,Year,2014,3
+DataType,Opportunity Atlas,Year,2014,3
+Measure,Non‐parametric Approaches,DataType,International Panel Data,3
+DataType,Archival/Historical Data,DataType,International Panel Data,3
+DataType,University/Institution Data,DataType,International Panel Data,3
+Measure,Absolute Mobility Measures,Year,2008,3
+Year,2013,Year,2008,3
+Year,2015,Year,2008,3
+Year,2021,Year,2008,3
+Measure,Decomposition / Structural Approaches,Year,2008,3
+Type,empirical,Measure,Multigenerational Measures,3
+RqType,Theoretical and Structural Models,Year,2015,3
+Measure,Absolute Mobility Measures,RqType,Perceptions of Mobility and Attitudes,3
+Year,2016,DataType,Archival/Historical Data,3
+Year,2021,DataType,Archival/Historical Data,3
+Year,2023,DataType,Archival/Historical Data,3
+DataType,National Survey Data,DataType,Archival/Historical Data,3
+DataType,Administrative/Registry Data,DataType,Archival/Historical Data,3
+RqType,Theoretical and Structural Models,Year,2007,3
+Year,2021,Year,2007,3
+Year,2013,Year,2007,3
+DataType,International Panel Data,Year,2007,3
+Year,2009,Year,2007,3
+RqType,Others,Year,2007,3
+Year,2024,Year,2007,3
+Year,2020,Year,2007,3
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2023,3
+RqType,Measurement and Methodological Advances,Year,2023,3
+Measure,Absolute Mobility Measures,Year,2023,3
+DataType,National Survey Data,Measure,Non‐parametric Approaches,3
+Year,2016,Measure,Non‐parametric Approaches,3
+DataType,Administrative/Registry Data,Measure,Non‐parametric Approaches,3
+Measure,Others,Measure,Non‐parametric Approaches,3
+DataType,Linked Administrative Data,Year,2003,3
+Year,2014,Year,2003,3
+Type,empirical,Year,1986,3
+Measure,Regression‐based Measures,Year,1986,3
+DataType,University/Institution Data,Year,2011,3
+Measure,Transition Matrix / Probability Measures,Year,2000,3
+Measure,Non‐parametric Approaches,Year,2000,3
+Year,2015,Year,2000,3
+Measure,Absolute Mobility Measures,Year,2000,3
+Year,2022,Year,2000,3
+Year,2023,Year,2000,3
+Year,2020,Year,2010,3
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2010,3
+DataType,International Panel Data,Year,2010,3
+Year,1998,Year,1992,3
+Year,2005,Year,1992,3
+DataType,Archival/Historical Data,Year,1979,3
+Year,2005,Year,1979,3
+Year,1998,Year,1979,3
+Year,2010,Year,1979,3
+Year,2002,Year,1979,3
+Measure,Non‐parametric Approaches,Year,1979,3
+Year,2017,Year,1979,3
+DataType,Linked Administrative Data,Year,1990,3
+Measure,Decomposition / Structural Approaches,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",3
+Year,2016,Year,1999,3
+Year,2006,Year,1999,3
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,1999,3
+Year,2011,Year,1999,3
+DataType,International Panel Data,Year,1999,3
+Measure,Decomposition / Structural Approaches,Year,1999,3
+Measure,Non‐parametric Approaches,Year,1999,3
+Measure,Absolute Mobility Measures,Year,1999,3
+Type,theoretical,Year,2017,3
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",DataType,Linked Administrative Data,3
+Year,2002,DataType,Linked Administrative Data,3
+DataType,Big Data,RqType,Intergenerational Wealth Mobility and Inheritance,3
+Year,2025,RqType,Intergenerational Wealth Mobility and Inheritance,3
+RqType,Others,RqType,Intergenerational Wealth Mobility and Inheritance,3
+Year,2003,Type,empirical,3
+DataType,Linked Administrative Data,Year,1998,3
+Measure,Transition Matrix / Probability Measures,Year,1998,3
+Year,2016,Year,1998,3
+Year,1999,Measure,Regression‐based Measures,3
+Year,2025,DataType,No dataset,3
+Year,2002,DataType,No dataset,3
+DataType,University/Institution Data,DataType,No dataset,3
+Year,1999,RqType,Empirical Estimates and Determinants,3
+Year,2013,Type,Not_specified,3
+Year,2016,Type,Not_specified,3
+Year,2025,Type,Not_specified,3
+Year,2017,Type,Not_specified,3
+Measure,Non‐parametric Approaches,Type,Not_specified,3
+Measure,Absolute Mobility Measures,Year,1980,3
+Year,2019,Year,1980,3
+Type,theoretical,Year,2009,3
+DataType,Archival/Historical Data,Year,2009,3
+DataType,Big Data,Measure,Transition Matrix / Probability Measures,3
+Measure,Multigenerational Measures,DataType,Panel/Longitudinal Surveys,3
+Measure,Multigenerational Measures,RqType,Measurement and Methodological Advances,3
+RqType,Others,RqType,Measurement and Methodological Advances,3
+DataType,International Panel Data,RqType,Measurement and Methodological Advances,3
+RqType,Theoretical and Structural Models,RqType,Measurement and Methodological Advances,3
+Measure,Decomposition / Structural Approaches,Year,2020,3
+DataType,Others,Year,2020,3
+Measure,Others,Year,2020,3
+DataType,International Panel Data,Year,2016,3
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2016,3
+DataType,Linked Administrative Data,Year,2024,3
+RqType,Measurement and Methodological Advances,Year,2024,3
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,2024,3
+Year,2013,Year,2012,3
+Type,theoretical,Year,2012,3
+Year,2018,Year,2012,3
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,2012,3
+Year,2014,Measure,Others,3
+Year,2011,Measure,Others,3
+DataType,International Panel Data,Measure,Others,3
+RqType,"Policy, Institutional, and Geographic Impacts",Measure,Others,3
+Year,2019,Measure,Others,3
+Year,2005,RqType,Theoretical and Structural Models,3
+Year,1998,RqType,Theoretical and Structural Models,3
+Year,2002,RqType,Theoretical and Structural Models,3
+DataType,Natural/Experimental Data,RqType,Theoretical and Structural Models,3
+Year,2017,RqType,Theoretical and Structural Models,3
+DataType,Big Data,Year,2017,2
+DataType,Opportunity Atlas,Year,2017,2
+RqType,Perceptions of Mobility and Attitudes,Year,2017,2
+Measure,Non‐parametric Approaches,Year,2017,2
+DataType,Archival/Historical Data,Year,2017,2
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2017,2
+Measure,Multigenerational Measures,Year,2017,2
+DataType,Opportunity Atlas,Measure,Absolute Mobility Measures,2
+RqType,Theoretical and Structural Models,Measure,Absolute Mobility Measures,2
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Measure,Absolute Mobility Measures,2
+RqType,Perceptions of Mobility and Attitudes,Measure,Absolute Mobility Measures,2
+Year,2016,Measure,Absolute Mobility Measures,2
+Type,theoretical,Measure,Absolute Mobility Measures,2
+Measure,Non‐parametric Approaches,Measure,Absolute Mobility Measures,2
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Measure,Absolute Mobility Measures,2
+Year,2017,Measure,Absolute Mobility Measures,2
+Measure,Multigenerational Measures,Measure,Absolute Mobility Measures,2
+DataType,International Panel Data,Measure,Absolute Mobility Measures,2
+RqType,Others,DataType,Linked Administrative Data,2
+Year,2009,DataType,Linked Administrative Data,2
+Year,2010,DataType,Linked Administrative Data,2
+DataType,Opportunity Atlas,RqType,Intergenerational Wealth Mobility and Inheritance,2
+Year,2003,RqType,Intergenerational Wealth Mobility and Inheritance,2
+DataType,Pseudo-Panel/Household Budget Survey,Type,empirical,2
+Year,1999,Type,empirical,2
+Year,2015,Year,1998,2
+Year,2006,Year,1998,2
+Type,theoretical,Year,1998,2
+Year,2013,Year,1998,2
+DataType,Administrative/Registry Data,Year,1998,2
+Year,2005,Year,1998,2
+Year,1992,Measure,Regression‐based Measures,2
+Year,2000,Measure,Regression‐based Measures,2
+DataType,Pseudo-Panel/Household Budget Survey,Measure,Regression‐based Measures,2
+Year,1992,DataType,No dataset,2
+Year,2000,DataType,No dataset,2
+Year,2000,RqType,Empirical Estimates and Determinants,2
+DataType,Pseudo-Panel/Household Budget Survey,RqType,Empirical Estimates and Determinants,2
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",RqType,Empirical Estimates and Determinants,2
+Year,2003,RqType,Empirical Estimates and Determinants,2
+Year,1998,Type,Not_specified,2
+DataType,International Panel Data,Type,Not_specified,2
+Year,2005,Type,Not_specified,2
+Year,2008,Type,Not_specified,2
+Year,2012,Type,Not_specified,2
+Year,2010,Type,Not_specified,2
+Year,2013,Year,1980,2
+RqType,Measurement and Methodological Advances,Year,1980,2
+Year,1998,Year,1980,2
+Year,2008,Year,1980,2
+Year,2011,Year,1980,2
+DataType,No dataset,Year,1980,2
+RqType,Theoretical and Structural Models,Year,2009,2
+Measure,Non‐parametric Approaches,Year,2009,2
+DataType,Others,Year,2009,2
+Year,2003,Measure,Transition Matrix / Probability Measures,2
+RqType,Others,DataType,Panel/Longitudinal Surveys,2
+Year,1999,DataType,Panel/Longitudinal Surveys,2
+DataType,Opportunity Atlas,DataType,Panel/Longitudinal Surveys,2
+Year,2014,RqType,Measurement and Methodological Advances,2
+Year,2013,RqType,Measurement and Methodological Advances,2
+Year,2015,RqType,Measurement and Methodological Advances,2
+Measure,Multigenerational Measures,Year,2020,2
+DataType,University/Institution Data,Year,2020,2
+DataType,Natural/Experimental Data,Year,2020,2
+DataType,National Survey Data,Year,2020,2
+Measure,Transition Matrix / Probability Measures,Year,2020,2
+Year,2018,DataType,Others,2
+Year,2015,DataType,Others,2
+RqType,Theoretical and Structural Models,Year,2016,2
+Measure,Multigenerational Measures,Year,2016,2
+DataType,Archival/Historical Data,Year,2016,2
+Year,2015,Year,2016,2
+DataType,National Survey Data,Year,2024,2
+DataType,Others,Year,2024,2
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2024,2
+Measure,Transition Matrix / Probability Measures,Year,2024,2
+Year,2025,Year,2024,2
+Measure,Others,Year,2012,2
+DataType,International Panel Data,Year,2012,2
+Year,2011,Year,2012,2
+Measure,Non‐parametric Approaches,Measure,Others,2
+Measure,Multigenerational Measures,Measure,Others,2
+RqType,Theoretical and Structural Models,Measure,Others,2
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Measure,Others,2
+Year,2015,Measure,Others,2
+Year,2009,RqType,Theoretical and Structural Models,2
+Measure,Multigenerational Measures,RqType,Theoretical and Structural Models,2
+RqType,Others,RqType,Theoretical and Structural Models,2
+Year,2025,Year,2019,2
+DataType,International Panel Data,Year,2019,2
+DataType,Archival/Historical Data,Year,2019,2
+RqType,Perceptions of Mobility and Attitudes,Year,2019,2
+DataType,Pseudo-Panel/Household Budget Survey,DataType,National Survey Data,2
+DataType,Others,DataType,National Survey Data,2
+RqType,Others,DataType,National Survey Data,2
+DataType,Archival/Historical Data,DataType,National Survey Data,2
+Measure,Non‐parametric Approaches,DataType,National Survey Data,2
+RqType,Perceptions of Mobility and Attitudes,DataType,National Survey Data,2
+Type,Not_specified,Year,2006,2
+Year,2007,Year,2006,2
+Year,2023,Year,2006,2
+Year,2009,Year,2006,2
+Year,2018,Year,2006,2
+DataType,Big Data,Year,2022,2
+RqType,Theoretical and Structural Models,Year,2022,2
+Measure,Decomposition / Structural Approaches,Year,2022,2
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2022,2
+Year,2021,Year,2022,2
+DataType,National Survey Data,Year,2022,2
+Year,2023,DataType,Big Data,2
+Measure,Multigenerational Measures,Year,2005,2
+Type,theoretical,Year,2005,2
+Year,2003,DataType,Administrative/Registry Data,2
+Year,2010,DataType,Administrative/Registry Data,2
+DataType,Big Data,DataType,Administrative/Registry Data,2
+Year,2025,DataType,Administrative/Registry Data,2
+DataType,University/Institution Data,DataType,Administrative/Registry Data,2
+Measure,Non‐parametric Approaches,RqType,"Policy, Institutional, and Geographic Impacts",2
+Year,2018,RqType,"Policy, Institutional, and Geographic Impacts",2
+DataType,Natural/Experimental Data,Year,2002,2
+Year,2003,Year,2002,2
+Measure,Multigenerational Measures,Year,2002,2
+Measure,Regression‐based Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2
+RqType,Empirical Estimates and Determinants,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2
+Year,2023,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2
+DataType,Others,Year,2013,2
+Year,2017,Year,2018,2
+Measure,Non‐parametric Approaches,Year,2018,2
+Type,empirical,DataType,Opportunity Atlas,2
+RqType,Empirical Estimates and Determinants,DataType,Opportunity Atlas,2
+DataType,Big Data,Measure,Decomposition / Structural Approaches,2
+Year,2009,Measure,Decomposition / Structural Approaches,2
+Year,2008,Measure,Decomposition / Structural Approaches,2
+DataType,Archival/Historical Data,Measure,Decomposition / Structural Approaches,2
+Measure,Multigenerational Measures,Measure,Decomposition / Structural Approaches,2
+RqType,Others,Measure,Decomposition / Structural Approaches,2
+DataType,Big Data,Year,2014,2
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,2014,2
+Year,2013,Year,2014,2
+DataType,Others,DataType,International Panel Data,2
+Year,2013,DataType,International Panel Data,2
+DataType,Natural/Experimental Data,DataType,International Panel Data,2
+RqType,Measurement and Methodological Advances,Year,2008,2
+Type,theoretical,Year,2008,2
+Year,2024,Year,2008,2
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2008,2
+DataType,Linked Administrative Data,Year,2008,2
+Year,2023,Year,2008,2
+Year,2012,Year,2008,2
+Year,2022,Year,2008,2
+DataType,Big Data,Measure,Rank‐based Measures,2
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Measure,Rank‐based Measures,2
+Year,2012,Measure,Rank‐based Measures,2
+RqType,Intergenerational Wealth Mobility and Inheritance,Measure,Multigenerational Measures,2
+Measure,Regression‐based Measures,Measure,Multigenerational Measures,2
+DataType,Archival/Historical Data,Measure,Multigenerational Measures,2
+Year,2024,Measure,Multigenerational Measures,2
+Type,theoretical,Year,2015,2
+DataType,National Survey Data,Year,2015,2
+RqType,Measurement and Methodological Advances,RqType,Perceptions of Mobility and Attitudes,2
+DataType,Others,RqType,Perceptions of Mobility and Attitudes,2
+Year,2024,RqType,Perceptions of Mobility and Attitudes,2
+Measure,Rank‐based Measures,RqType,Perceptions of Mobility and Attitudes,2
+DataType,National Survey Data,RqType,Perceptions of Mobility and Attitudes,2
+Measure,Others,DataType,Archival/Historical Data,2
+Measure,Decomposition / Structural Approaches,DataType,Archival/Historical Data,2
+Year,2022,DataType,Archival/Historical Data,2
+Type,theoretical,DataType,Archival/Historical Data,2
+DataType,Panel/Longitudinal Surveys,DataType,Archival/Historical Data,2
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,Archival/Historical Data,2
+Year,2018,Year,2007,2
+Measure,Multigenerational Measures,Year,2007,2
+Year,2010,Year,2007,2
+Year,2008,Year,2007,2
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2007,2
+Year,2018,Measure,Non‐parametric Approaches,2
+Measure,Transition Matrix / Probability Measures,Measure,Non‐parametric Approaches,2
+Measure,Decomposition / Structural Approaches,Measure,Non‐parametric Approaches,2
+DataType,Others,Measure,Non‐parametric Approaches,2
+Type,Not_specified,Measure,Non‐parametric Approaches,2
+Measure,Absolute Mobility Measures,Measure,Non‐parametric Approaches,2
+Year,2022,Measure,Non‐parametric Approaches,2
+Year,2020,Year,2003,2
+Year,2008,Year,2003,2
+Year,2011,Year,2003,2
+Measure,Non‐parametric Approaches,Year,2003,2
+RqType,Measurement and Methodological Advances,Year,2003,2
+RqType,Empirical Estimates and Determinants,Year,1986,2
+DataType,National Survey Data,Year,1986,2
+Year,2021,Year,1986,2
+RqType,Others,Year,2011,2
+Year,2003,Year,2000,2
+RqType,Measurement and Methodological Advances,Year,2000,2
+Year,2007,Year,2000,2
+Year,2008,Year,2000,2
+Type,theoretical,Year,2000,2
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2000,2
+DataType,Others,Year,2000,2
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,2010,2
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2010,2
+DataType,Opportunity Atlas,Year,2010,2
+Type,Not_specified,Year,1992,2
+Year,2006,Year,1992,2
+DataType,National Survey Data,Year,1992,2
+Year,2008,Year,1992,2
+RqType,Measurement and Methodological Advances,Year,1992,2
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,1992,2
+Year,2002,Year,1992,2
+Year,2015,Year,1992,2
+Year,2007,Year,1992,2
+Measure,Non‐parametric Approaches,Year,1992,2
+Year,1992,Year,1979,2
+Year,2009,Year,1979,2
+DataType,Natural/Experimental Data,Year,1979,2
+DataType,Opportunity Atlas,Year,1979,2
+Measure,Multigenerational Measures,Year,1979,2
+Year,2005,Year,1990,2
+Measure,Others,Year,1990,2
+Year,2014,Year,1990,2
+Year,2007,Year,1990,2
+Year,1998,Year,1990,2
+Measure,Transition Matrix / Probability Measures,Year,1990,2
+Year,2018,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",2
+Year,2012,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",2
+Year,2011,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",2
+RqType,Theoretical and Structural Models,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",2
+Year,2013,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",2
+Year,2017,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",2
+DataType,Big Data,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",2
+Year,2010,Year,1999,2
+Year,2005,Year,1999,2
+Year,2002,Year,1999,2
+Year,2007,Year,1999,2
+DataType,Archival/Historical Data,Year,1999,2
+Measure,Others,Year,1999,2
+Year,2021,Year,1999,2
+Year,2024,Year,1999,2
+DataType,Archival/Historical Data,Year,2011,1
+DataType,Opportunity Atlas,Year,2011,1
+DataType,Natural/Experimental Data,Year,2011,1
+Year,2009,Year,2000,1
+Measure,Others,Year,2000,1
+DataType,International Panel Data,Year,2000,1
+Year,2014,Year,2000,1
+Year,2005,Year,2000,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2000,1
+Year,2002,Year,2000,1
+Year,2013,Year,2000,1
+Year,2021,Year,2000,1
+Measure,Rank‐based Measures,Year,2000,1
+Year,2012,Year,2010,1
+RqType,Perceptions of Mobility and Attitudes,Year,2010,1
+Year,2025,Year,2010,1
+Year,2017,Year,2010,1
+Measure,Others,Year,2010,1
+Year,2021,Year,2010,1
+Year,2018,Year,2010,1
+Measure,Non‐parametric Approaches,Year,2010,1
+Year,2016,Year,1992,1
+Measure,Absolute Mobility Measures,Year,1992,1
+Year,2011,Year,1992,1
+Year,2000,Year,1992,1
+Measure,Others,Year,1992,1
+Type,theoretical,Year,1992,1
+Year,2017,Year,1992,1
+Year,2018,Year,1992,1
+Measure,Rank‐based Measures,Year,1992,1
+Year,2019,Year,1992,1
+Year,1999,Year,1992,1
+Year,2023,Year,1992,1
+Year,1981,Year,1979,1
+Year,1980,Year,1979,1
+Year,2008,Year,1979,1
+Year,1995,Year,1979,1
+Year,1997,Year,1979,1
+RqType,Perceptions of Mobility and Attitudes,Year,1979,1
+DataType,University/Institution Data,Year,1979,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,1979,1
+RqType,Others,Year,1979,1
+DataType,Big Data,Year,1979,1
+Year,2025,Year,1979,1
+Type,Not_specified,Year,1990,1
+Year,2013,Year,1990,1
+RqType,Measurement and Methodological Advances,Year,1990,1
+Year,2006,Year,1990,1
+Measure,Absolute Mobility Measures,Year,1990,1
+Year,2002,Year,1990,1
+Measure,Non‐parametric Approaches,Year,1990,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,1990,1
+Year,2008,Year,1990,1
+Year,2017,Year,1990,1
+Year,2020,Year,1990,1
+Measure,Decomposition / Structural Approaches,Year,1990,1
+Year,1999,Year,1990,1
+Year,2022,Year,1990,1
+Year,2023,Year,1990,1
+Year,2010,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",1
+DataType,University/Institution Data,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",1
+Year,2025,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",1
+DataType,Natural/Experimental Data,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",1
+Type,empirical,Year,1997,1
+RqType,Empirical Estimates and Determinants,Year,1997,1
+Year,2020,Year,1997,1
+Measure,Others,Year,1997,1
+DataType,Administrative/Registry Data,Year,1997,1
+Measure,Decomposition / Structural Approaches,Year,1997,1
+DataType,Linked Administrative Data,DataType,University/Institution Data,1
+Type,empirical,DataType,University/Institution Data,1
+Year,2024,DataType,University/Institution Data,1
+Measure,Others,DataType,University/Institution Data,1
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,University/Institution Data,1
+Year,2009,Year,1999,1
+RqType,Theoretical and Structural Models,Year,1999,1
+Year,2017,Year,1999,1
+Type,Not_specified,Year,1999,1
+Year,1980,Type,theoretical,1
+Year,1992,Type,theoretical,1
+Year,1995,Type,theoretical,1
+Year,1997,Type,theoretical,1
+DataType,University/Institution Data,Type,theoretical,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Type,theoretical,1
+DataType,Big Data,Type,theoretical,1
+Year,2025,Type,theoretical,1
+Year,2003,Type,theoretical,1
+Year,2000,Type,theoretical,1
+DataType,No dataset,Year,2021,1
+Type,Not_specified,Year,2021,1
+DataType,Natural/Experimental Data,Year,2021,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2021,1
+Year,2020,Year,2021,1
+DataType,International Panel Data,Year,2021,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,2019,1
+Measure,Multigenerational Measures,Year,2019,1
+DataType,Natural/Experimental Data,Year,2019,1
+Year,2015,Year,2019,1
+Year,2025,DataType,National Survey Data,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,National Survey Data,1
+DataType,Opportunity Atlas,DataType,National Survey Data,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",DataType,National Survey Data,1
+DataType,Pseudo-Panel/Household Budget Survey,Year,2006,1
+DataType,University/Institution Data,Year,2006,1
+Type,theoretical,Year,2006,1
+RqType,Others,Year,2006,1
+Year,2025,Year,2006,1
+Measure,Multigenerational Measures,Year,2006,1
+Measure,Transition Matrix / Probability Measures,Year,2022,1
+Measure,Multigenerational Measures,Year,2022,1
+DataType,Archival/Historical Data,Year,2022,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2022,1
+DataType,International Panel Data,Year,2022,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,2022,1
+DataType,Linked Administrative Data,DataType,Big Data,1
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,Big Data,1
+DataType,Panel/Longitudinal Surveys,DataType,Big Data,1
+Measure,Rank‐based Measures,DataType,Big Data,1
+Year,2024,DataType,Big Data,1
+DataType,Administrative/Registry Data,DataType,Big Data,1
+Year,2025,DataType,Big Data,1
+DataType,Natural/Experimental Data,Year,2005,1
+Year,1998,DataType,Administrative/Registry Data,1
+Year,1992,DataType,Administrative/Registry Data,1
+Year,1981,DataType,Administrative/Registry Data,1
+Year,2005,DataType,Administrative/Registry Data,1
+Year,2002,DataType,Administrative/Registry Data,1
+DataType,Natural/Experimental Data,DataType,Administrative/Registry Data,1
+Year,2016,RqType,"Policy, Institutional, and Geographic Impacts",1
+Year,2017,RqType,"Policy, Institutional, and Geographic Impacts",1
+DataType,University/Institution Data,RqType,"Policy, Institutional, and Geographic Impacts",1
+RqType,Intergenerational Wealth Mobility and Inheritance,DataType,Natural/Experimental Data,1
+Year,2019,DataType,Natural/Experimental Data,1
+Measure,Transition Matrix / Probability Measures,DataType,Natural/Experimental Data,1
+Year,2021,DataType,Natural/Experimental Data,1
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,Natural/Experimental Data,1
+RqType,Empirical Estimates and Determinants,DataType,Natural/Experimental Data,1
+Year,2022,DataType,Natural/Experimental Data,1
+DataType,Others,Year,2002,1
+RqType,Others,Year,2002,1
+Measure,Transition Matrix / Probability Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1
+RqType,Measurement and Methodological Advances,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1
+Year,2024,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1
+Measure,Others,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1
+DataType,Administrative/Registry Data,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1
+DataType,Pseudo-Panel/Household Budget Survey,Year,2013,1
+DataType,Big Data,Year,2013,1
+RqType,Perceptions of Mobility and Attitudes,Year,2013,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2013,1
+DataType,Natural/Experimental Data,Year,2013,1
+DataType,Opportunity Atlas,Year,2013,1
+Year,2025,Year,2013,1
+Year,2010,Year,2013,1
+Year,2014,Year,2018,1
+DataType,Others,Year,2018,1
+Measure,Multigenerational Measures,Year,2018,1
+DataType,Opportunity Atlas,Year,2018,1
+Year,2012,Year,2018,1
+RqType,Perceptions of Mobility and Attitudes,Year,2018,1
+Measure,Regression‐based Measures,DataType,Opportunity Atlas,1
+DataType,Big Data,DataType,Opportunity Atlas,1
+Year,2025,DataType,Opportunity Atlas,1
+DataType,Panel/Longitudinal Surveys,DataType,Opportunity Atlas,1
+Measure,Rank‐based Measures,DataType,Opportunity Atlas,1
+Year,2023,DataType,Opportunity Atlas,1
+Year,1980,Measure,Decomposition / Structural Approaches,1
+Year,1992,Measure,Decomposition / Structural Approaches,1
+Year,1995,Measure,Decomposition / Structural Approaches,1
+Year,1997,Measure,Decomposition / Structural Approaches,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Measure,Decomposition / Structural Approaches,1
+Year,2025,Measure,Decomposition / Structural Approaches,1
+Year,2000,Measure,Decomposition / Structural Approaches,1
+DataType,Pseudo-Panel/Household Budget Survey,Year,2014,1
+Year,2011,DataType,International Panel Data,1
+DataType,Big Data,DataType,International Panel Data,1
+RqType,Perceptions of Mobility and Attitudes,DataType,International Panel Data,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,International Panel Data,1
+DataType,Opportunity Atlas,DataType,International Panel Data,1
+Year,2025,DataType,International Panel Data,1
+Year,2010,Year,2008,1
+Year,2005,Year,2008,1
+Type,Not_specified,Year,2008,1
+Measure,Others,Year,2008,1
+RqType,Theoretical and Structural Models,Year,2008,1
+Measure,Transition Matrix / Probability Measures,Year,2008,1
+DataType,Archival/Historical Data,Year,2008,1
+Year,2020,Year,2008,1
+Measure,Rank‐based Measures,Year,2008,1
+Year,2014,Year,2008,1
+Year,2007,Measure,Rank‐based Measures,1
+Year,2008,Measure,Rank‐based Measures,1
+Year,2010,Measure,Rank‐based Measures,1
+Year,2009,Measure,Rank‐based Measures,1
+Year,2019,Measure,Multigenerational Measures,1
+RqType,Empirical Estimates and Determinants,Measure,Multigenerational Measures,1
+DataType,National Survey Data,Measure,Multigenerational Measures,1
+Measure,Transition Matrix / Probability Measures,Year,2015,1
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2015,1
+DataType,International Panel Data,Year,2015,1
+DataType,Archival/Historical Data,Year,2015,1
+DataType,University/Institution Data,Year,2015,1
+Type,empirical,DataType,Pseudo-Panel/Household Budget Survey,1
+Measure,Regression‐based Measures,DataType,Pseudo-Panel/Household Budget Survey,1
+RqType,Empirical Estimates and Determinants,DataType,Pseudo-Panel/Household Budget Survey,1
+DataType,National Survey Data,DataType,Pseudo-Panel/Household Budget Survey,1
+Year,2018,DataType,Pseudo-Panel/Household Budget Survey,1
+Year,2020,RqType,Perceptions of Mobility and Attitudes,1
+Measure,Others,RqType,Perceptions of Mobility and Attitudes,1
+Year,2022,RqType,Perceptions of Mobility and Attitudes,1
+Measure,Decomposition / Structural Approaches,RqType,Perceptions of Mobility and Attitudes,1
+RqType,Measurement and Methodological Advances,DataType,Archival/Historical Data,1
+Year,2017,DataType,Archival/Historical Data,1
+RqType,Theoretical and Structural Models,DataType,Archival/Historical Data,1
+Measure,Transition Matrix / Probability Measures,DataType,Archival/Historical Data,1
+Year,2008,DataType,Archival/Historical Data,1
+Year,2014,DataType,Archival/Historical Data,1
+Year,2011,DataType,Archival/Historical Data,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,Archival/Historical Data,1
+Year,2012,DataType,Archival/Historical Data,1
+RqType,Perceptions of Mobility and Attitudes,DataType,Archival/Historical Data,1
+DataType,Big Data,DataType,Archival/Historical Data,1
+Year,2025,DataType,Archival/Historical Data,1
+Type,Not_specified,Year,2007,1
+Measure,Absolute Mobility Measures,Year,2007,1
+Measure,Non‐parametric Approaches,Year,2007,1
+DataType,National Survey Data,Year,2023,1
+DataType,Others,Year,2023,1
+DataType,International Panel Data,Year,2023,1
+RqType,"Policy, Institutional, and Geographic Impacts",Year,2023,1
+Year,2021,Year,2023,1
+Year,2009,Measure,Non‐parametric Approaches,1
+Year,2006,Measure,Non‐parametric Approaches,1
+RqType,"Policy, Institutional, and Geographic Impacts",Measure,Non‐parametric Approaches,1
+Year,2014,Measure,Non‐parametric Approaches,1
+DataType,Archival/Historical Data,Measure,Non‐parametric Approaches,1
+Type,theoretical,Measure,Non‐parametric Approaches,1
+Year,2015,Measure,Non‐parametric Approaches,1
+Year,2017,Measure,Non‐parametric Approaches,1
+DataType,Linked Administrative Data,Measure,Non‐parametric Approaches,1
+Year,2023,Measure,Non‐parametric Approaches,1
+Year,2024,Measure,Non‐parametric Approaches,1
+Year,2018,Year,2003,1
+Year,2006,Year,2003,1
+Measure,Absolute Mobility Measures,Year,2003,1
+DataType,Administrative/Registry Data,Year,2003,1
+Year,2005,Year,2003,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2003,1
+Type,Not_specified,Year,2003,1
+Year,2015,Year,2003,1
+Year,2017,Year,2003,1
+DataType,International Panel Data,Year,2003,1
+Measure,Rank‐based Measures,Year,2003,1
+Year,2019,Year,1986,1
+DataType,Others,Year,1986,1
+RqType,Intergenerational Wealth Mobility and Inheritance,Year,1986,1
+RqType,Theoretical and Structural Models,Year,2017,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,2017,1
+Year,2016,Year,2017,1
+DataType,Natural/Experimental Data,Year,2017,1
+DataType,International Panel Data,Year,2017,1
+Year,2025,Year,2017,1
+DataType,University/Institution Data,Year,2017,1
+DataType,Archival/Historical Data,Measure,Absolute Mobility Measures,1
+DataType,Natural/Experimental Data,Measure,Absolute Mobility Measures,1
+DataType,University/Institution Data,Measure,Absolute Mobility Measures,1
+Year,1998,Measure,Absolute Mobility Measures,1
+Year,2015,Measure,Absolute Mobility Measures,1
+DataType,Pseudo-Panel/Household Budget Survey,DataType,Linked Administrative Data,1
+Year,2003,DataType,Linked Administrative Data,1
+DataType,Pseudo-Panel/Household Budget Survey,RqType,Intergenerational Wealth Mobility and Inheritance,1
+Year,1998,RqType,Intergenerational Wealth Mobility and Inheritance,1
+Year,1992,RqType,Intergenerational Wealth Mobility and Inheritance,1
+Year,1981,RqType,Intergenerational Wealth Mobility and Inheritance,1
+DataType,University/Institution Data,RqType,Intergenerational Wealth Mobility and Inheritance,1
+Year,2000,Type,empirical,1
+Year,1992,Type,empirical,1
+Year,1981,Type,empirical,1
+Year,2018,Year,1998,1
+RqType,Measurement and Methodological Advances,Year,1998,1
+Measure,Rank‐based Measures,Year,1998,1
+Measure,Absolute Mobility Measures,Year,1998,1
+RqType,Theoretical and Structural Models,Year,1998,1
+Measure,Decomposition / Structural Approaches,Year,1998,1
+Year,2009,Year,1998,1
+Year,2012,Year,1998,1
+RqType,Others,Year,1998,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,1998,1
+Year,1990,Measure,Regression‐based Measures,1
+Year,1981,Measure,Regression‐based Measures,1
+Year,1990,DataType,No dataset,1
+Year,1999,DataType,No dataset,1
+Year,1980,DataType,No dataset,1
+Year,1995,DataType,No dataset,1
+Year,1997,DataType,No dataset,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",DataType,No dataset,1
+DataType,Big Data,DataType,No dataset,1
+Year,2003,DataType,No dataset,1
+Year,1992,RqType,Empirical Estimates and Determinants,1
+Year,1990,RqType,Empirical Estimates and Determinants,1
+Year,2006,Type,Not_specified,1
+Year,1992,Type,Not_specified,1
+Year,1990,Type,Not_specified,1
+Year,2009,Type,Not_specified,1
+Year,2000,Type,Not_specified,1
+Year,1999,Type,Not_specified,1
+RqType,Others,Type,Not_specified,1
+DataType,Big Data,Type,Not_specified,1
+Year,2007,Type,Not_specified,1
+DataType,Pseudo-Panel/Household Budget Survey,Type,Not_specified,1
+RqType,Perceptions of Mobility and Attitudes,Type,Not_specified,1
+DataType,University/Institution Data,Type,Not_specified,1
+Type,theoretical,Type,Not_specified,1
+Year,2006,Year,1980,1
+Type,Not_specified,Year,1980,1
+Measure,Others,Year,1980,1
+Year,2020,Year,1980,1
+Year,2016,Year,1980,1
+Year,1992,Year,1980,1
+Year,1990,Year,1980,1
+Year,2014,Year,1980,1
+Year,2009,Year,1980,1
+DataType,International Panel Data,Year,1980,1
+Year,2000,Year,1980,1
+Year,2005,Year,1980,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,1980,1
+Year,2015,Year,1980,1
+RqType,"Policy, Institutional, and Geographic Impacts",Year,1980,1
+Year,2018,Year,1980,1
+Measure,Rank‐based Measures,Year,1980,1
+Year,1999,Year,1980,1
+Year,2023,Year,1980,1
+Year,2022,Year,1980,1
+Year,2012,Year,1980,1
+RqType,Others,Year,1980,1
+Year,2007,Year,2009,1
+DataType,Opportunity Atlas,Year,2009,1
+DataType,University/Institution Data,Year,2009,1
+RqType,Perceptions of Mobility and Attitudes,Year,2009,1
+Measure,Multigenerational Measures,Year,2009,1
+RqType,Others,Year,2009,1
+DataType,Natural/Experimental Data,Year,2009,1
+Year,2006,Measure,Transition Matrix / Probability Measures,1
+DataType,Pseudo-Panel/Household Budget Survey,Measure,Transition Matrix / Probability Measures,1
+RqType,Others,Measure,Transition Matrix / Probability Measures,1
+Year,1998,Measure,Transition Matrix / Probability Measures,1
+Year,2009,Measure,Transition Matrix / Probability Measures,1
+Year,2005,Measure,Transition Matrix / Probability Measures,1
+Year,2002,Measure,Transition Matrix / Probability Measures,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Measure,Transition Matrix / Probability Measures,1
+Year,2000,DataType,Panel/Longitudinal Surveys,1
+Year,2010,RqType,Measurement and Methodological Advances,1
+Year,2007,RqType,Measurement and Methodological Advances,1
+Year,2006,RqType,Measurement and Methodological Advances,1
+Year,2005,RqType,Measurement and Methodological Advances,1
+Year,2009,RqType,Measurement and Methodological Advances,1
+DataType,Natural/Experimental Data,RqType,Measurement and Methodological Advances,1
+DataType,University/Institution Data,RqType,Measurement and Methodological Advances,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",RqType,Measurement and Methodological Advances,1
+DataType,Big Data,Year,2020,1
+Year,2025,Year,2020,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Year,2020,1
+Year,2019,Year,2020,1
+Type,theoretical,Year,2020,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2020,1
+DataType,International Panel Data,Year,2020,1
+Measure,Decomposition / Structural Approaches,DataType,Others,1
+Measure,Multigenerational Measures,DataType,Others,1
+Measure,Others,DataType,Others,1
+RqType,"Policy, Institutional, and Geographic Impacts",DataType,Others,1
+DataType,International Panel Data,DataType,Others,1
+Measure,Non‐parametric Approaches,DataType,Others,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",DataType,Others,1
+DataType,Others,Year,2016,1
+Year,2014,Year,2016,1
+Year,2013,Year,2016,1
+Year,2012,Year,2016,1
+RqType,Others,Year,2016,1
+RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",Year,2016,1
+Year,2017,Year,2024,1
+DataType,No dataset,Year,2024,1
+Measure,Non‐parametric Approaches,Year,2024,1
+Type,Not_specified,Year,2024,1
+DataType,Natural/Experimental Data,Year,2024,1
+Year,2022,Year,2024,1
+Year,2023,Year,2024,1
+DataType,Opportunity Atlas,Year,2024,1
+Measure,Multigenerational Measures,Year,2024,1
+DataType,Archival/Historical Data,Year,2024,1
+DataType,Big Data,Year,2024,1
+DataType,University/Institution Data,Year,2012,1
+DataType,Natural/Experimental Data,Year,2012,1
+Year,2007,Measure,Others,1
+DataType,Pseudo-Panel/Household Budget Survey,Measure,Others,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Measure,Others,1
+Year,2016,Measure,Others,1
+Year,2006,Measure,Others,1
+Year,2005,Measure,Others,1
+Year,2013,Measure,Others,1
+Year,2009,Measure,Others,1
+Year,2012,Measure,Others,1
+RqType,Others,Measure,Others,1
+Type,Not_specified,Measure,Others,1
+DataType,Natural/Experimental Data,Measure,Others,1
+Year,1980,RqType,Theoretical and Structural Models,1
+Year,2008,RqType,Theoretical and Structural Models,1
+Year,1992,RqType,Theoretical and Structural Models,1
+Year,1995,RqType,Theoretical and Structural Models,1
+Year,1997,RqType,Theoretical and Structural Models,1
+DataType,Archival/Historical Data,RqType,Theoretical and Structural Models,1
+RqType,Perceptions of Mobility and Attitudes,RqType,Theoretical and Structural Models,1
+DataType,University/Institution Data,RqType,Theoretical and Structural Models,1
+RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",RqType,Theoretical and Structural Models,1
+DataType,Big Data,RqType,Theoretical and Structural Models,1
+Year,2025,RqType,Theoretical and Structural Models,1
+Year,2000,RqType,Theoretical and Structural Models,1

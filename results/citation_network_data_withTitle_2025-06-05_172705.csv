@@ -1,0 +1,89 @@
+from_data_cat_title,to_data_cat_title,weight
+Panel/Longitudinal Surveys,Panel/Longitudinal Surveys,235
+Panel/Longitudinal Surveys,No dataset,188
+Panel/Longitudinal Surveys,Linked Administrative Data,157
+No dataset,No dataset,125
+Administrative/Registry Data,Administrative/Registry Data,121
+Administrative/Registry Data,No dataset,118
+Administrative/Registry Data,Linked Administrative Data,100
+National Survey Data,No dataset,100
+Administrative/Registry Data,Panel/Longitudinal Surveys,100
+Panel/Longitudinal Surveys,Administrative/Registry Data,97
+Linked Administrative Data,No dataset,83
+Linked Administrative Data,Linked Administrative Data,75
+No dataset,Panel/Longitudinal Surveys,71
+National Survey Data,Panel/Longitudinal Surveys,69
+No dataset,Linked Administrative Data,68
+Linked Administrative Data,Administrative/Registry Data,61
+Panel/Longitudinal Surveys,National Survey Data,59
+Linked Administrative Data,Panel/Longitudinal Surveys,58
+National Survey Data,Linked Administrative Data,51
+No dataset,Administrative/Registry Data,51
+National Survey Data,National Survey Data,46
+National Survey Data,Administrative/Registry Data,41
+Others,No dataset,38
+Panel/Longitudinal Surveys,Others,38
+Others,Panel/Longitudinal Surveys,26
+Administrative/Registry Data,National Survey Data,23
+Others,Administrative/Registry Data,23
+Others,Linked Administrative Data,22
+National Survey Data,Others,19
+Archival/Historical Data,Archival/Historical Data,15
+International Panel Data,No dataset,15
+Archival/Historical Data,Linked Administrative Data,15
+Others,National Survey Data,14
+International Panel Data,Administrative/Registry Data,12
+Opportunity Atlas,Administrative/Registry Data,12
+No dataset,National Survey Data,12
+Archival/Historical Data,Administrative/Registry Data,12
+Linked Administrative Data,National Survey Data,11
+Administrative/Registry Data,Others,11
+Administrative/Registry Data,International Panel Data,11
+International Panel Data,Linked Administrative Data,10
+Natural/Experimental Data,Administrative/Registry Data,10
+Opportunity Atlas,Linked Administrative Data,8
+Natural/Experimental Data,No dataset,8
+No dataset,Archival/Historical Data,8
+Natural/Experimental Data,Linked Administrative Data,8
+Archival/Historical Data,No dataset,8
+Archival/Historical Data,Panel/Longitudinal Surveys,8
+University/Institution Data,Panel/Longitudinal Surveys,7
+Opportunity Atlas,No dataset,7
+Panel/Longitudinal Surveys,International Panel Data,6
+Administrative/Registry Data,Archival/Historical Data,6
+International Panel Data,Panel/Longitudinal Surveys,6
+Archival/Historical Data,National Survey Data,5
+International Panel Data,National Survey Data,5
+University/Institution Data,No dataset,5
+Linked Administrative Data,Archival/Historical Data,5
+Natural/Experimental Data,Panel/Longitudinal Surveys,4
+No dataset,International Panel Data,4
+Linked Administrative Data,Others,4
+Big Data,Administrative/Registry Data,3
+Opportunity Atlas,Panel/Longitudinal Surveys,3
+National Survey Data,International Panel Data,3
+National Survey Data,Archival/Historical Data,3
+Linked Administrative Data,International Panel Data,3
+Pseudo-Panel/Household Budget Survey,National Survey Data,2
+Panel/Longitudinal Surveys,Opportunity Atlas,2
+Panel/Longitudinal Surveys,Natural/Experimental Data,2
+Big Data,Linked Administrative Data,2
+University/Institution Data,Linked Administrative Data,2
+Panel/Longitudinal Surveys,Archival/Historical Data,2
+No dataset,Others,2
+Big Data,No dataset,2
+International Panel Data,Others,2
+Others,International Panel Data,2
+Opportunity Atlas,Others,2
+Opportunity Atlas,Opportunity Atlas,2
+Others,Others,2
+Panel/Longitudinal Surveys,Big Data,1
+Linked Administrative Data,University/Institution Data,1
+National Survey Data,Pseudo-Panel/Household Budget Survey,1
+Opportunity Atlas,Natural/Experimental Data,1
+Opportunity Atlas,National Survey Data,1
+Administrative/Registry Data,Big Data,1
+Pseudo-Panel/Household Budget Survey,Linked Administrative Data,1
+Linked Administrative Data,Big Data,1
+Opportunity Atlas,International Panel Data,1
+Opportunity Atlas,Big Data,1
