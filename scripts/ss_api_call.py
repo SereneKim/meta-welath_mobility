@@ -289,195 +289,37 @@ def titles_to_paper_ids(
             time.sleep(sleep_between)
     return {t: out_unique.get(t) for t in titles}
 
+# ---------- paper meta (for citationCount and referenceCount) ----------
+def fetch_citation_reference_counts(ids, rps=1.0, session=None, not_found=None):
+    """
+    Return dict {paperId: citationCount, referenceCount} (missing -> None)
+    Records 400/404 DOIs into not_found (if provided) and skips them next time.
+    """
+    sess = session or requests.Session()
+    out = {}
+    last = 0.0
+    nf = not_found if not_found is not None else set()
 
-# # ---------- paper meta (for influentialCitationCount) ----------
-# def fetch_influential_counts(ids, rps=1.0, session=None, not_found=None):
-#     """
-#     Return dict {paperId: influentialCitationCount} (missing -> None)
-#     Records 400/404 DOIs into not_found (if provided) and skips them next time.
-#     """
-#     sess = session or requests.Session()
-#     out = {}
-#     last = 0.0
-#     nf = not_found if not_found is not None else set()
-
-#     for id in ids:
-#         url = f"{SS_BASE}/paper/{id}"
-#         params = {"fields": "influentialCitationCount"}
-#         try:
-#             r, last = _get(sess, url, params, last, rps=rps)
-#             j = r.json() or {}
-#             out[id] = j.get("influentialCitationCount", None)
-#         except requests.HTTPError as e:
-#             status = getattr(e.response, "status_code", None)
-#             if status in (400, 404):
-#                 # invalid / unknown id at S2
-#                 nf.add(id)
-#                 out[id] = None
-#                 logging.info(f"S2 not found (meta): {id}")
-#                 continue
-#             raise
-#     return out
-
-# # ---------- references edge fetch (citing -> cited) ----------
-# def fetch_reference_edges_for_citing(citing_id, include_contexts=False, rps=1.0, session=None, not_found=None):
-#     """
-#     For **one** citing paperId, fetch ALL reference edges and return list of dicts:
-#       {cited_paperId, intents, edge_isInfluential, contextsWithIntent?}
-#     If citing paperId is 400/404, record in not_found (if provided) and return [].
-#     """
-#     sess = session or requests.Session()
-#     nf = not_found if not_found is not None else set()
-    
-#     if not citing_id or citing_id in nf:
-#         return []
-
-#     url = f"{SS_BASE}/paper/{citing_id}/references"
-#     fields = ["paperId", "intents", "isInfluential"]
-#     if include_contexts:
-#         fields.append("contexts") # check if this is correct, as the original code had "contextsWithIntent"
-#     params = {"fields": ",".join(fields), "offset": 0, "limit": 1000}
-
-#     edges = []
-#     last = 0.0
-#     try:
-#         while True:
-#             r, last = _get(sess, url, params, last, rps=rps)
-#             batch = r.json()
-#             if not isinstance(batch, dict):
-#                 logging.warning(f"Unexpected /references payload for {citing_id}: {batch}")
-#                 break
-#             raw = batch.get("data")
-#             if not raw:  # None or empty list -> no edges
-#                 break
-#             for e in raw:
-#                 cited_id = e.get("citedPaper", {}).get("paperId", None)
-#                 edges.append({
-#                     "cited_paperId": cited_id,
-#                     "intents": e.get("intents", []) or [],
-#                     "edge_isInfluential": e.get("isInfluential", False),
-#                     "contexts": e.get("contexts") if include_contexts else None,
-#                 })
-#             nxt = batch.get("next")
-#             if nxt is None:
-#                 break
-#             params["offset"] = nxt
-#     except requests.HTTPError as e:
-#         status = getattr(e.response, "status_code", None)
-#         if status in (400, 404):
-#             nf.add(citing_id)
-#             logging.info(f"S2 not found (refs): {citing_id}")
-#             return []
-#         raise
-#     return [e for e in edges if e["cited_paperId"]]
-
-# # ---------- main: enrich your cit dataframe ----------
-# def enrich_with_intents_and_influential(cit_df, include_contexts=False, rps=1.0, not_found_path=NOT_FOUND_PATH):
-#     """
-#     cit_df must have columns: citingPaperId, citedPaperId
-#     Returns (df, info) where:
-#       - df includes: intents, edge_isInfluential, contexts?,
-#                      citing_influentialCitationCount, cited_influentialCitationCount
-#       - info: dict with keys:
-#           'not_found_all', 'not_found_new', 'errors'
-#     """
-#     df = cit_df.copy()
-
-#     # Load persistent not-found cache
-#     not_found = _load_not_found(not_found_path) if not_found_path else set()
-#     baseline_nf_size = len(not_found)
-
-#     # 1) Fetch all references once per unique citing DOI (skipping known-missing)
-#     sess = requests.Session()
-#     ref_map = {}
-#     errors = []
-#     unique_citing = [d for d in df["citingPaperId"].dropna().unique()]
-#     for citing in unique_citing:
-#         if citing in not_found:
-#             ref_map[citing] = {}
-#             continue
-#         try:
-#             edges = fetch_reference_edges_for_citing(
-#                 citing, include_contexts=include_contexts, rps=rps, session=sess, not_found=not_found
-#             )
-#         except RuntimeError:
-#             # response too big -> refetch with smaller pages
-#             edges = []
-#             url = f"{SS_BASE}/paper/{citing}/references"
-#             fields = ["paperId", "intents", "isInfluential"]
-#             if include_contexts:
-#                 fields.append("contexts") # check if this is correct, as the original code had "contextsWithIntent"
-#             params = {"fields": ",".join(fields), "offset": 0, "limit": 200}
-#             last = 0.0
-#             try:
-#                 while True:
-#                     r, last = _get(sess, url, params, last, rps=rps)
-#                     batch = r.json() or {}
-#                     raw = batch.get("data") or []
-#                     for e in raw:
-#                         edges.append({
-#                             "cited_paperId": e.get("citedPaper", {}).get("paperId", None),
-#                             "intents": e.get("intents", []) or [],
-#                             "edge_isInfluential": e.get("isInfluential", False),
-#                             "contexts": e.get("contexts") if include_contexts else None,
-#                         })
-#                     nxt = batch.get("next")
-#                     if nxt is None: break
-#                     params["offset"] = nxt
-#             except requests.HTTPError as e:
-#                 status = getattr(e.response, "status_code", None)
-#                 if status in (400, 404):
-#                     not_found.add(citing)
-#                     edges = []
-#                 else:
-#                     errors.append({"citing": citing, "error": str(e)})
-#                     edges = []
-#         except Exception as e:
-#             errors.append({"citing": citing, "error": str(e)})
-#             edges = []
-
-#         ref_map[citing] = {e["cited_paperId"]: e for e in edges if e["cited_paperId"]}
-
-#     # 2) Map edge info to each row
-#     def _lookup_edge(row):
-#         m = ref_map.get(row["citingPaperId"], {})
-#         e = m.get(row["citedPaperId"], None)
-#         print(f"Processing citing={row['citingPaperId']} cited={row['citedPaperId']} -> {e}")  # Debugging
-#         if e:
-#             print(f"hit: citing={row['citingPaperId']} cited={row['citedPaperId']}") # Debugging
-#             return pd.Series({
-#                 "intents": e.get("intents", []),
-#                 "edge_isInfluential": e.get("edge_isInfluential", False),
-#                 "contexts": e.get("contexts"),
-#             })
-#         else:
-#             return pd.Series({"intents": [], "edge_isInfluential": None, "contexts": None})
-        
-
-#     edge_cols = df.apply(_lookup_edge, axis=1)
-#     df = pd.concat([df, edge_cols], axis=1)
-
-#     # 3) Add paper-level influentialCitationCount for both sides (skip known-missing)
-#     all_ids = pd.unique(pd.concat([df["citingPaperId"], df["citedPaperId"]], ignore_index=True).dropna())
-#     want = [d for d in all_ids if d not in not_found]
-#     infl_map = fetch_influential_counts(want, rps=rps, session=sess, not_found=not_found)
-#     # also ensure missing ones map to None
-#     for d in all_ids:
-#         if d not in infl_map:
-#             infl_map[d] = None
-#     df["citing_influentialCitationCount"] = df["citingPaperId"].map(infl_map)
-#     df["cited_influentialCitationCount"]  = df["citedPaperId"].map(infl_map)
-
-#     # Persist not-found set if it changed
-#     if not_found_path and len(not_found) > baseline_nf_size:
-#         _save_not_found(not_found, not_found_path)
-
-#     info = {
-#         "not_found_all": sorted(not_found),
-#         "not_found_new": sorted(list(not_found))[baseline_nf_size:],
-#         "errors": errors,
-#     }
-#     return df, info, ref_map
+    for id in ids:
+        url = f"{SS_BASE}/paper/{id}"
+        params = {"fields": "citationCount,referenceCount"}
+        try:
+            r, last = _get(sess, url, params, last, rps=rps)
+            j = r.json() or {}
+            out[id] = {
+                "citationCount": j.get("citationCount", None),
+                "referenceCount": j.get("referenceCount", None)
+            }
+        except requests.HTTPError as e:
+            status = getattr(e.response, "status_code", None)
+            if status in (400, 404):
+                # invalid / unknown id at S2
+                nf.add(id)
+                out[id] = None
+                logging.info(f"S2 not found (meta): {id}")
+                continue
+            raise
+    return out
 
 # ---------- paper meta (for influentialCitationCount) ----------
 def fetch_influential_counts(ids, rps=1.0, session=None, not_found=None):
