@@ -1,0 +1,31 @@
+,kind,node,score
+0,Measure,Regression‐based Measures,21.0
+1,RqType,Intergenerational Wealth Mobility and Inheritance,20.0
+2,RqType,Empirical Estimates and Determinants,20.0
+3,Measure,Absolute Mobility Measures,16.0
+4,Measure,Others_Measure,16.0
+5,Measure,Rank‐based Measures,16.0
+6,RqType,"Policy, Institutional, and Geographic Impacts",16.0
+7,DataType,Linked Administrative Data,15.0
+8,DataType,No dataset,14.0
+9,DataType,Panel/Longitudinal Surveys,14.0
+10,DataType,National Survey Data,14.0
+11,RqType,Measurement and Methodological Advances,14.0
+12,Measure,Decomposition / Structural Approaches,13.0
+13,Measure,Transition Matrix / Probability Measures,12.0
+14,DataType,Others_DataType,12.0
+15,DataType,Administrative/Registry Data,12.0
+16,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",11.0
+17,Measure,Non‐parametric Approaches,8.0
+18,DataType,Natural/Experimental Data,8.0
+19,DataType,Opportunity Atlas,8.0
+20,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",8.0
+21,Measure,Multigenerational Measures,7.0
+22,DataType,International Panel Data,7.0
+23,RqType,Theoretical and Structural Models,7.0
+24,RqType,Perceptions of Mobility and Attitudes,7.0
+25,DataType,Archival/Historical Data,6.0
+26,DataType,University/Institution Data,5.0
+27,DataType,Pseudo-Panel/Household Budget Survey,4.0
+28,DataType,Big Data,3.0
+29,RqType,Others_RqType,2.0
