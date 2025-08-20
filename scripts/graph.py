@@ -96,14 +96,14 @@ discrete_colors_31 = [
 ]
 
 
-def plot_feature_graph_single(df_edges, title="Feature Graph", color_labels=None):
+def plot_feature_graph_single(df_edges, from_val = 'from_val', to_val = 'to_val', weight = 'weight', title="Feature Graph", color_labels=None):
     G = nx.DiGraph()
     for _, row in df_edges.iterrows():
-        G.add_edge(row["from_val"], row["to_val"], weight=row["weight"])
+        G.add_edge(row[from_val], row[to_val], weight=row[weight])
 
     pos = nx.spring_layout(G, seed=42, k=5 / math.sqrt(G.order()))
 
-    edge_weights = [G[u][v]['weight'] for u, v in G.edges()]
+    edge_weights = [G[u][v][weight] for u, v in G.edges()]
     min_w, max_w = min(edge_weights, default=1), max(edge_weights, default=1)
     scaled_widths = [scale_weight(w, min_w, max_w) for w in edge_weights]
 
@@ -117,7 +117,7 @@ def plot_feature_graph_single(df_edges, title="Feature Graph", color_labels=None
             line=dict(width=width, color='gray'),
             showlegend=False,
             hoverinfo='text',
-            text=[f'{u} → {v}<br>Weight: {G[u][v]["weight"]}']
+            text=[f'{u} → {v}<br>Weight: {G[u][v][weight]}']
         ))
 
     # Node colors
@@ -161,10 +161,10 @@ def plot_feature_graph_single(df_edges, title="Feature Graph", color_labels=None
         font_family="Times New Roman"
     ))
 
-def plot_centrality_subgraphs_single(df_edges, color_labels, top_k=7, center_radius=0.1):
+def plot_centrality_subgraphs_single(df_edges, from_val='from_val', to_val='to_val', weight='weight', color_labels=None, top_k=7, center_radius=0.1):
     G = nx.DiGraph()
     for _, row in df_edges.iterrows():
-        G.add_edge(row["from_val"], row["to_val"], weight=row["weight"])
+        G.add_edge(row[from_val], row[to_val], weight=row[weight])
 
     pos = nx.spring_layout(G, seed=42, k=5 / math.sqrt(G.order()))
     betweenness = nx.betweenness_centrality(G)
@@ -180,7 +180,7 @@ def plot_centrality_subgraphs_single(df_edges, color_labels, top_k=7, center_rad
     def make_fig(sub_nodes, title):
         G_sub = G.subgraph(sub_nodes)
         pos_sub = {n: pos[n] for n in G_sub.nodes()}
-        edge_weights = [G_sub[u][v]['weight'] for u, v in G_sub.edges()]
+        edge_weights = [G_sub[u][v][weight] for u, v in G_sub.edges()]
         min_w, max_w = min(edge_weights, default=1), max(edge_weights, default=1)
         scaled_widths = [scale_weight(w, min_w, max_w) for w in edge_weights]
 
@@ -236,17 +236,17 @@ def plot_centrality_subgraphs_single(df_edges, color_labels, top_k=7, center_rad
 # For multple years
 #-----------------------------------------------------------------------------------
 
-def plot_spring_graph(df_feature_edges, seed=47, k=5, iterations = 50, color_labels = color_labels, font_size=16, title=None, size = 10 , font_family="Times New Roman"):
+def plot_spring_graph(df_feature_edges, from_val = 'from_val', to_val = 'to_val', weight = 'weight', seed=47, k=5, iterations = 50, color_labels = color_labels, font_size=16, title=None, size = 10 , font_family="Times New Roman"):
     # Build the graph
     G = nx.DiGraph()
     for _, row in df_feature_edges.iterrows():
-        G.add_edge(row['from_val'], row['to_val'], weight=row['weight'])
+        G.add_edge(row[from_val], row[to_val], weight=row['weight'])
 
     # Layout
     pos = nx.spring_layout(G, seed=seed, k=k / math.sqrt(G.order()), iterations=iterations)
 
     # Edge thickness based on weight
-    edge_weights = [G[u][v]['weight'] for u, v in G.edges()]
+    edge_weights = [G[u][v][weight] for u, v in G.edges()]
     min_w, max_w = min(edge_weights), max(edge_weights)
 
     scaled_widths = [scale_weight(w, min_w, max_w) for w in edge_weights]
@@ -322,19 +322,19 @@ def plot_spring_graph(df_feature_edges, seed=47, k=5, iterations = 50, color_lab
     return fig
 
 
-def calculate_movement_size(df_feature_edges):
+def calculate_movement_size(df_feature_edges, to_year = 'to_year', from_val = 'from_val', to_val = 'to_val', weight = 'weight'):
     node_positions_by_year = {}
 
-    for year in df_feature_edges['to_year'].unique():
-        df_year = df_feature_edges[df_feature_edges['to_year'] == year]
+    for year in df_feature_edges[to_year].unique():
+        df_year = df_feature_edges[df_feature_edges[to_year] == year]
         G = nx.DiGraph()
         for _, row in df_year.iterrows():
-            G.add_edge(row['from_val'], row['to_val'], weight=row['weight'])
+            G.add_edge(row[from_val], row[to_val], weight=row[weight])
         pos = nx.spring_layout(G, seed=47, k=5 / math.sqrt(G.order()))
         node_positions_by_year[year] = pos
 
     # movement = {}
-    sorted_years = sorted(df_feature_edges['to_year'].unique())
+    sorted_years = sorted(df_feature_edges[to_year].unique())
 
     for i, year in enumerate(sorted_years):
         cumulative_movement = {}
@@ -351,11 +351,11 @@ def calculate_movement_size(df_feature_edges):
 
 
 
-def plot_top_k(df_feature_edges, top_k = 4, color_labels = color_labels): # Betweenness & Degree Centrality
+def plot_top_k(df_feature_edges, from_val = 'from_val', to_val = 'to_val', weight = 'weight', top_k = 4, color_labels = color_labels): # Betweenness & Degree Centrality
     # Build the graph
     G = nx.DiGraph()
     for _, row in df_feature_edges.iterrows():
-        G.add_edge(row['from_val'], row['to_val'], weight=row['weight'])
+        G.add_edge(row[from_val], row[to_val], weight=row[weight])
 
     # Layout
     pos = nx.spring_layout(G, seed=42, k=5 / math.sqrt(G.order()))
@@ -376,8 +376,8 @@ def plot_top_k(df_feature_edges, top_k = 4, color_labels = color_labels): # Betw
     def make_subgraph_plot(subgraph_nodes_ordered, title):
         G_sub = G.subgraph(subgraph_nodes_ordered).copy()
         pos_sub = {n: pos[n] for n in G_sub.nodes()}
-        
-        edge_weights = [G_sub[u][v]['weight'] for u, v in G_sub.edges()]
+
+        edge_weights = [G_sub[u][v][weight] for u, v in G_sub.edges()]
         min_w, max_w = min(edge_weights, default=1), max(edge_weights, default=1)
         scaled_widths = [scale_weight(w, min_w, max_w) for w in edge_weights]
         
