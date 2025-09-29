@@ -1,0 +1,31 @@
+,kind,node,score
+0,RqType,Intergenerational Wealth Mobility and Inheritance,93.66666666666666
+1,DataType,No dataset,81.96666666666667
+2,Measure,Regression‐based Measures,17.366666666666664
+3,Measure,Decomposition / Structural Approaches,16.933333333333334
+4,Measure,Transition Matrix / Probability Measures,4.366666666666667
+5,DataType,Panel/Longitudinal Surveys,4.166666666666666
+6,RqType,Empirical Estimates and Determinants,2.3
+7,DataType,Administrative/Registry Data,1.8333333333333333
+8,RqType,Theoretical and Structural Models,1.4
+9,Measure,Absolute Mobility Measures,1.0
+10,Measure,Others_Measure,1.0
+11,Measure,Multigenerational Measures,0.0
+12,Measure,Non‐parametric Approaches,0.0
+13,Measure,Rank‐based Measures,0.0
+14,DataType,Archival/Historical Data,0.0
+15,DataType,Others_DataType,0.0
+16,DataType,Linked Administrative Data,0.0
+17,DataType,National Survey Data,0.0
+18,DataType,International Panel Data,0.0
+19,RqType,Measurement and Methodological Advances,0.0
+20,RqType,"Policy, Institutional, and Geographic Impacts",0.0
+21,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.0
+22,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.0
+23,DataType,Pseudo-Panel/Household Budget Survey,0.0
+24,DataType,Natural/Experimental Data,0.0
+25,DataType,Opportunity Atlas,0.0
+26,RqType,Perceptions of Mobility and Attitudes,0.0
+27,RqType,Others_RqType,0.0
+28,DataType,University/Institution Data,0.0
+29,DataType,Big Data,0.0

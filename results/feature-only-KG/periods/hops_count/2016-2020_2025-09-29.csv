@@ -1,0 +1,703 @@
+,source,target,hops
+0,Natural/Experimental Data,Transition Matrix / Probability Measures,3.0
+1,Opportunity Atlas,Transition Matrix / Probability Measures,3.0
+2,International Panel Data,Multigenerational Measures,3.0
+3,Theoretical and Structural Models,Multigenerational Measures,3.0
+4,Measurement and Methodological Advances,Multigenerational Measures,3.0
+5,"Demographic Differences in Mobility (Race, Gender, etc.)",Multigenerational Measures,3.0
+6,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Multigenerational Measures,3.0
+7,Perceptions of Mobility and Attitudes,Multigenerational Measures,3.0
+8,University/Institution Data,Multigenerational Measures,3.0
+9,Natural/Experimental Data,Non‐parametric Approaches,3.0
+10,Opportunity Atlas,Non‐parametric Approaches,3.0
+11,Perceptions of Mobility and Attitudes,Non‐parametric Approaches,3.0
+12,University/Institution Data,Non‐parametric Approaches,3.0
+13,Opportunity Atlas,Rank‐based Measures,3.0
+14,Perceptions of Mobility and Attitudes,Archival/Historical Data,3.0
+15,Multigenerational Measures,International Panel Data,3.0
+16,Opportunity Atlas,International Panel Data,3.0
+17,Multigenerational Measures,Theoretical and Structural Models,3.0
+18,Opportunity Atlas,Theoretical and Structural Models,3.0
+19,Multigenerational Measures,Measurement and Methodological Advances,3.0
+20,Multigenerational Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",3.0
+21,Opportunity Atlas,"Demographic Differences in Mobility (Race, Gender, etc.)",3.0
+22,Multigenerational Measures,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",3.0
+23,Transition Matrix / Probability Measures,Natural/Experimental Data,3.0
+24,Non‐parametric Approaches,Natural/Experimental Data,3.0
+25,Transition Matrix / Probability Measures,Opportunity Atlas,3.0
+26,Non‐parametric Approaches,Opportunity Atlas,3.0
+27,Rank‐based Measures,Opportunity Atlas,3.0
+28,International Panel Data,Opportunity Atlas,3.0
+29,Theoretical and Structural Models,Opportunity Atlas,3.0
+30,"Demographic Differences in Mobility (Race, Gender, etc.)",Opportunity Atlas,3.0
+31,University/Institution Data,Opportunity Atlas,3.0
+32,Multigenerational Measures,Perceptions of Mobility and Attitudes,3.0
+33,Non‐parametric Approaches,Perceptions of Mobility and Attitudes,3.0
+34,Archival/Historical Data,Perceptions of Mobility and Attitudes,3.0
+35,Multigenerational Measures,University/Institution Data,3.0
+36,Non‐parametric Approaches,University/Institution Data,3.0
+37,Opportunity Atlas,University/Institution Data,3.0
+38,"Demographic Differences in Mobility (Race, Gender, etc.)",Perceptions of Mobility and Attitudes,2.0
+39,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Perceptions of Mobility and Attitudes,2.0
+40,Opportunity Atlas,Perceptions of Mobility and Attitudes,2.0
+41,University/Institution Data,Perceptions of Mobility and Attitudes,2.0
+42,Absolute Mobility Measures,University/Institution Data,2.0
+43,Decomposition / Structural Approaches,University/Institution Data,2.0
+44,Regression‐based Measures,University/Institution Data,2.0
+45,Rank‐based Measures,University/Institution Data,2.0
+46,Archival/Historical Data,University/Institution Data,2.0
+47,No dataset,University/Institution Data,2.0
+48,Administrative/Registry Data,University/Institution Data,2.0
+49,Others_DataType,University/Institution Data,2.0
+50,Panel/Longitudinal Surveys,University/Institution Data,2.0
+51,Linked Administrative Data,University/Institution Data,2.0
+52,National Survey Data,University/Institution Data,2.0
+53,International Panel Data,University/Institution Data,2.0
+54,Intergenerational Wealth Mobility and Inheritance,University/Institution Data,2.0
+55,Theoretical and Structural Models,University/Institution Data,2.0
+56,Measurement and Methodological Advances,University/Institution Data,2.0
+57,"Policy, Institutional, and Geographic Impacts",University/Institution Data,2.0
+58,"Demographic Differences in Mobility (Race, Gender, etc.)",University/Institution Data,2.0
+59,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",University/Institution Data,2.0
+60,Natural/Experimental Data,University/Institution Data,2.0
+61,Perceptions of Mobility and Attitudes,University/Institution Data,2.0
+62,Others_Measure,Decomposition / Structural Approaches,2.0
+63,Multigenerational Measures,Decomposition / Structural Approaches,2.0
+64,Non‐parametric Approaches,Decomposition / Structural Approaches,2.0
+65,Rank‐based Measures,Decomposition / Structural Approaches,2.0
+66,Archival/Historical Data,Decomposition / Structural Approaches,2.0
+67,International Panel Data,Decomposition / Structural Approaches,2.0
+68,Measurement and Methodological Advances,Decomposition / Structural Approaches,2.0
+69,"Demographic Differences in Mobility (Race, Gender, etc.)",Decomposition / Structural Approaches,2.0
+70,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Decomposition / Structural Approaches,2.0
+71,Opportunity Atlas,Decomposition / Structural Approaches,2.0
+72,Perceptions of Mobility and Attitudes,Decomposition / Structural Approaches,2.0
+73,University/Institution Data,Decomposition / Structural Approaches,2.0
+74,Absolute Mobility Measures,Regression‐based Measures,2.0
+75,Decomposition / Structural Approaches,Regression‐based Measures,2.0
+76,Transition Matrix / Probability Measures,Regression‐based Measures,2.0
+77,Others_Measure,Regression‐based Measures,2.0
+78,Multigenerational Measures,Regression‐based Measures,2.0
+79,Non‐parametric Approaches,Regression‐based Measures,2.0
+80,Rank‐based Measures,Regression‐based Measures,2.0
+81,Opportunity Atlas,Regression‐based Measures,2.0
+82,Perceptions of Mobility and Attitudes,Regression‐based Measures,2.0
+83,University/Institution Data,Regression‐based Measures,2.0
+84,Absolute Mobility Measures,Transition Matrix / Probability Measures,2.0
+85,Decomposition / Structural Approaches,Transition Matrix / Probability Measures,2.0
+86,Regression‐based Measures,Transition Matrix / Probability Measures,2.0
+87,Others_Measure,Transition Matrix / Probability Measures,2.0
+88,Multigenerational Measures,Transition Matrix / Probability Measures,2.0
+89,Non‐parametric Approaches,Transition Matrix / Probability Measures,2.0
+90,Rank‐based Measures,Transition Matrix / Probability Measures,2.0
+91,Archival/Historical Data,Transition Matrix / Probability Measures,2.0
+92,Administrative/Registry Data,Transition Matrix / Probability Measures,2.0
+93,Others_DataType,Transition Matrix / Probability Measures,2.0
+94,International Panel Data,Transition Matrix / Probability Measures,2.0
+95,"Policy, Institutional, and Geographic Impacts",Transition Matrix / Probability Measures,2.0
+96,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Transition Matrix / Probability Measures,2.0
+97,Perceptions of Mobility and Attitudes,Transition Matrix / Probability Measures,2.0
+98,Absolute Mobility Measures,Others_Measure,2.0
+99,Decomposition / Structural Approaches,Others_Measure,2.0
+100,Regression‐based Measures,Others_Measure,2.0
+101,Transition Matrix / Probability Measures,Others_Measure,2.0
+102,Multigenerational Measures,Others_Measure,2.0
+103,Non‐parametric Approaches,Others_Measure,2.0
+104,Rank‐based Measures,Others_Measure,2.0
+105,Archival/Historical Data,Others_Measure,2.0
+106,Linked Administrative Data,Others_Measure,2.0
+107,International Panel Data,Others_Measure,2.0
+108,"Demographic Differences in Mobility (Race, Gender, etc.)",Others_Measure,2.0
+109,Opportunity Atlas,Others_Measure,2.0
+110,Absolute Mobility Measures,Multigenerational Measures,2.0
+111,Decomposition / Structural Approaches,Multigenerational Measures,2.0
+112,Regression‐based Measures,Multigenerational Measures,2.0
+113,Transition Matrix / Probability Measures,Multigenerational Measures,2.0
+114,Others_Measure,Multigenerational Measures,2.0
+115,Non‐parametric Approaches,Multigenerational Measures,2.0
+116,Rank‐based Measures,Multigenerational Measures,2.0
+117,No dataset,Multigenerational Measures,2.0
+118,Administrative/Registry Data,Multigenerational Measures,2.0
+119,Others_DataType,Multigenerational Measures,2.0
+120,Panel/Longitudinal Surveys,Multigenerational Measures,2.0
+121,Linked Administrative Data,Multigenerational Measures,2.0
+122,National Survey Data,Multigenerational Measures,2.0
+123,Empirical Estimates and Determinants,Multigenerational Measures,2.0
+124,Natural/Experimental Data,Multigenerational Measures,2.0
+125,Opportunity Atlas,Multigenerational Measures,2.0
+126,Absolute Mobility Measures,Non‐parametric Approaches,2.0
+127,Decomposition / Structural Approaches,Non‐parametric Approaches,2.0
+128,Regression‐based Measures,Non‐parametric Approaches,2.0
+129,Transition Matrix / Probability Measures,Non‐parametric Approaches,2.0
+130,Others_Measure,Non‐parametric Approaches,2.0
+131,Multigenerational Measures,Non‐parametric Approaches,2.0
+132,Rank‐based Measures,Non‐parametric Approaches,2.0
+133,Archival/Historical Data,Non‐parametric Approaches,2.0
+134,Administrative/Registry Data,Non‐parametric Approaches,2.0
+135,Linked Administrative Data,Non‐parametric Approaches,2.0
+136,National Survey Data,Non‐parametric Approaches,2.0
+137,International Panel Data,Non‐parametric Approaches,2.0
+138,Theoretical and Structural Models,Non‐parametric Approaches,2.0
+139,Empirical Estimates and Determinants,Non‐parametric Approaches,2.0
+140,"Policy, Institutional, and Geographic Impacts",Non‐parametric Approaches,2.0
+141,"Demographic Differences in Mobility (Race, Gender, etc.)",Non‐parametric Approaches,2.0
+142,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Non‐parametric Approaches,2.0
+143,Absolute Mobility Measures,Rank‐based Measures,2.0
+144,Decomposition / Structural Approaches,Rank‐based Measures,2.0
+145,Regression‐based Measures,Rank‐based Measures,2.0
+146,Transition Matrix / Probability Measures,Rank‐based Measures,2.0
+147,Others_Measure,Rank‐based Measures,2.0
+148,Multigenerational Measures,Rank‐based Measures,2.0
+149,Non‐parametric Approaches,Rank‐based Measures,2.0
+150,Archival/Historical Data,Rank‐based Measures,2.0
+151,No dataset,Rank‐based Measures,2.0
+152,Others_DataType,Rank‐based Measures,2.0
+153,Theoretical and Structural Models,Rank‐based Measures,2.0
+154,"Policy, Institutional, and Geographic Impacts",Rank‐based Measures,2.0
+155,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Rank‐based Measures,2.0
+156,Natural/Experimental Data,Rank‐based Measures,2.0
+157,University/Institution Data,Rank‐based Measures,2.0
+158,Absolute Mobility Measures,Archival/Historical Data,2.0
+159,Decomposition / Structural Approaches,Archival/Historical Data,2.0
+160,Transition Matrix / Probability Measures,Archival/Historical Data,2.0
+161,Others_Measure,Archival/Historical Data,2.0
+162,Non‐parametric Approaches,Archival/Historical Data,2.0
+163,Rank‐based Measures,Archival/Historical Data,2.0
+164,No dataset,Archival/Historical Data,2.0
+165,Administrative/Registry Data,Archival/Historical Data,2.0
+166,Others_DataType,Archival/Historical Data,2.0
+167,Panel/Longitudinal Surveys,Archival/Historical Data,2.0
+168,Linked Administrative Data,Archival/Historical Data,2.0
+169,National Survey Data,Archival/Historical Data,2.0
+170,International Panel Data,Archival/Historical Data,2.0
+171,Theoretical and Structural Models,Archival/Historical Data,2.0
+172,Measurement and Methodological Advances,Archival/Historical Data,2.0
+173,"Demographic Differences in Mobility (Race, Gender, etc.)",Archival/Historical Data,2.0
+174,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Archival/Historical Data,2.0
+175,Natural/Experimental Data,Archival/Historical Data,2.0
+176,Opportunity Atlas,Archival/Historical Data,2.0
+177,University/Institution Data,Archival/Historical Data,2.0
+178,Multigenerational Measures,No dataset,2.0
+179,Rank‐based Measures,No dataset,2.0
+180,Archival/Historical Data,No dataset,2.0
+181,Administrative/Registry Data,No dataset,2.0
+182,Others_DataType,No dataset,2.0
+183,Panel/Longitudinal Surveys,No dataset,2.0
+184,Linked Administrative Data,No dataset,2.0
+185,National Survey Data,No dataset,2.0
+186,International Panel Data,No dataset,2.0
+187,"Demographic Differences in Mobility (Race, Gender, etc.)",No dataset,2.0
+188,Natural/Experimental Data,No dataset,2.0
+189,Opportunity Atlas,No dataset,2.0
+190,Perceptions of Mobility and Attitudes,Theoretical and Structural Models,2.0
+191,University/Institution Data,Theoretical and Structural Models,2.0
+192,Multigenerational Measures,Empirical Estimates and Determinants,2.0
+193,Non‐parametric Approaches,Empirical Estimates and Determinants,2.0
+194,Intergenerational Wealth Mobility and Inheritance,Empirical Estimates and Determinants,2.0
+195,Theoretical and Structural Models,Empirical Estimates and Determinants,2.0
+196,Measurement and Methodological Advances,Empirical Estimates and Determinants,2.0
+197,"Policy, Institutional, and Geographic Impacts",Empirical Estimates and Determinants,2.0
+198,"Demographic Differences in Mobility (Race, Gender, etc.)",Empirical Estimates and Determinants,2.0
+199,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Empirical Estimates and Determinants,2.0
+200,Natural/Experimental Data,Empirical Estimates and Determinants,2.0
+201,Opportunity Atlas,Empirical Estimates and Determinants,2.0
+202,Perceptions of Mobility and Attitudes,Empirical Estimates and Determinants,2.0
+203,Decomposition / Structural Approaches,Measurement and Methodological Advances,2.0
+204,Archival/Historical Data,Measurement and Methodological Advances,2.0
+205,Others_DataType,Measurement and Methodological Advances,2.0
+206,National Survey Data,Measurement and Methodological Advances,2.0
+207,Intergenerational Wealth Mobility and Inheritance,Measurement and Methodological Advances,2.0
+208,Theoretical and Structural Models,Measurement and Methodological Advances,2.0
+209,Empirical Estimates and Determinants,Measurement and Methodological Advances,2.0
+210,"Policy, Institutional, and Geographic Impacts",Measurement and Methodological Advances,2.0
+211,"Demographic Differences in Mobility (Race, Gender, etc.)",Measurement and Methodological Advances,2.0
+212,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Measurement and Methodological Advances,2.0
+213,Natural/Experimental Data,Measurement and Methodological Advances,2.0
+214,Opportunity Atlas,Measurement and Methodological Advances,2.0
+215,Perceptions of Mobility and Attitudes,Measurement and Methodological Advances,2.0
+216,University/Institution Data,Measurement and Methodological Advances,2.0
+217,Transition Matrix / Probability Measures,"Policy, Institutional, and Geographic Impacts",2.0
+218,Non‐parametric Approaches,"Policy, Institutional, and Geographic Impacts",2.0
+219,Rank‐based Measures,"Policy, Institutional, and Geographic Impacts",2.0
+220,Others_DataType,"Policy, Institutional, and Geographic Impacts",2.0
+221,National Survey Data,"Policy, Institutional, and Geographic Impacts",2.0
+222,International Panel Data,"Policy, Institutional, and Geographic Impacts",2.0
+223,Intergenerational Wealth Mobility and Inheritance,"Policy, Institutional, and Geographic Impacts",2.0
+224,Theoretical and Structural Models,"Policy, Institutional, and Geographic Impacts",2.0
+225,Empirical Estimates and Determinants,"Policy, Institutional, and Geographic Impacts",2.0
+226,Measurement and Methodological Advances,"Policy, Institutional, and Geographic Impacts",2.0
+227,"Demographic Differences in Mobility (Race, Gender, etc.)","Policy, Institutional, and Geographic Impacts",2.0
+228,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)","Policy, Institutional, and Geographic Impacts",2.0
+229,Perceptions of Mobility and Attitudes,"Policy, Institutional, and Geographic Impacts",2.0
+230,University/Institution Data,"Policy, Institutional, and Geographic Impacts",2.0
+231,Absolute Mobility Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+232,Decomposition / Structural Approaches,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+233,Others_Measure,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+234,Non‐parametric Approaches,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+235,Archival/Historical Data,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+236,No dataset,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+237,Others_DataType,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+238,National Survey Data,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+239,International Panel Data,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+240,Intergenerational Wealth Mobility and Inheritance,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+241,Theoretical and Structural Models,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+242,Empirical Estimates and Determinants,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+243,Measurement and Methodological Advances,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+244,"Policy, Institutional, and Geographic Impacts","Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+245,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)","Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+246,Natural/Experimental Data,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+247,Perceptions of Mobility and Attitudes,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+248,University/Institution Data,"Demographic Differences in Mobility (Race, Gender, etc.)",2.0
+249,Decomposition / Structural Approaches,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+250,Transition Matrix / Probability Measures,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+251,Non‐parametric Approaches,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+252,Rank‐based Measures,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+253,Archival/Historical Data,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+254,Administrative/Registry Data,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+255,Others_DataType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+256,Linked Administrative Data,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+257,International Panel Data,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+258,Intergenerational Wealth Mobility and Inheritance,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+259,Theoretical and Structural Models,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+260,Empirical Estimates and Determinants,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+261,Measurement and Methodological Advances,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+262,"Policy, Institutional, and Geographic Impacts","Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+263,"Demographic Differences in Mobility (Race, Gender, etc.)","Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+264,Natural/Experimental Data,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+265,Opportunity Atlas,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+266,Perceptions of Mobility and Attitudes,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+267,University/Institution Data,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",2.0
+268,Absolute Mobility Measures,Natural/Experimental Data,2.0
+269,Multigenerational Measures,Natural/Experimental Data,2.0
+270,Rank‐based Measures,Natural/Experimental Data,2.0
+271,Archival/Historical Data,Natural/Experimental Data,2.0
+272,No dataset,Natural/Experimental Data,2.0
+273,Administrative/Registry Data,Natural/Experimental Data,2.0
+274,Others_DataType,Natural/Experimental Data,2.0
+275,Panel/Longitudinal Surveys,Natural/Experimental Data,2.0
+276,Linked Administrative Data,Natural/Experimental Data,2.0
+277,National Survey Data,Natural/Experimental Data,2.0
+278,International Panel Data,Natural/Experimental Data,2.0
+279,Intergenerational Wealth Mobility and Inheritance,Natural/Experimental Data,2.0
+280,Theoretical and Structural Models,Natural/Experimental Data,2.0
+281,Empirical Estimates and Determinants,Natural/Experimental Data,2.0
+282,Measurement and Methodological Advances,Natural/Experimental Data,2.0
+283,"Demographic Differences in Mobility (Race, Gender, etc.)",Natural/Experimental Data,2.0
+284,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Natural/Experimental Data,2.0
+285,Opportunity Atlas,Natural/Experimental Data,2.0
+286,University/Institution Data,Natural/Experimental Data,2.0
+287,Decomposition / Structural Approaches,Opportunity Atlas,2.0
+288,Regression‐based Measures,Opportunity Atlas,2.0
+289,Others_Measure,Opportunity Atlas,2.0
+290,Multigenerational Measures,Opportunity Atlas,2.0
+291,Archival/Historical Data,Opportunity Atlas,2.0
+292,No dataset,Opportunity Atlas,2.0
+293,Administrative/Registry Data,Opportunity Atlas,2.0
+294,Others_DataType,Opportunity Atlas,2.0
+295,Panel/Longitudinal Surveys,Opportunity Atlas,2.0
+296,Linked Administrative Data,Opportunity Atlas,2.0
+297,National Survey Data,Opportunity Atlas,2.0
+298,Intergenerational Wealth Mobility and Inheritance,Opportunity Atlas,2.0
+299,Empirical Estimates and Determinants,Opportunity Atlas,2.0
+300,Measurement and Methodological Advances,Opportunity Atlas,2.0
+301,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Opportunity Atlas,2.0
+302,Natural/Experimental Data,Opportunity Atlas,2.0
+303,Perceptions of Mobility and Attitudes,Opportunity Atlas,2.0
+304,Decomposition / Structural Approaches,Perceptions of Mobility and Attitudes,2.0
+305,Regression‐based Measures,Perceptions of Mobility and Attitudes,2.0
+306,Transition Matrix / Probability Measures,Perceptions of Mobility and Attitudes,2.0
+307,No dataset,Perceptions of Mobility and Attitudes,2.0
+308,Administrative/Registry Data,Perceptions of Mobility and Attitudes,2.0
+309,Others_DataType,Perceptions of Mobility and Attitudes,2.0
+310,Panel/Longitudinal Surveys,Perceptions of Mobility and Attitudes,2.0
+311,Linked Administrative Data,Perceptions of Mobility and Attitudes,2.0
+312,International Panel Data,Perceptions of Mobility and Attitudes,2.0
+313,Intergenerational Wealth Mobility and Inheritance,Perceptions of Mobility and Attitudes,2.0
+314,Theoretical and Structural Models,Perceptions of Mobility and Attitudes,2.0
+315,Empirical Estimates and Determinants,Perceptions of Mobility and Attitudes,2.0
+316,Measurement and Methodological Advances,Perceptions of Mobility and Attitudes,2.0
+317,"Policy, Institutional, and Geographic Impacts",Perceptions of Mobility and Attitudes,2.0
+318,Perceptions of Mobility and Attitudes,No dataset,2.0
+319,University/Institution Data,No dataset,2.0
+320,Transition Matrix / Probability Measures,Administrative/Registry Data,2.0
+321,Multigenerational Measures,Administrative/Registry Data,2.0
+322,Non‐parametric Approaches,Administrative/Registry Data,2.0
+323,Archival/Historical Data,Administrative/Registry Data,2.0
+324,No dataset,Administrative/Registry Data,2.0
+325,Others_DataType,Administrative/Registry Data,2.0
+326,Panel/Longitudinal Surveys,Administrative/Registry Data,2.0
+327,Linked Administrative Data,Administrative/Registry Data,2.0
+328,National Survey Data,Administrative/Registry Data,2.0
+329,International Panel Data,Administrative/Registry Data,2.0
+330,Theoretical and Structural Models,Administrative/Registry Data,2.0
+331,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Administrative/Registry Data,2.0
+332,Natural/Experimental Data,Administrative/Registry Data,2.0
+333,Opportunity Atlas,Administrative/Registry Data,2.0
+334,Perceptions of Mobility and Attitudes,Administrative/Registry Data,2.0
+335,University/Institution Data,Administrative/Registry Data,2.0
+336,Transition Matrix / Probability Measures,Others_DataType,2.0
+337,Multigenerational Measures,Others_DataType,2.0
+338,Rank‐based Measures,Others_DataType,2.0
+339,Archival/Historical Data,Others_DataType,2.0
+340,No dataset,Others_DataType,2.0
+341,Administrative/Registry Data,Others_DataType,2.0
+342,Panel/Longitudinal Surveys,Others_DataType,2.0
+343,Linked Administrative Data,Others_DataType,2.0
+344,National Survey Data,Others_DataType,2.0
+345,International Panel Data,Others_DataType,2.0
+346,Theoretical and Structural Models,Others_DataType,2.0
+347,Measurement and Methodological Advances,Others_DataType,2.0
+348,"Policy, Institutional, and Geographic Impacts",Others_DataType,2.0
+349,"Demographic Differences in Mobility (Race, Gender, etc.)",Others_DataType,2.0
+350,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Others_DataType,2.0
+351,Natural/Experimental Data,Others_DataType,2.0
+352,Opportunity Atlas,Others_DataType,2.0
+353,Perceptions of Mobility and Attitudes,Others_DataType,2.0
+354,University/Institution Data,Others_DataType,2.0
+355,Multigenerational Measures,Panel/Longitudinal Surveys,2.0
+356,Archival/Historical Data,Panel/Longitudinal Surveys,2.0
+357,No dataset,Panel/Longitudinal Surveys,2.0
+358,Administrative/Registry Data,Panel/Longitudinal Surveys,2.0
+359,Others_DataType,Panel/Longitudinal Surveys,2.0
+360,Linked Administrative Data,Panel/Longitudinal Surveys,2.0
+361,National Survey Data,Panel/Longitudinal Surveys,2.0
+362,International Panel Data,Panel/Longitudinal Surveys,2.0
+363,Theoretical and Structural Models,Panel/Longitudinal Surveys,2.0
+364,Natural/Experimental Data,Panel/Longitudinal Surveys,2.0
+365,Opportunity Atlas,Panel/Longitudinal Surveys,2.0
+366,Perceptions of Mobility and Attitudes,Panel/Longitudinal Surveys,2.0
+367,University/Institution Data,Panel/Longitudinal Surveys,2.0
+368,Others_Measure,Linked Administrative Data,2.0
+369,Multigenerational Measures,Linked Administrative Data,2.0
+370,Non‐parametric Approaches,Linked Administrative Data,2.0
+371,Archival/Historical Data,Linked Administrative Data,2.0
+372,No dataset,Linked Administrative Data,2.0
+373,Administrative/Registry Data,Linked Administrative Data,2.0
+374,Others_DataType,Linked Administrative Data,2.0
+375,Panel/Longitudinal Surveys,Linked Administrative Data,2.0
+376,National Survey Data,Linked Administrative Data,2.0
+377,International Panel Data,Linked Administrative Data,2.0
+378,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Linked Administrative Data,2.0
+379,Natural/Experimental Data,Linked Administrative Data,2.0
+380,Opportunity Atlas,Linked Administrative Data,2.0
+381,Perceptions of Mobility and Attitudes,Linked Administrative Data,2.0
+382,University/Institution Data,Linked Administrative Data,2.0
+383,Multigenerational Measures,National Survey Data,2.0
+384,Non‐parametric Approaches,National Survey Data,2.0
+385,Archival/Historical Data,National Survey Data,2.0
+386,No dataset,National Survey Data,2.0
+387,Administrative/Registry Data,National Survey Data,2.0
+388,Others_DataType,National Survey Data,2.0
+389,Panel/Longitudinal Surveys,National Survey Data,2.0
+390,Linked Administrative Data,National Survey Data,2.0
+391,International Panel Data,National Survey Data,2.0
+392,Theoretical and Structural Models,National Survey Data,2.0
+393,Measurement and Methodological Advances,National Survey Data,2.0
+394,"Policy, Institutional, and Geographic Impacts",National Survey Data,2.0
+395,"Demographic Differences in Mobility (Race, Gender, etc.)",National Survey Data,2.0
+396,Natural/Experimental Data,National Survey Data,2.0
+397,Opportunity Atlas,National Survey Data,2.0
+398,University/Institution Data,National Survey Data,2.0
+399,Absolute Mobility Measures,International Panel Data,2.0
+400,Decomposition / Structural Approaches,International Panel Data,2.0
+401,Transition Matrix / Probability Measures,International Panel Data,2.0
+402,Others_Measure,International Panel Data,2.0
+403,Non‐parametric Approaches,International Panel Data,2.0
+404,Archival/Historical Data,International Panel Data,2.0
+405,No dataset,International Panel Data,2.0
+406,Administrative/Registry Data,International Panel Data,2.0
+407,Others_DataType,International Panel Data,2.0
+408,Panel/Longitudinal Surveys,International Panel Data,2.0
+409,Linked Administrative Data,International Panel Data,2.0
+410,National Survey Data,International Panel Data,2.0
+411,Intergenerational Wealth Mobility and Inheritance,International Panel Data,2.0
+412,Theoretical and Structural Models,International Panel Data,2.0
+413,"Policy, Institutional, and Geographic Impacts",International Panel Data,2.0
+414,"Demographic Differences in Mobility (Race, Gender, etc.)",International Panel Data,2.0
+415,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",International Panel Data,2.0
+416,Natural/Experimental Data,International Panel Data,2.0
+417,Perceptions of Mobility and Attitudes,International Panel Data,2.0
+418,University/Institution Data,International Panel Data,2.0
+419,International Panel Data,Intergenerational Wealth Mobility and Inheritance,2.0
+420,Theoretical and Structural Models,Intergenerational Wealth Mobility and Inheritance,2.0
+421,Empirical Estimates and Determinants,Intergenerational Wealth Mobility and Inheritance,2.0
+422,Measurement and Methodological Advances,Intergenerational Wealth Mobility and Inheritance,2.0
+423,"Policy, Institutional, and Geographic Impacts",Intergenerational Wealth Mobility and Inheritance,2.0
+424,"Demographic Differences in Mobility (Race, Gender, etc.)",Intergenerational Wealth Mobility and Inheritance,2.0
+425,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Intergenerational Wealth Mobility and Inheritance,2.0
+426,Natural/Experimental Data,Intergenerational Wealth Mobility and Inheritance,2.0
+427,Opportunity Atlas,Intergenerational Wealth Mobility and Inheritance,2.0
+428,Perceptions of Mobility and Attitudes,Intergenerational Wealth Mobility and Inheritance,2.0
+429,University/Institution Data,Intergenerational Wealth Mobility and Inheritance,2.0
+430,Absolute Mobility Measures,Theoretical and Structural Models,2.0
+431,Non‐parametric Approaches,Theoretical and Structural Models,2.0
+432,Rank‐based Measures,Theoretical and Structural Models,2.0
+433,Archival/Historical Data,Theoretical and Structural Models,2.0
+434,Administrative/Registry Data,Theoretical and Structural Models,2.0
+435,Others_DataType,Theoretical and Structural Models,2.0
+436,Panel/Longitudinal Surveys,Theoretical and Structural Models,2.0
+437,National Survey Data,Theoretical and Structural Models,2.0
+438,International Panel Data,Theoretical and Structural Models,2.0
+439,Intergenerational Wealth Mobility and Inheritance,Theoretical and Structural Models,2.0
+440,Empirical Estimates and Determinants,Theoretical and Structural Models,2.0
+441,Measurement and Methodological Advances,Theoretical and Structural Models,2.0
+442,"Policy, Institutional, and Geographic Impacts",Theoretical and Structural Models,2.0
+443,"Demographic Differences in Mobility (Race, Gender, etc.)",Theoretical and Structural Models,2.0
+444,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Theoretical and Structural Models,2.0
+445,Natural/Experimental Data,Theoretical and Structural Models,2.0
+446,Decomposition / Structural Approaches,Absolute Mobility Measures,2.0
+447,Regression‐based Measures,Absolute Mobility Measures,2.0
+448,Transition Matrix / Probability Measures,Absolute Mobility Measures,2.0
+449,Others_Measure,Absolute Mobility Measures,2.0
+450,Multigenerational Measures,Absolute Mobility Measures,2.0
+451,Non‐parametric Approaches,Absolute Mobility Measures,2.0
+452,Rank‐based Measures,Absolute Mobility Measures,2.0
+453,Archival/Historical Data,Absolute Mobility Measures,2.0
+454,International Panel Data,Absolute Mobility Measures,2.0
+455,Theoretical and Structural Models,Absolute Mobility Measures,2.0
+456,"Demographic Differences in Mobility (Race, Gender, etc.)",Absolute Mobility Measures,2.0
+457,Natural/Experimental Data,Absolute Mobility Measures,2.0
+458,University/Institution Data,Absolute Mobility Measures,2.0
+459,Absolute Mobility Measures,Decomposition / Structural Approaches,2.0
+460,Regression‐based Measures,Decomposition / Structural Approaches,2.0
+461,Transition Matrix / Probability Measures,Decomposition / Structural Approaches,2.0
+462,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Panel/Longitudinal Surveys,1.0
+463,Absolute Mobility Measures,Linked Administrative Data,1.0
+464,Decomposition / Structural Approaches,Linked Administrative Data,1.0
+465,Regression‐based Measures,Linked Administrative Data,1.0
+466,Transition Matrix / Probability Measures,Linked Administrative Data,1.0
+467,Rank‐based Measures,Linked Administrative Data,1.0
+468,Intergenerational Wealth Mobility and Inheritance,Linked Administrative Data,1.0
+469,Theoretical and Structural Models,Linked Administrative Data,1.0
+470,Empirical Estimates and Determinants,Linked Administrative Data,1.0
+471,Measurement and Methodological Advances,Linked Administrative Data,1.0
+472,"Policy, Institutional, and Geographic Impacts",Linked Administrative Data,1.0
+473,"Demographic Differences in Mobility (Race, Gender, etc.)",Linked Administrative Data,1.0
+474,Absolute Mobility Measures,National Survey Data,1.0
+475,Decomposition / Structural Approaches,National Survey Data,1.0
+476,Regression‐based Measures,National Survey Data,1.0
+477,Transition Matrix / Probability Measures,National Survey Data,1.0
+478,Others_Measure,National Survey Data,1.0
+479,Rank‐based Measures,National Survey Data,1.0
+480,Intergenerational Wealth Mobility and Inheritance,National Survey Data,1.0
+481,Empirical Estimates and Determinants,National Survey Data,1.0
+482,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",National Survey Data,1.0
+483,Perceptions of Mobility and Attitudes,National Survey Data,1.0
+484,Regression‐based Measures,International Panel Data,1.0
+485,Rank‐based Measures,International Panel Data,1.0
+486,Empirical Estimates and Determinants,International Panel Data,1.0
+487,Measurement and Methodological Advances,International Panel Data,1.0
+488,Absolute Mobility Measures,Intergenerational Wealth Mobility and Inheritance,1.0
+489,Decomposition / Structural Approaches,Intergenerational Wealth Mobility and Inheritance,1.0
+490,Regression‐based Measures,Intergenerational Wealth Mobility and Inheritance,1.0
+491,Transition Matrix / Probability Measures,Intergenerational Wealth Mobility and Inheritance,1.0
+492,Others_Measure,Intergenerational Wealth Mobility and Inheritance,1.0
+493,Multigenerational Measures,Intergenerational Wealth Mobility and Inheritance,1.0
+494,Non‐parametric Approaches,Intergenerational Wealth Mobility and Inheritance,1.0
+495,Rank‐based Measures,Intergenerational Wealth Mobility and Inheritance,1.0
+496,Archival/Historical Data,Intergenerational Wealth Mobility and Inheritance,1.0
+497,No dataset,Intergenerational Wealth Mobility and Inheritance,1.0
+498,Administrative/Registry Data,Intergenerational Wealth Mobility and Inheritance,1.0
+499,Others_DataType,Intergenerational Wealth Mobility and Inheritance,1.0
+500,Panel/Longitudinal Surveys,Intergenerational Wealth Mobility and Inheritance,1.0
+501,Linked Administrative Data,Intergenerational Wealth Mobility and Inheritance,1.0
+502,National Survey Data,Intergenerational Wealth Mobility and Inheritance,1.0
+503,Decomposition / Structural Approaches,Theoretical and Structural Models,1.0
+504,Regression‐based Measures,Theoretical and Structural Models,1.0
+505,Transition Matrix / Probability Measures,Theoretical and Structural Models,1.0
+506,Others_Measure,Theoretical and Structural Models,1.0
+507,No dataset,Theoretical and Structural Models,1.0
+508,Linked Administrative Data,Theoretical and Structural Models,1.0
+509,Absolute Mobility Measures,Empirical Estimates and Determinants,1.0
+510,Decomposition / Structural Approaches,Empirical Estimates and Determinants,1.0
+511,Regression‐based Measures,Empirical Estimates and Determinants,1.0
+512,Transition Matrix / Probability Measures,Empirical Estimates and Determinants,1.0
+513,Others_Measure,Empirical Estimates and Determinants,1.0
+514,Rank‐based Measures,Empirical Estimates and Determinants,1.0
+515,Archival/Historical Data,Empirical Estimates and Determinants,1.0
+516,No dataset,Empirical Estimates and Determinants,1.0
+517,Administrative/Registry Data,Empirical Estimates and Determinants,1.0
+518,Others_DataType,Empirical Estimates and Determinants,1.0
+519,Panel/Longitudinal Surveys,Empirical Estimates and Determinants,1.0
+520,Linked Administrative Data,Empirical Estimates and Determinants,1.0
+521,National Survey Data,Empirical Estimates and Determinants,1.0
+522,International Panel Data,Empirical Estimates and Determinants,1.0
+523,University/Institution Data,Empirical Estimates and Determinants,1.0
+524,Absolute Mobility Measures,Measurement and Methodological Advances,1.0
+525,Regression‐based Measures,Measurement and Methodological Advances,1.0
+526,Transition Matrix / Probability Measures,Measurement and Methodological Advances,1.0
+527,Others_Measure,Measurement and Methodological Advances,1.0
+528,Non‐parametric Approaches,Measurement and Methodological Advances,1.0
+529,Rank‐based Measures,Measurement and Methodological Advances,1.0
+530,No dataset,Measurement and Methodological Advances,1.0
+531,Administrative/Registry Data,Measurement and Methodological Advances,1.0
+532,Panel/Longitudinal Surveys,Measurement and Methodological Advances,1.0
+533,Linked Administrative Data,Measurement and Methodological Advances,1.0
+534,International Panel Data,Measurement and Methodological Advances,1.0
+535,Absolute Mobility Measures,"Policy, Institutional, and Geographic Impacts",1.0
+536,Decomposition / Structural Approaches,"Policy, Institutional, and Geographic Impacts",1.0
+537,Regression‐based Measures,"Policy, Institutional, and Geographic Impacts",1.0
+538,Others_Measure,"Policy, Institutional, and Geographic Impacts",1.0
+539,Multigenerational Measures,"Policy, Institutional, and Geographic Impacts",1.0
+540,Archival/Historical Data,"Policy, Institutional, and Geographic Impacts",1.0
+541,No dataset,"Policy, Institutional, and Geographic Impacts",1.0
+542,Administrative/Registry Data,"Policy, Institutional, and Geographic Impacts",1.0
+543,Panel/Longitudinal Surveys,"Policy, Institutional, and Geographic Impacts",1.0
+544,Linked Administrative Data,"Policy, Institutional, and Geographic Impacts",1.0
+545,Natural/Experimental Data,"Policy, Institutional, and Geographic Impacts",1.0
+546,Opportunity Atlas,"Policy, Institutional, and Geographic Impacts",1.0
+547,Regression‐based Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",1.0
+548,Transition Matrix / Probability Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",1.0
+549,Rank‐based Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",1.0
+550,Administrative/Registry Data,"Demographic Differences in Mobility (Race, Gender, etc.)",1.0
+551,Panel/Longitudinal Surveys,"Demographic Differences in Mobility (Race, Gender, etc.)",1.0
+552,Linked Administrative Data,"Demographic Differences in Mobility (Race, Gender, etc.)",1.0
+553,Absolute Mobility Measures,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1.0
+554,Regression‐based Measures,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1.0
+555,Others_Measure,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1.0
+556,No dataset,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1.0
+557,Panel/Longitudinal Surveys,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1.0
+558,National Survey Data,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",1.0
+559,Decomposition / Structural Approaches,Natural/Experimental Data,1.0
+560,Regression‐based Measures,Natural/Experimental Data,1.0
+561,Others_Measure,Natural/Experimental Data,1.0
+562,"Policy, Institutional, and Geographic Impacts",Natural/Experimental Data,1.0
+563,Perceptions of Mobility and Attitudes,Natural/Experimental Data,1.0
+564,Absolute Mobility Measures,Opportunity Atlas,1.0
+565,"Policy, Institutional, and Geographic Impacts",Opportunity Atlas,1.0
+566,Absolute Mobility Measures,Perceptions of Mobility and Attitudes,1.0
+567,Others_Measure,Perceptions of Mobility and Attitudes,1.0
+568,Rank‐based Measures,Perceptions of Mobility and Attitudes,1.0
+569,National Survey Data,Perceptions of Mobility and Attitudes,1.0
+570,Natural/Experimental Data,Perceptions of Mobility and Attitudes,1.0
+571,Transition Matrix / Probability Measures,University/Institution Data,1.0
+572,Others_Measure,University/Institution Data,1.0
+573,Empirical Estimates and Determinants,University/Institution Data,1.0
+574,No dataset,Absolute Mobility Measures,1.0
+575,Administrative/Registry Data,Absolute Mobility Measures,1.0
+576,Others_DataType,Absolute Mobility Measures,1.0
+577,Panel/Longitudinal Surveys,Absolute Mobility Measures,1.0
+578,Linked Administrative Data,Absolute Mobility Measures,1.0
+579,National Survey Data,Absolute Mobility Measures,1.0
+580,Intergenerational Wealth Mobility and Inheritance,Absolute Mobility Measures,1.0
+581,Empirical Estimates and Determinants,Absolute Mobility Measures,1.0
+582,Measurement and Methodological Advances,Absolute Mobility Measures,1.0
+583,"Policy, Institutional, and Geographic Impacts",Absolute Mobility Measures,1.0
+584,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Absolute Mobility Measures,1.0
+585,Opportunity Atlas,Absolute Mobility Measures,1.0
+586,Perceptions of Mobility and Attitudes,Absolute Mobility Measures,1.0
+587,No dataset,Decomposition / Structural Approaches,1.0
+588,Administrative/Registry Data,Decomposition / Structural Approaches,1.0
+589,Others_DataType,Decomposition / Structural Approaches,1.0
+590,Panel/Longitudinal Surveys,Decomposition / Structural Approaches,1.0
+591,Linked Administrative Data,Decomposition / Structural Approaches,1.0
+592,National Survey Data,Decomposition / Structural Approaches,1.0
+593,Intergenerational Wealth Mobility and Inheritance,Decomposition / Structural Approaches,1.0
+594,Theoretical and Structural Models,Decomposition / Structural Approaches,1.0
+595,Empirical Estimates and Determinants,Decomposition / Structural Approaches,1.0
+596,"Policy, Institutional, and Geographic Impacts",Decomposition / Structural Approaches,1.0
+597,Natural/Experimental Data,Decomposition / Structural Approaches,1.0
+598,Archival/Historical Data,Regression‐based Measures,1.0
+599,No dataset,Regression‐based Measures,1.0
+600,Administrative/Registry Data,Regression‐based Measures,1.0
+601,Others_DataType,Regression‐based Measures,1.0
+602,Panel/Longitudinal Surveys,Regression‐based Measures,1.0
+603,Linked Administrative Data,Regression‐based Measures,1.0
+604,National Survey Data,Regression‐based Measures,1.0
+605,International Panel Data,Regression‐based Measures,1.0
+606,Intergenerational Wealth Mobility and Inheritance,Regression‐based Measures,1.0
+607,Theoretical and Structural Models,Regression‐based Measures,1.0
+608,Empirical Estimates and Determinants,Regression‐based Measures,1.0
+609,Measurement and Methodological Advances,Regression‐based Measures,1.0
+610,"Policy, Institutional, and Geographic Impacts",Regression‐based Measures,1.0
+611,"Demographic Differences in Mobility (Race, Gender, etc.)",Regression‐based Measures,1.0
+612,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Regression‐based Measures,1.0
+613,Natural/Experimental Data,Regression‐based Measures,1.0
+614,No dataset,Transition Matrix / Probability Measures,1.0
+615,Panel/Longitudinal Surveys,Transition Matrix / Probability Measures,1.0
+616,Linked Administrative Data,Transition Matrix / Probability Measures,1.0
+617,National Survey Data,Transition Matrix / Probability Measures,1.0
+618,Intergenerational Wealth Mobility and Inheritance,Transition Matrix / Probability Measures,1.0
+619,Theoretical and Structural Models,Transition Matrix / Probability Measures,1.0
+620,Empirical Estimates and Determinants,Transition Matrix / Probability Measures,1.0
+621,Measurement and Methodological Advances,Transition Matrix / Probability Measures,1.0
+622,"Demographic Differences in Mobility (Race, Gender, etc.)",Transition Matrix / Probability Measures,1.0
+623,University/Institution Data,Transition Matrix / Probability Measures,1.0
+624,No dataset,Others_Measure,1.0
+625,Administrative/Registry Data,Others_Measure,1.0
+626,Others_DataType,Others_Measure,1.0
+627,Panel/Longitudinal Surveys,Others_Measure,1.0
+628,National Survey Data,Others_Measure,1.0
+629,Intergenerational Wealth Mobility and Inheritance,Others_Measure,1.0
+630,Theoretical and Structural Models,Others_Measure,1.0
+631,Empirical Estimates and Determinants,Others_Measure,1.0
+632,Measurement and Methodological Advances,Others_Measure,1.0
+633,"Policy, Institutional, and Geographic Impacts",Others_Measure,1.0
+634,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",Others_Measure,1.0
+635,Natural/Experimental Data,Others_Measure,1.0
+636,Perceptions of Mobility and Attitudes,Others_Measure,1.0
+637,University/Institution Data,Others_Measure,1.0
+638,Archival/Historical Data,Multigenerational Measures,1.0
+639,Intergenerational Wealth Mobility and Inheritance,Multigenerational Measures,1.0
+640,"Policy, Institutional, and Geographic Impacts",Multigenerational Measures,1.0
+641,No dataset,Non‐parametric Approaches,1.0
+642,Others_DataType,Non‐parametric Approaches,1.0
+643,Panel/Longitudinal Surveys,Non‐parametric Approaches,1.0
+644,Intergenerational Wealth Mobility and Inheritance,Non‐parametric Approaches,1.0
+645,Measurement and Methodological Advances,Non‐parametric Approaches,1.0
+646,Administrative/Registry Data,Rank‐based Measures,1.0
+647,Panel/Longitudinal Surveys,Rank‐based Measures,1.0
+648,Linked Administrative Data,Rank‐based Measures,1.0
+649,National Survey Data,Rank‐based Measures,1.0
+650,International Panel Data,Rank‐based Measures,1.0
+651,Intergenerational Wealth Mobility and Inheritance,Rank‐based Measures,1.0
+652,Empirical Estimates and Determinants,Rank‐based Measures,1.0
+653,Measurement and Methodological Advances,Rank‐based Measures,1.0
+654,"Demographic Differences in Mobility (Race, Gender, etc.)",Rank‐based Measures,1.0
+655,Perceptions of Mobility and Attitudes,Rank‐based Measures,1.0
+656,Regression‐based Measures,Archival/Historical Data,1.0
+657,Multigenerational Measures,Archival/Historical Data,1.0
+658,Intergenerational Wealth Mobility and Inheritance,Archival/Historical Data,1.0
+659,Empirical Estimates and Determinants,Archival/Historical Data,1.0
+660,"Policy, Institutional, and Geographic Impacts",Archival/Historical Data,1.0
+661,Absolute Mobility Measures,No dataset,1.0
+662,Decomposition / Structural Approaches,No dataset,1.0
+663,Regression‐based Measures,No dataset,1.0
+664,Transition Matrix / Probability Measures,No dataset,1.0
+665,Others_Measure,No dataset,1.0
+666,Non‐parametric Approaches,No dataset,1.0
+667,Intergenerational Wealth Mobility and Inheritance,No dataset,1.0
+668,Theoretical and Structural Models,No dataset,1.0
+669,Empirical Estimates and Determinants,No dataset,1.0
+670,Measurement and Methodological Advances,No dataset,1.0
+671,"Policy, Institutional, and Geographic Impacts",No dataset,1.0
+672,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",No dataset,1.0
+673,Absolute Mobility Measures,Administrative/Registry Data,1.0
+674,Decomposition / Structural Approaches,Administrative/Registry Data,1.0
+675,Regression‐based Measures,Administrative/Registry Data,1.0
+676,Others_Measure,Administrative/Registry Data,1.0
+677,Rank‐based Measures,Administrative/Registry Data,1.0
+678,Intergenerational Wealth Mobility and Inheritance,Administrative/Registry Data,1.0
+679,Empirical Estimates and Determinants,Administrative/Registry Data,1.0
+680,Measurement and Methodological Advances,Administrative/Registry Data,1.0
+681,"Policy, Institutional, and Geographic Impacts",Administrative/Registry Data,1.0
+682,"Demographic Differences in Mobility (Race, Gender, etc.)",Administrative/Registry Data,1.0
+683,Absolute Mobility Measures,Others_DataType,1.0
+684,Decomposition / Structural Approaches,Others_DataType,1.0
+685,Regression‐based Measures,Others_DataType,1.0
+686,Others_Measure,Others_DataType,1.0
+687,Non‐parametric Approaches,Others_DataType,1.0
+688,Intergenerational Wealth Mobility and Inheritance,Others_DataType,1.0
+689,Empirical Estimates and Determinants,Others_DataType,1.0
+690,Absolute Mobility Measures,Panel/Longitudinal Surveys,1.0
+691,Decomposition / Structural Approaches,Panel/Longitudinal Surveys,1.0
+692,Regression‐based Measures,Panel/Longitudinal Surveys,1.0
+693,Transition Matrix / Probability Measures,Panel/Longitudinal Surveys,1.0
+694,Others_Measure,Panel/Longitudinal Surveys,1.0
+695,Non‐parametric Approaches,Panel/Longitudinal Surveys,1.0
+696,Rank‐based Measures,Panel/Longitudinal Surveys,1.0
+697,Intergenerational Wealth Mobility and Inheritance,Panel/Longitudinal Surveys,1.0
+698,Empirical Estimates and Determinants,Panel/Longitudinal Surveys,1.0
+699,Measurement and Methodological Advances,Panel/Longitudinal Surveys,1.0
+700,"Policy, Institutional, and Geographic Impacts",Panel/Longitudinal Surveys,1.0
+701,"Demographic Differences in Mobility (Race, Gender, etc.)",Panel/Longitudinal Surveys,1.0

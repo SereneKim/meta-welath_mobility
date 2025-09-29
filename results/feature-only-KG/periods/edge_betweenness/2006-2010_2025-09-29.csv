@@ -1,0 +1,65 @@
+,u,v,edge_betweenness,edge_betweenness_weighted
+0,Absolute Mobility Measures,Intergenerational Wealth Mobility and Inheritance,0.022605363984674335,0.05057471264367816
+1,Absolute Mobility Measures,No dataset,0.0137383689107827,0.0
+2,Absolute Mobility Measures,Panel/Longitudinal Surveys,0.014887794198139022,0.0
+3,Administrative/Registry Data,Empirical Estimates and Determinants,0.01064959944270289,0.0
+4,Administrative/Registry Data,Intergenerational Wealth Mobility and Inheritance,0.01703529548357135,0.0
+5,Administrative/Registry Data,Measurement and Methodological Advances,0.009220945083014048,0.0
+6,Archival/Historical Data,Intergenerational Wealth Mobility and Inheritance,0.0242911877394636,0.04827586206896552
+7,Decomposition / Structural Approaches,Intergenerational Wealth Mobility and Inheritance,0.02793103448275862,0.0
+8,Decomposition / Structural Approaches,No dataset,0.01143951833607006,0.04827586206896552
+9,Decomposition / Structural Approaches,Panel/Longitudinal Surveys,0.02063492063492063,0.0
+10,Decomposition / Structural Approaches,Theoretical and Structural Models,0.013371647509578543,0.0022988505747126436
+11,International Panel Data,Empirical Estimates and Determinants,0.014002089864158832,0.0
+12,International Panel Data,Intergenerational Wealth Mobility and Inheritance,0.020323928944618597,0.0
+13,Linked Administrative Data,Empirical Estimates and Determinants,0.00939070508036025,0.0
+14,Linked Administrative Data,Intergenerational Wealth Mobility and Inheritance,0.020910500738086944,0.013793103448275862
+15,Linked Administrative Data,Measurement and Methodological Advances,0.01217661010764459,0.0
+16,Multigenerational Measures,Archival/Historical Data,0.005445257169395099,0.0022988505747126436
+17,Multigenerational Measures,Intergenerational Wealth Mobility and Inheritance,0.04512945547428305,0.04827586206896552
+18,National Survey Data,Empirical Estimates and Determinants,0.01132009752699408,0.004597701149425287
+19,National Survey Data,Intergenerational Wealth Mobility and Inheritance,0.017526994078718217,0.0
+20,No dataset,"Demographic Differences in Mobility (Race, Gender, etc.)",0.029704433497536945,0.04597701149425287
+21,No dataset,Empirical Estimates and Determinants,0.01977384684281236,0.0
+22,No dataset,Intergenerational Wealth Mobility and Inheritance,0.01964613292199499,0.0
+23,No dataset,Measurement and Methodological Advances,0.02010764459040321,0.0
+24,No dataset,Theoretical and Structural Models,0.037203065134099614,0.04827586206896552
+25,Non‐parametric Approaches,Measurement and Methodological Advances,0.03061302681992337,0.047126436781609195
+26,Non‐parametric Approaches,Others_DataType,0.019961685823754786,0.0034482758620689655
+27,Others_DataType,Empirical Estimates and Determinants,0.014749216300940438,0.004597701149425287
+28,Others_DataType,Intergenerational Wealth Mobility and Inheritance,0.024966329966329966,0.011494252873563218
+29,Others_DataType,Measurement and Methodological Advances,0.006922094508301405,0.0022988505747126436
+30,Others_Measure,Administrative/Registry Data,0.004782886334610472,0.0022988505747126436
+31,Others_Measure,Empirical Estimates and Determinants,0.01113491234180889,0.0
+32,Others_Measure,Intergenerational Wealth Mobility and Inheritance,0.015988041332868918,0.041379310344827586
+33,Others_Measure,Measurement and Methodological Advances,0.0077905491698595135,0.0034482758620689655
+34,Others_Measure,No dataset,0.01292464878671775,0.0
+35,Others_Measure,Others_DataType,0.005932311621966794,0.0034482758620689655
+36,Panel/Longitudinal Surveys,Empirical Estimates and Determinants,0.012178517523345108,0.0
+37,Panel/Longitudinal Surveys,Intergenerational Wealth Mobility and Inheritance,0.017874558391799772,0.011494252873563218
+38,Panel/Longitudinal Surveys,Measurement and Methodological Advances,0.018221127531472356,0.0
+39,Panel/Longitudinal Surveys,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.020689655172413793,0.005747126436781609
+40,Panel/Longitudinal Surveys,"Policy, Institutional, and Geographic Impacts",0.020689655172413793,0.005747126436781609
+41,Rank‐based Measures,Empirical Estimates and Determinants,0.021915708812260536,0.05057471264367816
+42,Rank‐based Measures,Linked Administrative Data,0.008659003831417624,0.0
+43,Rank‐based Measures,Panel/Longitudinal Surveys,0.020919540229885056,0.0
+44,Regression‐based Measures,Administrative/Registry Data,0.013212005108556834,0.04827586206896552
+45,Regression‐based Measures,Archival/Historical Data,0.027131080924184363,0.0
+46,Regression‐based Measures,Empirical Estimates and Determinants,0.010334958783234644,0.08735632183908046
+47,Regression‐based Measures,Intergenerational Wealth Mobility and Inheritance,0.011071055381400208,0.17701149425287355
+48,Regression‐based Measures,International Panel Data,0.017126436781609192,0.05057471264367816
+49,Regression‐based Measures,Linked Administrative Data,0.013776683087027916,0.0367816091954023
+50,Regression‐based Measures,Measurement and Methodological Advances,0.01719029374201788,0.08735632183908046
+51,Regression‐based Measures,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.029885057471264367,0.04482758620689655
+52,Regression‐based Measures,National Survey Data,0.01517241379310345,0.041379310344827586
+53,Regression‐based Measures,No dataset,0.028370735267286992,0.17011494252873563
+54,Regression‐based Measures,Others_DataType,0.01769476372924649,0.027586206896551724
+55,Regression‐based Measures,Panel/Longitudinal Surveys,0.00986863711001642,0.03218390804597701
+56,Regression‐based Measures,"Policy, Institutional, and Geographic Impacts",0.029885057471264367,0.04482758620689655
+57,Transition Matrix / Probability Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",0.020870279146141216,0.004597701149425287
+58,Transition Matrix / Probability Measures,Empirical Estimates and Determinants,0.011859232721301684,0.0
+59,Transition Matrix / Probability Measures,Intergenerational Wealth Mobility and Inheritance,0.01824492876217014,0.03908045977011494
+60,Transition Matrix / Probability Measures,Measurement and Methodological Advances,0.013495712461229702,0.0
+61,Transition Matrix / Probability Measures,National Survey Data,0.008199233716475096,0.004597701149425287
+62,Transition Matrix / Probability Measures,No dataset,0.008451012588943626,0.0
+63,Transition Matrix / Probability Measures,Panel/Longitudinal Surveys,0.016228790366721403,0.006896551724137931
