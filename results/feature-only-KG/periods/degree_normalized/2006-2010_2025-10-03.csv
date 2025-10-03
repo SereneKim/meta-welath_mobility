@@ -1,0 +1,24 @@
+node,kind,degree,triplets,normalized_degree
+Absolute Mobility Measures,Measure,3,2,0.75
+Decomposition / Structural Approaches,Measure,4,3,0.6666666666666666
+Regression‐based Measures,Measure,13,22,0.29545454545454547
+Transition Matrix / Probability Measures,Measure,7,9,0.3888888888888889
+Others_Measure,Measure,6,9,0.3333333333333333
+Multigenerational Measures,Measure,2,1,1.0
+Rank‐based Measures,Measure,3,2,0.75
+Non‐parametric Approaches,Measure,2,1,1.0
+No dataset,DataType,10,13,0.38461538461538464
+Panel/Longitudinal Surveys,DataType,10,11,0.45454545454545453
+Archival/Historical Data,DataType,3,2,0.75
+Administrative/Registry Data,DataType,5,6,0.4166666666666667
+Others_DataType,DataType,6,7,0.42857142857142855
+Linked Administrative Data,DataType,5,4,0.625
+National Survey Data,DataType,4,4,0.5
+International Panel Data,DataType,3,2,0.75
+Intergenerational Wealth Mobility and Inheritance,RqType,14,19,0.3684210526315789
+Theoretical and Structural Models,RqType,2,1,1.0
+Empirical Estimates and Determinants,RqType,11,15,0.36666666666666664
+Measurement and Methodological Advances,RqType,9,11,0.4090909090909091
+"Policy, Institutional, and Geographic Impacts",RqType,2,1,1.0
+"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",RqType,2,1,1.0
+"Demographic Differences in Mobility (Race, Gender, etc.)",RqType,2,1,1.0
