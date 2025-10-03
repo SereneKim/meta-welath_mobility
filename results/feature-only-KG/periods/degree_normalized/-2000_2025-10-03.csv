@@ -1,0 +1,17 @@
+node,kind,degree,triplets,normalized_degree
+Absolute Mobility Measures,Measure,3,2,0.75
+Decomposition / Structural Approaches,Measure,5,4,0.625
+Regression‐based Measures,Measure,6,6,0.5
+Transition Matrix / Probability Measures,Measure,4,3,0.6666666666666666
+Others_Measure,Measure,3,2,0.75
+Archival/Historical Data,DataType,2,1,1.0
+Others_DataType,DataType,2,1,1.0
+No dataset,DataType,9,8,0.5625
+Administrative/Registry Data,DataType,4,3,0.6666666666666666
+Panel/Longitudinal Surveys,DataType,4,3,0.6666666666666666
+Linked Administrative Data,DataType,2,1,1.0
+Intergenerational Wealth Mobility and Inheritance,RqType,10,11,0.45454545454545453
+Theoretical and Structural Models,RqType,3,2,0.75
+"Policy, Institutional, and Geographic Impacts",RqType,2,1,1.0
+Empirical Estimates and Determinants,RqType,3,2,0.75
+Measurement and Methodological Advances,RqType,2,1,1.0
