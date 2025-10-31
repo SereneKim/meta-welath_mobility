@@ -2,6 +2,17 @@ import plotly.graph_objects as go
 import networkx as nx
 import math
 import numpy as np
+import pandas as pd
+import re
+import unicodedata
+
+def norm(s):
+    if pd.isna(s): return s
+    s = unicodedata.normalize("NFKC", str(s))
+    s = re.sub(r"[\u2010\u2011\u2012\u2013\u2014\u2212]", "-", s)  # dash variants → "-"
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
 
 def scale_weight(w, min_w, max_w, min_thick=1, max_thick=8):
     if max_w == min_w:
