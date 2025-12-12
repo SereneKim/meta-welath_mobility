@@ -1,0 +1,104 @@
+u,v,edge_betweenness,edge_betweenness_weighted
+Absolute Mobility Measures,Administrative/Registry Data,0.010404615960171514,0.0
+Absolute Mobility Measures,Empirical Estimates and Determinants,0.02307692307692307,0.0
+Absolute Mobility Measures,Intergenerational Wealth Mobility and Inheritance,0.017853751187084523,0.05698005698005698
+Absolute Mobility Measures,Measurement and Methodological Advances,0.005460588793922127,0.002849002849002849
+Absolute Mobility Measures,No dataset,0.010264324153213041,0.008547008547008548
+Absolute Mobility Measures,Panel/Longitudinal Surveys,0.011156436156436156,0.005698005698005698
+Administrative/Registry Data,"Demographic Differences in Mobility (Race, Gender, etc.)",0.01550828800828801,0.002849002849002849
+Administrative/Registry Data,Empirical Estimates and Determinants,0.0124139543583988,0.0
+Administrative/Registry Data,Intergenerational Wealth Mobility and Inheritance,0.012888788166565943,0.017094017094017096
+Administrative/Registry Data,Measurement and Methodological Advances,0.01159170048058937,0.0
+Administrative/Registry Data,"Policy, Institutional, and Geographic Impacts",0.011444502000057555,0.0
+Archival/Historical Data,Empirical Estimates and Determinants,0.027991452991452986,0.0
+Archival/Historical Data,Intergenerational Wealth Mobility and Inheritance,0.01955128205128205,0.0
+Decomposition / Structural Approaches,Administrative/Registry Data,0.014033055003391855,0.0
+Decomposition / Structural Approaches,Empirical Estimates and Determinants,0.02489539304521708,0.05982905982905983
+Decomposition / Structural Approaches,Intergenerational Wealth Mobility and Inheritance,0.018270064851261432,0.0
+Decomposition / Structural Approaches,Measurement and Methodological Advances,0.012351157863978375,0.0
+Decomposition / Structural Approaches,National Survey Data,0.009012397858551706,0.0
+Decomposition / Structural Approaches,No dataset,0.00940153546991154,0.014245014245014245
+Decomposition / Structural Approaches,Others_DataType,0.011319411832232345,0.005698005698005698
+Decomposition / Structural Approaches,Panel/Longitudinal Surveys,0.01670795212273342,0.0
+Decomposition / Structural Approaches,Perceptions of Mobility and Attitudes,0.03812915479582146,0.011396011396011397
+Decomposition / Structural Approaches,"Policy, Institutional, and Geographic Impacts",0.009214819684905158,0.0
+Decomposition / Structural Approaches,Theoretical and Structural Models,0.015610425829128695,0.0
+International Panel Data,Empirical Estimates and Determinants,0.022883350007533016,0.0
+International Panel Data,Intergenerational Wealth Mobility and Inheritance,0.020009208898097788,0.0
+International Panel Data,"Policy, Institutional, and Geographic Impacts",0.010319721430832542,0.0
+International Panel Data,Theoretical and Structural Models,0.008902372137666256,0.0
+Linked Administrative Data,"Demographic Differences in Mobility (Race, Gender, etc.)",0.014877560710894046,0.0
+Linked Administrative Data,Empirical Estimates and Determinants,0.017284115852491923,0.0
+Linked Administrative Data,Intergenerational Wealth Mobility and Inheritance,0.018471200372909776,0.011396011396011397
+Linked Administrative Data,Others_RqType,0.023449484987946526,0.008547008547008548
+Linked Administrative Data,"Policy, Institutional, and Geographic Impacts",0.013489402335556181,0.0
+Multigenerational Measures,Archival/Historical Data,0.009389838556505223,0.0
+Multigenerational Measures,Intergenerational Wealth Mobility and Inheritance,0.038461538461538464,0.07407407407407408
+Multigenerational Measures,Panel/Longitudinal Surveys,0.028003323836657174,0.0
+National Survey Data,"Demographic Differences in Mobility (Race, Gender, etc.)",0.017076267354045133,0.0
+National Survey Data,Empirical Estimates and Determinants,0.02295177045177045,0.0
+National Survey Data,Intergenerational Wealth Mobility and Inheritance,0.019532967032967034,0.0
+National Survey Data,Perceptions of Mobility and Attitudes,0.035944919278252614,0.06267806267806268
+National Survey Data,"Policy, Institutional, and Geographic Impacts",0.010420114864559309,0.0
+Natural/Experimental Data,Empirical Estimates and Determinants,0.038936372269705616,0.01566951566951567
+No dataset,Empirical Estimates and Determinants,0.015985823665562227,0.0
+No dataset,Intergenerational Wealth Mobility and Inheritance,0.013254132698577142,0.0
+No dataset,Measurement and Methodological Advances,0.008364988920544476,0.0
+No dataset,"Policy, Institutional, and Geographic Impacts",0.009452584452584454,0.0
+No dataset,Theoretical and Structural Models,0.00959088115950861,0.07407407407407408
+Non‐parametric Approaches,Administrative/Registry Data,0.011729833952056175,0.0
+Non‐parametric Approaches,Empirical Estimates and Determinants,0.022999222999223,0.0
+Non‐parametric Approaches,Intergenerational Wealth Mobility and Inheritance,0.018013468013468016,0.07407407407407408
+Non‐parametric Approaches,Linked Administrative Data,0.011222625111514,0.0
+Non‐parametric Approaches,Panel/Longitudinal Surveys,0.012352154018820687,0.0
+Opportunity Atlas,Empirical Estimates and Determinants,0.038936372269705616,0.01566951566951567
+Others_DataType,Empirical Estimates and Determinants,0.018949034504590064,0.00925925925925926
+Others_DataType,Intergenerational Wealth Mobility and Inheritance,0.015986071541627095,0.01638176638176638
+Others_DataType,"Policy, Institutional, and Geographic Impacts",0.007784108895220006,0.002849002849002849
+Others_Measure,Administrative/Registry Data,0.01275559710200233,0.0
+Others_Measure,Empirical Estimates and Determinants,0.01681226060311028,0.06267806267806268
+Others_Measure,Intergenerational Wealth Mobility and Inheritance,0.013130902019790907,0.0
+Others_Measure,Linked Administrative Data,0.013887284344800684,0.0
+Others_Measure,National Survey Data,0.012449464116130784,0.0
+Others_Measure,No dataset,0.009071586849364627,0.005698005698005698
+Others_Measure,Others_DataType,0.008140460362682586,0.0035612535612535613
+Others_Measure,Pseudo-Panel/Household Budget Survey,0.009100981323203547,0.0035612535612535613
+Others_Measure,Theoretical and Structural Models,0.011932898861003436,0.0
+Panel/Longitudinal Surveys,"Demographic Differences in Mobility (Race, Gender, etc.)",0.017403892403892406,0.06267806267806268
+Panel/Longitudinal Surveys,Empirical Estimates and Determinants,0.01662753912753913,0.0
+Panel/Longitudinal Surveys,Intergenerational Wealth Mobility and Inheritance,0.011689267522600858,0.019943019943019943
+Panel/Longitudinal Surveys,Measurement and Methodological Advances,0.013055771389104721,0.0
+Panel/Longitudinal Surveys,"Policy, Institutional, and Geographic Impacts",0.013948685059796174,0.0
+Pseudo-Panel/Household Budget Survey,Empirical Estimates and Determinants,0.02274453941120608,0.01210826210826211
+Pseudo-Panel/Household Budget Survey,Intergenerational Wealth Mobility and Inheritance,0.01973725862614752,0.01638176638176638
+Rank‐based Measures,Administrative/Registry Data,0.012831854661920017,0.002849002849002849
+Rank‐based Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",0.007218079064484293,0.005698005698005698
+Rank‐based Measures,Empirical Estimates and Determinants,0.03284234586522169,0.05982905982905983
+Rank‐based Measures,Linked Administrative Data,0.011716756978194888,0.005698005698005698
+Rank‐based Measures,Panel/Longitudinal Surveys,0.014603170975719997,0.0
+Regression‐based Measures,Administrative/Registry Data,0.01881813617736192,0.05128205128205129
+Regression‐based Measures,Archival/Historical Data,0.028822412155745488,0.07407407407407408
+Regression‐based Measures,Empirical Estimates and Determinants,0.00931649584238825,0.1851851851851852
+Regression‐based Measures,Intergenerational Wealth Mobility and Inheritance,0.017221082178347134,0.21082621082621084
+Regression‐based Measures,International Panel Data,0.01835232668566002,0.07407407407407408
+Regression‐based Measures,Linked Administrative Data,0.018406684697534374,0.05128205128205129
+Regression‐based Measures,Measurement and Methodological Advances,0.029445174957995465,0.07122507122507123
+Regression‐based Measures,National Survey Data,0.02744442879058264,0.13105413105413105
+Regression‐based Measures,Natural/Experimental Data,0.03513770180436847,0.05840455840455841
+Regression‐based Measures,No dataset,0.014815771439703064,0.11965811965811966
+Regression‐based Measures,Opportunity Atlas,0.03513770180436847,0.05840455840455841
+Regression‐based Measures,Others_DataType,0.017135899870942613,0.03632478632478633
+Regression‐based Measures,Others_RqType,0.05062458908612754,0.06552706552706553
+Regression‐based Measures,Panel/Longitudinal Surveys,0.022050397742956824,0.10541310541310542
+Regression‐based Measures,"Policy, Institutional, and Geographic Impacts",0.018088733045998003,0.07122507122507123
+Regression‐based Measures,Pseudo-Panel/Household Budget Survey,0.023504273504273504,0.04202279202279202
+Regression‐based Measures,Theoretical and Structural Models,0.02590389658011579,0.0
+Transition Matrix / Probability Measures,Administrative/Registry Data,0.009505575518647415,0.0
+Transition Matrix / Probability Measures,"Demographic Differences in Mobility (Race, Gender, etc.)",0.01222678435096736,0.008547008547008548
+Transition Matrix / Probability Measures,Empirical Estimates and Determinants,0.019248949428687993,0.0
+Transition Matrix / Probability Measures,Intergenerational Wealth Mobility and Inheritance,0.014048122659233773,0.06267806267806268
+Transition Matrix / Probability Measures,Linked Administrative Data,0.011256705047554723,0.008547008547008548
+Transition Matrix / Probability Measures,National Survey Data,0.010012210012210013,0.0
+Transition Matrix / Probability Measures,No dataset,0.010511916067471623,0.0
+Transition Matrix / Probability Measures,Panel/Longitudinal Surveys,0.011175407744035196,0.0
+Transition Matrix / Probability Measures,Theoretical and Structural Models,0.01428899713213439,0.0

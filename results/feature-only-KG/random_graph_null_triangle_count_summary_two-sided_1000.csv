@@ -1,0 +1,316 @@
+period,n1_type,n1_name,n2_type,n2_name,n3_type,n3_name,mean_null_triangle_count,obs_triangle_count,sd_null_triangle_count,z_triangle_count
+-2000,DataType,Administrative/Registry Data,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.665,1.0,0.823074998072747,0.4070102977060557
+-2000,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.644,2.0,0.7974333200336564,1.7004556568350675
+-2000,DataType,Administrative/Registry Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.678,1.0,0.8240115260085839,0.39077123297016314
+-2000,DataType,Archival/Historical Data,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.731,1.0,0.8563716321623297,0.31411596309043743
+-2000,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.662,2.0,0.8260983225006806,1.6196619258949019
+-2000,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.656,1.0,0.8150633891473278,0.4220530630873666
+-2000,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.644,1.0,0.8061723847378511,0.4415928984168356
+-2000,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Theoretical and Structural Models,0.62,4.0,0.8026482693211543,4.211059973827216
+-2000,DataType,No dataset,Measure,Others_Measure,RqType,Measurement and Methodological Advances,0.633,1.0,0.7777634061306278,0.47186586191528945
+-2000,DataType,No dataset,Measure,Others_Measure,RqType,Theoretical and Structural Models,0.636,1.0,0.8088004439651094,0.45004920894393385
+-2000,DataType,No dataset,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.643,2.0,0.82476131773455,1.645324496700937
+-2000,DataType,No dataset,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.632,1.0,0.8032566347197022,0.4581350269561287
+-2000,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.666,1.0,0.8019271083378384,0.4164967071537023
+-2000,DataType,Others_DataType,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.695,1.0,0.845393216018256,0.3607788591402816
+-2000,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.646,2.0,0.7995769652280657,1.693395456450893
+-2000,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.645,1.0,0.8183181805658755,0.43381658678842233
+2001-2005,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.589,1.0,0.7270540609938215,0.5652949650514265
+2001-2005,DataType,Archival/Historical Data,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.646,1.0,0.7844101601198822,0.45129451146565697
+2001-2005,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.684,2.0,0.8104324776320362,1.623824360846393
+2001-2005,DataType,National Survey Data,Measure,Multigenerational Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.649,1.0,0.8040183116356526,0.4365572212975399
+2001-2005,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.682,1.0,0.8243515970479803,0.38575772903062766
+2001-2005,DataType,National Survey Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.66,1.0,0.7880488696908468,0.4314453241121743
+2001-2005,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.639,1.0,0.8045659241642827,0.44868914921418934
+2001-2005,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Theoretical and Structural Models,0.665,1.0,0.8327475418567553,0.40228278459166544
+2001-2005,DataType,No dataset,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.673,1.0,0.829915513627598,0.3940160108234009
+2001-2005,DataType,No dataset,Measure,Others_Measure,RqType,Measurement and Methodological Advances,0.652,1.0,0.8158195643410138,0.42656491117751066
+2001-2005,DataType,No dataset,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.653,1.0,0.8069958130264631,0.4299898393507788
+2001-2005,DataType,No dataset,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.663,1.0,0.8037891994031003,0.4192641556396361
+2001-2005,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.645,1.0,0.8109455176722001,0.4377606044596178
+2001-2005,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.652,1.0,0.8059438848614372,0.43179184870895854
+2001-2005,DataType,Panel/Longitudinal Surveys,Measure,Non‐parametric Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.694,1.0,0.8573792037943883,0.3569015887553335
+2001-2005,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.648,2.0,0.8202248281835711,1.6483285479105423
+2001-2005,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.668,2.0,0.840525123052537,1.5847236013155352
+2001-2005,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.636,1.0,0.8013402187249471,0.45423902544062844
+2001-2005,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.644,1.0,0.8282209547880023,0.42983698727005093
+2001-2005,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.646,1.0,0.8045690345342227,0.43998710465527174
+2006-2010,DataType,Administrative/Registry Data,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.699,1.0,0.8325215265037248,0.3615522126666034
+2006-2010,DataType,Administrative/Registry Data,Measure,Others_Measure,RqType,Measurement and Methodological Advances,0.687,1.0,0.8220138117493566,0.3807721908393408
+2006-2010,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.645,2.0,0.821979714257384,1.6484591730152027
+2006-2010,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.665,2.0,0.8095865799470927,1.648989784498705
+2006-2010,DataType,Archival/Historical Data,Measure,Multigenerational Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.683,1.0,0.8241299595271308,0.38464807198841333
+2006-2010,DataType,Archival/Historical Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.645,1.0,0.8010097481408179,0.44319061138016363
+2006-2010,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.656,1.0,0.7721789043092671,0.44549261586952627
+2006-2010,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.649,1.0,0.8151462834752198,0.4305975591320601
+2006-2010,DataType,Linked Administrative Data,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.672,1.0,0.8106004398426349,0.4046383197912845
+2006-2010,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.647,1.0,0.8031413549531838,0.4395241233974022
+2006-2010,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.658,6.0,0.8122165325180815,6.577063856898378
+2006-2010,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.673,1.0,0.8238627007880316,0.3969107955575871
+2006-2010,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.665,4.0,0.8169715065058526,4.082149712006031
+2006-2010,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.692,3.0,0.7986073965183229,2.8900308337515455
+2006-2010,DataType,National Survey Data,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.633,1.0,0.8105356056139471,0.45278701818658873
+2006-2010,DataType,National Survey Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.647,2.0,0.8276932258246867,1.6346636142296738
+2006-2010,DataType,No dataset,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.631,1.0,0.8021735987194308,0.46000018024659756
+2006-2010,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.639,1.0,0.7818505549593799,0.46172506716293793
+2006-2010,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Theoretical and Structural Models,0.67,3.0,0.7960739499152913,2.9268637671763167
+2006-2010,DataType,No dataset,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.678,1.0,0.8093027684191937,0.3978733455082091
+2006-2010,DataType,No dataset,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.688,3.0,0.7920121736963917,2.919147049482446
+2006-2010,DataType,No dataset,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.687,1.0,0.8183524306194127,0.38247579928746545
+2006-2010,DataType,No dataset,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.667,1.0,0.8116463329368093,0.41027721864410327
+2006-2010,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.682,1.0,0.8009478868924729,0.3970295760861298
+2006-2010,DataType,Others_DataType,Measure,Non‐parametric Approaches,RqType,Measurement and Methodological Advances,0.657,1.0,0.8148711646726832,0.4209254356641469
+2006-2010,DataType,Others_DataType,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.643,1.0,0.7824085653692471,0.4562833483699385
+2006-2010,DataType,Others_DataType,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.666,1.0,0.8265150495466657,0.40410637432820523
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.646,1.0,0.8008278999418821,0.44204254125722964
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.647,1.0,0.8130510759183902,0.43416706582826325
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.616,1.0,0.7830435218793124,0.4903941981135303
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.69,5.0,0.8417889335270503,5.12004830229988
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.687,8.0,0.8519135852636444,8.584203992634796
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.667,1.0,0.7979647534495167,0.4173116651587384
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.697,1.0,0.8135433933434975,0.3724447921022772
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.658,1.0,0.7985447224004888,0.4282790811914965
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.656,1.0,0.8113706442325371,0.4239739291102702
+2006-2010,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Measurement and Methodological Advances,0.681,1.0,0.8508601312571668,0.37491473425681565
+2011-2015,DataType,Administrative/Registry Data,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.705,1.0,0.8310629733453812,0.3549670836765833
+2011-2015,DataType,Administrative/Registry Data,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.701,2.0,0.8186997430494706,1.5866622788490443
+2011-2015,DataType,Administrative/Registry Data,Measure,Non‐parametric Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.682,1.0,0.792151187276459,0.4014385197014401
+2011-2015,DataType,Administrative/Registry Data,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.649,1.0,0.8175985980097247,0.4293060199154416
+2011-2015,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.643,2.0,0.8088295279014023,1.6777330119498564
+2011-2015,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.67,1.0,0.8244875861890099,0.40024859746566155
+2011-2015,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.681,2.0,0.8473234075351376,1.5566665434594436
+2011-2015,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.676,1.0,0.8085033566273413,0.400740451284656
+2011-2015,DataType,Administrative/Registry Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.687,1.0,0.8341023478726856,0.37525370932989527
+2011-2015,DataType,Archival/Historical Data,Measure,Multigenerational Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.64,1.0,0.8167417382912833,0.4407758084620005
+2011-2015,DataType,Archival/Historical Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.675,2.0,0.8234397689285192,1.6091037256120428
+2011-2015,DataType,Archival/Historical Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.662,2.0,0.8535130253748237,1.5676386419673116
+2011-2015,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.643,2.0,0.8137648390126064,1.6675579171576593
+2011-2015,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.62,2.0,0.8174767692529666,1.6881213655295464
+2011-2015,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.685,1.0,0.847639955106821,0.3716200470520566
+2011-2015,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Theoretical and Structural Models,0.655,1.0,0.7877789001970004,0.43794013766264317
+2011-2015,DataType,Linked Administrative Data,Measure,Non‐parametric Approaches,RqType,Empirical Estimates and Determinants,0.705,1.0,0.8801986990161652,0.3351515973946949
+2011-2015,DataType,Linked Administrative Data,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.662,1.0,0.8273091565070704,0.4085534377826161
+2011-2015,DataType,Linked Administrative Data,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.624,2.0,0.7728008936467538,1.78053624330948
+2011-2015,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.654,7.0,0.7777460310981272,8.159475903772671
+2011-2015,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Others_RqType,0.677,1.0,0.8656907186867724,0.37311246733704334
+2011-2015,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.72,1.0,0.862753930355779,0.324542132059062
+2011-2015,DataType,Linked Administrative Data,Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.654,1.0,0.8030746720753489,0.4308441195211002
+2011-2015,DataType,Linked Administrative Data,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.64,2.0,0.7880488696908465,1.7257812964486976
+2011-2015,DataType,Linked Administrative Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.623,1.0,0.762530296088262,0.4944065854615732
+2011-2015,DataType,National Survey Data,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.658,2.0,0.7960337113902085,1.6858582504707063
+2011-2015,DataType,National Survey Data,Measure,Decomposition / Structural Approaches,RqType,Perceptions of Mobility and Attitudes,0.702,2.0,0.8888115581977913,1.4603770484622232
+2011-2015,DataType,National Survey Data,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.664,1.0,0.7884958628462966,0.4261277906863251
+2011-2015,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.669,6.0,0.7987972690721202,6.673783457212451
+2011-2015,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.677,8.0,0.816907790597163,8.9642920342905
+2011-2015,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.627,1.0,0.8188660095165397,0.45550797769737694
+2011-2015,DataType,National Survey Data,Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.705,1.0,0.8358670191326332,0.35292695278983155
+2011-2015,DataType,National Survey Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.708,1.0,0.8529146870956459,0.34235545995147715
+2011-2015,DataType,Natural/Experimental Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.6,1.0,0.7826957343774225,0.5110542736229052
+2011-2015,DataType,No dataset,Measure,Absolute Mobility Measures,RqType,Measurement and Methodological Advances,0.646,2.0,0.7958123631342487,1.7014060885751638
+2011-2015,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.699,1.0,0.8456442006624973,0.35594165934584504
+2011-2015,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.7,2.0,0.8618252390959217,1.5084264663259754
+2011-2015,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.66,1.0,0.796890855158368,0.4266581775899925
+2011-2015,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Theoretical and Structural Models,0.686,4.0,0.8136744226446265,4.072882110794079
+2011-2015,DataType,No dataset,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.643,1.0,0.8113009362802494,0.4400340046898217
+2011-2015,DataType,No dataset,Measure,Others_Measure,RqType,Theoretical and Structural Models,0.609,2.0,0.785325242008517,1.771240660038423
+2011-2015,DataType,No dataset,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.635,6.0,0.7472170590486632,7.179975262918348
+2011-2015,DataType,No dataset,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.642,3.0,0.80528534351774,2.9281546211924256
+2011-2015,DataType,No dataset,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.601,2.0,0.7748544375554671,1.8055004039385838
+2011-2015,DataType,No dataset,Measure,Regression‐based Measures,RqType,Theoretical and Structural Models,0.61,2.0,0.7826317860351141,1.7760587096032354
+2011-2015,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Theoretical and Structural Models,0.643,1.0,0.8051081909900054,0.44341866595719653
+2011-2015,DataType,Opportunity Atlas,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.648,1.0,0.8165554254077079,0.4310791270834379
+2011-2015,DataType,Others_DataType,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.645,1.0,0.8328677378003477,0.42623814549183486
+2011-2015,DataType,Others_DataType,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.644,1.0,0.8074131011544933,0.4409143219139835
+2011-2015,DataType,Others_DataType,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.655,1.0,0.8028820708046853,0.429701960655598
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.68,1.0,0.8051386515676962,0.3974470724724539
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.685,1.0,0.8417146092848119,0.37423610868254875
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.599,2.0,0.7634014551870999,1.8352074003535046
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Decomposition / Structural Approaches,RqType,Measurement and Methodological Advances,0.648,1.0,0.8190035206070647,0.42979058226647093
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Multigenerational Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.638,1.0,0.8304490626436072,0.4359087345437281
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Non‐parametric Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.675,1.0,0.8294956678989126,0.39180433675225224
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Rank‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.602,1.0,0.7669316685234638,0.518951056964762
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.719,11.0,0.8418715743792208,12.212076417452394
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.636,18.0,0.7785307380637646,22.303550972418797
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.694,3.0,0.8408751816239264,2.7423808555588183
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.624,3.0,0.8278341073604719,2.8701402598351686
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.624,1.0,0.7843718756044478,0.4793644592499562
+2011-2015,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.683,1.0,0.8216971377497833,0.3857869103306166
+2011-2015,DataType,Pseudo-Panel/Household Budget Survey,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.688,1.0,0.805794828293968,0.38719533688317126
+2011-2015,DataType,Pseudo-Panel/Household Budget Survey,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.673,1.0,0.8226467940421015,0.3974974464961748
+2016-2020,DataType,Administrative/Registry Data,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.65,1.0,0.8355825501996784,0.41886944613235494
+2016-2020,DataType,Administrative/Registry Data,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.674,2.0,0.8052157303309297,1.6467636560639929
+2016-2020,DataType,Administrative/Registry Data,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.677,1.0,0.8132234209196956,0.39718482238830605
+2016-2020,DataType,Administrative/Registry Data,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.619,2.0,0.7709950930021756,1.7911916853096017
+2016-2020,DataType,Administrative/Registry Data,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.651,1.0,0.7834620685220266,0.4454587069650686
+2016-2020,DataType,Administrative/Registry Data,Measure,Others_Measure,RqType,"Policy, Institutional, and Geographic Impacts",0.639,1.0,0.7945503824870456,0.45434500814161494
+2016-2020,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.658,1.0,0.8010478622889382,0.42694078106988376
+2016-2020,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.682,1.0,0.8494690092037481,0.37435150259110456
+2016-2020,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.653,1.0,0.8302290529006319,0.41795694668556915
+2016-2020,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,0.636,1.0,0.8247327956278835,0.44135506909590083
+2016-2020,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.652,2.0,0.8231485732075186,1.637614452452151
+2016-2020,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.683,4.0,0.8204780217557227,4.0427652076554415
+2016-2020,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.642,5.0,0.7902281065998984,5.514863320606369
+2016-2020,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.658,2.0,0.8097479186090519,1.65730589626612
+2016-2020,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.675,4.0,0.8282880302534023,4.014304056745534
+2016-2020,DataType,Archival/Historical Data,Measure,Multigenerational Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.699,1.0,0.8142862285843118,0.36964888933871276
+2016-2020,DataType,Archival/Historical Data,Measure,Multigenerational Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.672,2.0,0.8031569342669346,1.6534751097082978
+2016-2020,DataType,Archival/Historical Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.712,1.0,0.8244608758065696,0.34931918354312425
+2016-2020,DataType,Archival/Historical Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.645,6.0,0.7807589798296172,6.8587107396044384
+2016-2020,DataType,International Panel Data,Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,0.639,1.0,0.7869550802290423,0.45873012204830216
+2016-2020,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.724,3.0,0.8523793466236442,2.6701726279683484
+2016-2020,DataType,Linked Administrative Data,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.66,1.0,0.7931135032446675,0.42869021723756157
+2016-2020,DataType,Linked Administrative Data,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.624,2.0,0.7753871453830179,1.774597384278659
+2016-2020,DataType,Linked Administrative Data,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.697,1.0,0.828176839133332,0.36586389003233005
+2016-2020,DataType,Linked Administrative Data,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.621,1.0,0.7949786103984124,0.4767423865782501
+2016-2020,DataType,Linked Administrative Data,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.711,3.0,0.8087849733601219,2.8301712759205695
+2016-2020,DataType,Linked Administrative Data,Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.633,1.0,0.7725981542224314,0.4750205498087956
+2016-2020,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.627,6.0,0.7851671716822397,6.843128691292859
+2016-2020,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.636,1.0,0.8125048702402737,0.44799731464053627
+2016-2020,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.676,3.0,0.8328971831611137,2.79026036704755
+2016-2020,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Theoretical and Structural Models,0.625,1.0,0.7713429652041756,0.48616506134950876
+2016-2020,DataType,Linked Administrative Data,Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.647,1.0,0.8228414598621463,0.4290012319738232
+2016-2020,DataType,National Survey Data,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.684,1.0,0.811666682082493,0.389322374535861
+2016-2020,DataType,National Survey Data,Measure,Absolute Mobility Measures,RqType,Perceptions of Mobility and Attitudes,0.628,1.0,0.790088754660032,0.4708331789383184
+2016-2020,DataType,National Survey Data,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.651,1.0,0.8023981822280275,0.434946149841626
+2016-2020,DataType,National Survey Data,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.682,1.0,0.8207006455154946,0.3874738027045894
+2016-2020,DataType,National Survey Data,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.662,1.0,0.8297255235585105,0.4073636285773062
+2016-2020,DataType,National Survey Data,Measure,Others_Measure,RqType,Perceptions of Mobility and Attitudes,0.671,1.0,0.8339391191534634,0.39451321138882395
+2016-2020,DataType,National Survey Data,Measure,Rank‐based Measures,RqType,Perceptions of Mobility and Attitudes,0.674,1.0,0.8114076548704618,0.40177092000943054
+2016-2020,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.659,8.0,0.8339151122353009,8.803054282494683
+2016-2020,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.596,7.0,0.7703099229384089,8.313536940523145
+2016-2020,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.695,1.0,0.8334684575133421,0.36594066308156314
+2016-2020,DataType,National Survey Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.657,1.0,0.812410617244144,0.4222002922161741
+2016-2020,DataType,Natural/Experimental Data,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.61,1.0,0.757940943922727,0.5145519622961033
+2016-2020,DataType,Natural/Experimental Data,Measure,Others_Measure,RqType,Perceptions of Mobility and Attitudes,0.654,1.0,0.8227763736040073,0.4205273888510145
+2016-2020,DataType,Natural/Experimental Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.62,1.0,0.7888106377466154,0.4817379251952545
+2016-2020,DataType,No dataset,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.62,2.0,0.7862685407786694,1.7551255435367379
+2016-2020,DataType,No dataset,Measure,Absolute Mobility Measures,RqType,Measurement and Methodological Advances,0.668,1.0,0.7939813640170696,0.418145834456717
+2016-2020,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.623,3.0,0.7870771820415647,3.020034190083372
+2016-2020,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.658,1.0,0.8134480301148302,0.42043251361948913
+2016-2020,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Theoretical and Structural Models,0.686,4.0,0.8050168023414495,4.116684260950818
+2016-2020,DataType,No dataset,Measure,Non‐parametric Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.643,1.0,0.8026177142296295,0.44479456866044453
+2016-2020,DataType,No dataset,Measure,Non‐parametric Approaches,RqType,Measurement and Methodological Advances,0.679,1.0,0.8262213030669456,0.38851576303884106
+2016-2020,DataType,No dataset,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.628,1.0,0.783728416117618,0.4746542199436751
+2016-2020,DataType,No dataset,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.664,1.0,0.8269146194062528,0.4063297372118746
+2016-2020,DataType,No dataset,Measure,Others_Measure,RqType,Measurement and Methodological Advances,0.675,2.0,0.8355076738564842,1.585862154783268
+2016-2020,DataType,No dataset,Measure,Others_Measure,RqType,Theoretical and Structural Models,0.686,1.0,0.8462388079733287,0.37105365180781974
+2016-2020,DataType,No dataset,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.634,3.0,0.7865511189125999,3.0080689520485007
+2016-2020,DataType,No dataset,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.637,2.0,0.7911111532881184,1.7228931665732725
+2016-2020,DataType,No dataset,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.648,5.0,0.8165554254077079,5.329705571213414
+2016-2020,DataType,No dataset,Measure,Regression‐based Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.618,1.0,0.7903800988769268,0.4833117642293809
+2016-2020,DataType,No dataset,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.636,1.0,0.8050789726183091,0.4521295579440922
+2016-2020,DataType,No dataset,Measure,Regression‐based Measures,RqType,Theoretical and Structural Models,0.681,1.0,0.8269963258219004,0.3857332735825224
+2016-2020,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.64,1.0,0.7674561805008733,0.4690821562803094
+2016-2020,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.638,1.0,0.8412274743870791,0.4303235581597644
+2016-2020,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Measurement and Methodological Advances,0.605,1.0,0.7947368159375823,0.4970198839146554
+2016-2020,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Theoretical and Structural Models,0.653,1.0,0.7995187491424014,0.43401108525873505
+2016-2020,DataType,Opportunity Atlas,Measure,Absolute Mobility Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.642,1.0,0.7876905842121362,0.45449318193650706
+2016-2020,DataType,Others_DataType,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.674,1.0,0.8309117970124233,0.39234007890145023
+2016-2020,DataType,Others_DataType,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.657,1.0,0.8111775446898226,0.42284207969681414
+2016-2020,DataType,Others_DataType,Measure,Non‐parametric Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.634,1.0,0.799176252576791,0.45797156612186984
+2016-2020,DataType,Others_DataType,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.659,1.0,0.8218238219925208,0.414930780630381
+2016-2020,DataType,Others_DataType,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.658,2.0,0.8519165227660288,1.5752717128231686
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.658,1.0,0.8047879743657231,0.42495664807807315
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.685,1.0,0.8535241669123983,0.369058091394769
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.68,2.0,0.7824399096494326,1.6870305102297476
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.663,1.0,0.8124599012204178,0.41478970161331435
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.625,5.0,0.813041226529157,5.381030945597573
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Non‐parametric Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.625,1.0,0.7880329916926042,0.47586840139083914
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Others_Measure,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.706,1.0,0.841589135072615,0.3493391106749884
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,0.662,1.0,0.815119881011634,0.4146629322554528
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.683,1.0,0.8265556207504696,0.3835192599769395
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.658,15.0,0.8122165325180815,17.657852833327695
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.657,10.0,0.7861100234502605,11.885104783416057
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.681,5.0,0.8209219895415842,5.26115764350739
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.665,2.0,0.8576190940682877,1.5566351183567526
+2016-2020,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.605,2.0,0.784595813518394,1.7779855257503177
+2016-2020,DataType,University/Institution Data,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.662,1.0,0.8089563711414913,0.41782228567290897
+2016-2020,DataType,University/Institution Data,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.656,1.0,0.8522853925712855,0.4036206686145071
+2021-2025,DataType,Administrative/Registry Data,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.663,1.0,0.8614947319474293,0.39118056965734826
+2021-2025,DataType,Administrative/Registry Data,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.667,1.0,0.807937970245095,0.41216035421504144
+2021-2025,DataType,Administrative/Registry Data,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.682,1.0,0.8021966838123425,0.39641151156190707
+2021-2025,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.655,7.0,0.8189295730681886,7.74791900142026
+2021-2025,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.649,5.0,0.7939958623503207,5.479877422938364
+2021-2025,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,0.674,2.0,0.8333177175714065,1.591229817919209
+2021-2025,DataType,Administrative/Registry Data,Measure,Rank‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.648,1.0,0.8128694586197446,0.4330338608092095
+2021-2025,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.619,6.0,0.7683940586895693,7.0029172390750105
+2021-2025,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.636,5.0,0.7707775931473995,5.661814820251854
+2021-2025,DataType,Administrative/Registry Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.645,2.0,0.7909491770022905,1.7131315631877522
+2021-2025,DataType,Administrative/Registry Data,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.685,1.0,0.8248972393307274,0.3818657463996027
+2021-2025,DataType,Administrative/Registry Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.684,1.0,0.8490376109836743,0.37218610331512886
+2021-2025,DataType,Archival/Historical Data,Measure,Multigenerational Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.72,1.0,0.8673824717806745,0.3228103046919774
+2021-2025,DataType,Archival/Historical Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.619,2.0,0.7914957141169279,1.7447978243833984
+2021-2025,DataType,Big Data,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.684,2.0,0.8478578081629389,1.5521470550013436
+2021-2025,DataType,Big Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.71,1.0,0.8664009756750338,0.3347179979501455
+2021-2025,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.652,1.0,0.7959456825245863,0.4372157643926292
+2021-2025,DataType,International Panel Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.641,1.0,0.8299444606766212,0.4325590651057799
+2021-2025,DataType,Linked Administrative Data,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.637,5.0,0.8049092364228894,5.420486935135297
+2021-2025,DataType,Linked Administrative Data,Measure,Absolute Mobility Measures,RqType,Measurement and Methodological Advances,0.667,1.0,0.8091759794789795,0.4115297641613329
+2021-2025,DataType,Linked Administrative Data,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.701,3.0,0.8685351768082588,2.646985477834637
+2021-2025,DataType,Linked Administrative Data,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.685,1.0,0.8027573851540821,0.39239751116028476
+2021-2025,DataType,Linked Administrative Data,Measure,Others_Measure,RqType,"Policy, Institutional, and Geographic Impacts",0.648,1.0,0.7737536395356694,0.4549251622405752
+2021-2025,DataType,Linked Administrative Data,Measure,Rank‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.644,1.0,0.7508846967596475,0.47410741161229564
+2021-2025,DataType,Linked Administrative Data,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.676,1.0,0.8244414495303495,0.3929933413519777
+2021-2025,DataType,Linked Administrative Data,Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.643,4.0,0.7887795466245136,4.255941998453022
+2021-2025,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.639,7.0,0.7728365132913145,8.230718775061643
+2021-2025,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.642,9.0,0.7927575067222413,10.542946524161259
+2021-2025,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.672,1.0,0.8397149046677218,0.3906087627797803
+2021-2025,DataType,Linked Administrative Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.638,2.0,0.8146285163309838,1.6719277225088192
+2021-2025,DataType,Linked Administrative Data,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.71,1.0,0.8441638541258519,0.3435352018244144
+2021-2025,DataType,National Survey Data,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.66,1.0,0.8337236323237426,0.40780899907125917
+2021-2025,DataType,National Survey Data,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.685,1.0,0.8345486633333443,0.3774495291165295
+2021-2025,DataType,National Survey Data,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.717,1.0,0.8483104565137876,0.333604281106018
+2021-2025,DataType,National Survey Data,Measure,Others_Measure,RqType,Perceptions of Mobility and Attitudes,0.652,1.0,0.8059438848614372,0.43179184870895854
+2021-2025,DataType,National Survey Data,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.67,1.0,0.8244875861890097,0.4002485974656616
+2021-2025,DataType,National Survey Data,Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,0.652,1.0,0.7664747115746764,0.4540267209665076
+2021-2025,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.675,1.0,0.8331080776640382,0.3901054481565842
+2021-2025,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.595,5.0,0.7493574157480104,5.878369797145356
+2021-2025,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.666,5.0,0.8031743827395699,5.396088437503495
+2021-2025,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,Perceptions of Mobility and Attitudes,0.689,1.0,0.8443885314190334,0.3683138607737251
+2021-2025,DataType,National Survey Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.705,1.0,0.8358670191326332,0.35292695278983155
+2021-2025,DataType,Natural/Experimental Data,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.664,1.0,0.8305382554667748,0.40455692171718566
+2021-2025,DataType,Natural/Experimental Data,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.657,1.0,0.801244652395879,0.42808398031033656
+2021-2025,DataType,Natural/Experimental Data,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.623,1.0,0.7599002884908312,0.4961177219036531
+2021-2025,DataType,Natural/Experimental Data,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.641,1.0,0.8153427400693427,0.44030563143233237
+2021-2025,DataType,Natural/Experimental Data,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.668,1.0,0.8212493229528111,0.40426212932059447
+2021-2025,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Intergenerational Wealth Mobility and Inheritance,0.668,3.0,0.8151321613336333,2.860885768737952
+2021-2025,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,"Policy, Institutional, and Geographic Impacts",0.674,1.0,0.8260789347310622,0.39463541108953754
+2021-2025,DataType,No dataset,Measure,Decomposition / Structural Approaches,RqType,Theoretical and Structural Models,0.611,5.0,0.8039436082993169,5.459338136022506
+2021-2025,DataType,No dataset,Measure,Non‐parametric Approaches,RqType,Measurement and Methodological Advances,0.623,1.0,0.8084086370917398,0.4663483079006457
+2021-2025,DataType,No dataset,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.656,1.0,0.8175159523411958,0.4207868959802625
+2021-2025,DataType,No dataset,Measure,Others_Measure,RqType,Theoretical and Structural Models,0.656,1.0,0.8126034237709834,0.42333072927951354
+2021-2025,DataType,No dataset,Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.665,1.0,0.8145173039527389,0.41128653544165567
+2021-2025,DataType,No dataset,Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,0.642,1.0,0.8040413437644128,0.4452507358936201
+2021-2025,DataType,No dataset,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.685,4.0,0.8333483482130802,3.977928326261447
+2021-2025,DataType,No dataset,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.66,4.0,0.8155152144902418,4.095570432843182
+2021-2025,DataType,No dataset,Measure,Regression‐based Measures,RqType,Theoretical and Structural Models,0.62,4.0,0.7963882434053344,4.244161096034281
+2021-2025,DataType,No dataset,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.657,1.0,0.787382353733541,0.4356206338300477
+2021-2025,DataType,Opportunity Atlas,Measure,Rank‐based Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.629,1.0,0.7797223653115042,0.475810386497998
+2021-2025,DataType,Opportunity Atlas,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.658,1.0,0.7743614373376528,0.4416542243836894
+2021-2025,DataType,Opportunity Atlas,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.702,1.0,0.8401796842949143,0.3546860339167616
+2021-2025,DataType,Opportunity Atlas,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.707,1.0,0.8389605800363059,0.3492416771087391
+2021-2025,DataType,Opportunity Atlas,Measure,Transition Matrix / Probability Measures,RqType,Empirical Estimates and Determinants,0.649,1.0,0.7927341467525083,0.44277138992674453
+2021-2025,DataType,Others_DataType,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.608,1.0,0.7981058657678021,0.4911629106031994
+2021-2025,DataType,Others_DataType,Measure,Multigenerational Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.704,1.0,0.8142770087918774,0.3635126582281476
+2021-2025,DataType,Others_DataType,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.657,1.0,0.8234251811968281,0.4165527212824096
+2021-2025,DataType,Others_DataType,Measure,Rank‐based Measures,RqType,Measurement and Methodological Advances,0.675,1.0,0.8331080776640382,0.3901054481565842
+2021-2025,DataType,Others_DataType,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.652,2.0,0.8267887151984958,1.6304044494322487
+2021-2025,DataType,Others_DataType,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.654,1.0,0.7892445165516876,0.43839392323144566
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Empirical Estimates and Determinants,0.67,1.0,0.8147169838439382,0.4050486322784362
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.669,1.0,0.8198238293140248,0.4037452781495254
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Absolute Mobility Measures,RqType,"Mobility and Non-Income Outcomes (Health, Wellbeing, etc.)",0.633,1.0,0.7867209987854207,0.4664932047912703
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Decomposition / Structural Approaches,RqType,Empirical Estimates and Determinants,0.649,1.0,0.8114539157940255,0.43255691194310003
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Others_Measure,RqType,Empirical Estimates and Determinants,0.701,1.0,0.8344431048881015,0.35832281224265833
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Others_Measure,RqType,Intergenerational Wealth Mobility and Inheritance,0.678,1.0,0.8312683122837097,0.3873598875859738
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Others_Measure,RqType,Measurement and Methodological Advances,0.683,1.0,0.8192570916276417,0.38693592431431617
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Rank‐based Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.686,1.0,0.845055097681872,0.3715734049310567
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Rank‐based Measures,RqType,Empirical Estimates and Determinants,0.628,1.0,0.7900887546600319,0.47083317893831844
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.652,1.0,0.7794251109012997,0.44648292072292234
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Empirical Estimates and Determinants,0.635,12.0,0.7901894705698118,14.3826264754004
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.594,9.0,0.775735628784553,10.836165941186414
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,Measurement and Methodological Advances,0.673,3.0,0.8371211213269987,2.779765007375821
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Regression‐based Measures,RqType,"Policy, Institutional, and Geographic Impacts",0.662,2.0,0.817572274740542,1.6365525609642484
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,"Demographic Differences in Mobility (Race, Gender, etc.)",0.655,2.0,0.8262309953382635,1.627874054094702
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.626,1.0,0.7737717510498318,0.48334667102096623
+2021-2025,DataType,Panel/Longitudinal Surveys,Measure,Transition Matrix / Probability Measures,RqType,Measurement and Methodological Advances,0.684,1.0,0.8165848460575367,0.38697754621047004
+2021-2025,DataType,University/Institution Data,Measure,Rank‐based Measures,RqType,Intergenerational Wealth Mobility and Inheritance,0.65,1.0,0.775952383914182,0.45105860521295715
