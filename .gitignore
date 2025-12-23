@@ -7,7 +7,6 @@ paper_extraction/
 
 conferences/
 
-old/
+old_notebooks/
 data_abstracts/
-results/Extended_Abstracts_ICSSI/
-results/unused/
+results/Extra/

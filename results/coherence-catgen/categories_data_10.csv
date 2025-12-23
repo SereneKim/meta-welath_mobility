@@ -1,9 +1,0 @@
-category,ids
-US Panel Survey Data,"['853', '862', '869', '870', '873', '876', '879', '883', '886', '888']"
-US Administrative Data,"['872', '877', '868']"
-European Register/Survey Data,"['849', '875', '881', '863', '882', '889']"
-Chinese Surveys,"['860', '864', '878']"
-Other Country-Specific Data,"{'Brazil': ['847', '884'], 'Taiwan': ['848'], 'Japan': ['880'], 'Russia': ['885'], 'Canada': ['887'], 'Australia': ['851'], 'Pakistan': ['767']}"
-Global/International Datasets,['856']
-No dataset,[]
-Others,[]
