@@ -1,3 +1,3 @@
-# meta-welath_mobility
-Under the `notebooks` folder: More or less organized </br>
-Jupyter notebooks outside the folder: To be organized! :)
+# LLM-empowered Content-Level Knowledge Graph for Knowledge Exploration
+
+All the necessary data for replicating the figures are in `results/feature-only-KG/dfs_used.zip`.
