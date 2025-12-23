@@ -6,6 +6,9 @@ import pandas as pd
 import re
 import unicodedata
 
+def cm_to_px(cm, dpi=96):
+    return int(cm * dpi / 2.54)
+
 def norm(s):
     if pd.isna(s): return s
     s = unicodedata.normalize("NFKC", str(s))
